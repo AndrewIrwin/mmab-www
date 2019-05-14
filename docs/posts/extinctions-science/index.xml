@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on extinction rates published in Science on Marine Macroecology and Biogeochemistry Lab</title>
-    <link>/posts/extinctions-science/</link>
+    <link>https://AndrewIrwin.github.io/mmab-www/posts/extinctions-science/</link>
     <description>Recent content in Research on extinction rates published in Science on Marine Macroecology and Biogeochemistry Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 04 May 2015 09:58:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/extinctions-science/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://AndrewIrwin.github.io/mmab-www/posts/extinctions-science/" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visitors on Marine Macroecology and Biogeochemistry Lab</title>
-    <link>/tags/visitors/</link>
+    <link>https://AndrewIrwin.github.io/mmab-www/tags/visitors/</link>
     <description>Recent content in Visitors on Marine Macroecology and Biogeochemistry Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Aug 2017 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/visitors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://AndrewIrwin.github.io/mmab-www/tags/visitors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visitors from TAMUG</title>
-      <link>/posts/tamug-visit-day-trip/</link>
+      <link>https://AndrewIrwin.github.io/mmab-www/posts/tamug-visit-day-trip/</link>
       <pubDate>Tue, 01 Aug 2017 12:00:00 +0000</pubDate>
       
-      <guid>/posts/tamug-visit-day-trip/</guid>
+      <guid>https://AndrewIrwin.github.io/mmab-www/posts/tamug-visit-day-trip/</guid>
       <description>Sam Setta and Laura Bretherton visited our lab for a week to work on bioinformatic analysis of some GOMRI experiments.
 We always try to be good hosts for our visitors &amp;ndash; this time in addition to lots of hard work this incldued a trip to Hopewell Rocks and Cora&amp;rsquo;s, a favourite local breakfast place.</description>
     </item>
     
     <item>
       <title>Research meeting</title>
-      <link>/posts/gbmf/</link>
+      <link>https://AndrewIrwin.github.io/mmab-www/posts/gbmf/</link>
       <pubDate>Thu, 11 Jun 2015 12:00:00 +0000</pubDate>
       
-      <guid>/posts/gbmf/</guid>
+      <guid>https://AndrewIrwin.github.io/mmab-www/posts/gbmf/</guid>
       <description>Gordon and Betty Moore Foundation meeting held at Mount Allison University in Sackville</description>
     </item>
     

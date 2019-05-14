@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visitors from TAMUG on Marine Macroecology and Biogeochemistry Lab</title>
-    <link>/posts/tamug-visit-day-trip/</link>
+    <link>https://AndrewIrwin.github.io/mmab-www/posts/tamug-visit-day-trip/</link>
     <description>Recent content in Visitors from TAMUG on Marine Macroecology and Biogeochemistry Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 01 Aug 2017 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/tamug-visit-day-trip/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://AndrewIrwin.github.io/mmab-www/posts/tamug-visit-day-trip/" rel="self" type="application/rss+xml" />
     
     
   </channel>

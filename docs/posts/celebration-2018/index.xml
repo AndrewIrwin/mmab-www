@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MMaB Lab party on Marine Macroecology and Biogeochemistry Lab</title>
-    <link>/posts/celebration-2018/</link>
+    <link>https://AndrewIrwin.github.io/mmab-www/posts/celebration-2018/</link>
     <description>Recent content in MMaB Lab party on Marine Macroecology and Biogeochemistry Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 19 Apr 2018 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/celebration-2018/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://AndrewIrwin.github.io/mmab-www/posts/celebration-2018/" rel="self" type="application/rss+xml" />
     
     
   </channel>

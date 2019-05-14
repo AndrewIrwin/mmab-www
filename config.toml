@@ -1,4 +1,7 @@
-baseurl = "/"
+# baseurl = "/"
+baseurl = "https://AndrewIrwin.github.io/mmab-www/"
+publishDir = "docs"
+
 title = "Marine Macroecology and Biogeochemistry Lab"
 author = "Andrew Irwin"
 googleAnalytics = ""
