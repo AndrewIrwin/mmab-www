@@ -1,0 +1,96 @@
+]0;~/Dropbox/new-web-site/mmab4[?1034hAndrews-Mac-mini:mmab4 airwin$ [KAndrews-Mac-mini:mmab4 airwin$ ls ../[K[K[K[K[K[Kls content/post
+2015-07-23-r-rmarkdown.Rmd	2015-07-23-r-rmarkdown.html
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls content/posts
+16-things-free-songs.md		_index.md			bad-architects.md		game-websites			preventative-medicines.md
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls ../mmab2/content/
+benner-argosy.md	crc-A.md		faulker-seawater.md	honours-2018.md		pnas.md			shift-shuffle.md
+bradet-legris-promo.md	extinctions-science.md	gbmf.md			images			postdoc1.md		tamug-visit-day-trip.md
+celebration-2018.md	extras			gomri.md		pages			pubs
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ cp ../mmab2/content/*md content/posts/.
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls
+archetypes	config.toml	content		data		index.Rmd	layouts		mmab4.Rproj	public		resources	static		themes
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ cd con
+bash: cd: con: No such file or directory
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ cd content/
+]0;~/Dropbox/new-web-site/mmab4/contentAndrews-Mac-mini:content airwin$ ls
+_index.md		contact			images.md		opportunities.md	publications.md
+about.md		contact.md		members.md		posts			sections
+]0;~/Dropbox/new-web-site/mmab4/contentAndrews-Mac-mini:content airwin$ mkdir Publications
+]0;~/Dropbox/new-web-site/mmab4/contentAndrews-Mac-mini:content airwin$ cd Publications/
+]0;~/Dropbox/new-web-site/mmab4/content/PublicationsAndrews-Mac-mini:Publications airwin$ mv .../p[K[K[K/publications.md  _index.md
+]0;~/Dropbox/new-web-site/mmab4/content/PublicationsAndrews-Mac-mini:Publications airwin$ mv _index.md ../publications.,md[K[K[Kmnd[K[Kd
+]0;~/Dropbox/new-web-site/mmab4/content/PublicationsAndrews-Mac-mini:Publications airwin$ p[Kls
+]0;~/Dropbox/new-web-site/mmab4/content/PublicationsAndrews-Mac-mini:Publications airwin$ mv [K[K[Kcp -r ../../../mmab3[K2/content/pubs/[K .
+]0;~/Dropbox/new-web-site/mmab4/content/PublicationsAndrews-Mac-mini:Publications airwin$ cd ..
+]0;~/Dropbox/new-web-site/mmab4/contentAndrews-Mac-mini:content airwin$ mv piu[K[K[KPublications/[K publications
+]0;~/Dropbox/new-web-site/mmab4/contentAndrews-Mac-mini:content airwin$ ls publicationsp[K/[[Kpubs/li
+liefer-2019-fmicb-10-00763.pdf  light-size-2001-lo-46-0086.pdf  
+Andrews-Mac-mini:content airwin$ ls publications/pubs/liefer-2019-fmicb-10-00763.pdf 
+publications/pubs/liefer-2019-fmicb-10-00763.pdf
+]0;~/Dropbox/new-web-site/mmab4/contentAndrews-Mac-mini:content airwin$ pwd 
+/Users/airwin/Dropbox/new-web-site/mmab4/content
+]0;~/Dropbox/new-web-site/mmab4/contentAndrews-Mac-mini:content airwin$ ;s[K[Kpwd
+/Users/airwin/Dropbox/new-web-site/mmab4/content
+]0;~/Dropbox/new-web-site/mmab4/contentAndrews-Mac-mini:content airwin$ cd ..
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls
+archetypes	config.toml	content		data		index.Rmd	layouts		mmab4.Rproj	public		resources	static		themes
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls public/
+404.html	categories	css		images		index.xml	logo.svg	opportunities	posts		sections	tags
+about		contact		favicon.ico	index.html	js		members		post		publications	sitemap.xml
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls public/publications/
+index.html	index.xml	page
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls public/publications/[Kls[K[Kls [in[K[K[K[ub[K[K[Kpublic/m[Kimages/
+Stephanopyxis_turris_banner.jpg	diatom.jpg			index.html			index.xml			undraw_freelancer_b0my.svg
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ pw[K[Kls
+archetypes	config.toml	content		data		index.Rmd	layouts		mmab4.Rproj	public		resources	static		themes
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls data/
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ mv content/publicationsp[K/pubs/[K data.[K/.
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls data/
+pubs
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls public/
+404.html	categories	css		images		index.xml	logo.svg	opportunities	posts		sections	tags
+about		contact		favicon.ico	index.html	js		members		post		publications	sitemap.xml
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls [K[K[Kpwd
+/Users/airwin/Dropbox/new-web-site/mmab4
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ ls 
+archetypes	config.toml	content		data		index.Rmd	layouts		mmab4.Rproj	public		resources	static		themes
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ mkdir st[Kcd [Kls ..d[K[K[Kdata/
+pubs
+]0;~/Dropbox/new-web-site/mmab4Andrews-Mac-mini:mmab4 airwin$ cd d[Kstatic/
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ s
+bash: s: command not found
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ ls
+post
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$  mv ../data/pa[Kubs/ [K[K .
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ ls
+post	pubs
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ ls post
+2015-07-23-r-rmarkdown_files
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ more o[Kpost/2015-07-23-r-rmarkdown_files/
+post/2015-07-23-r-rmarkdown_files/ is a directory
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ more post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kls
+post	pubs
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ pwd
+/Users/airwin/Dropbox/new-web-site/mmab4/static
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ ls ../../mmab2/content/
+benner-argosy.md	crc-A.md		faulker-seawater.md	honours-2018.md		pnas.md			shift-shuffle.md
+bradet-legris-promo.md	extinctions-science.md	gbmf.md			images			postdoc1.md		tamug-visit-day-trip.md
+celebration-2018.md	extras			gomri.md		pages			pubs
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ ls ../../mmab2/content/images/
+312-20x-dark.JPG				Stephanopyxis_turris_2.JPG			diatom.jpg					people
+CCMP 1010_2.JPG					Stephanopyxis_turris_banner.jpg			field-day-2017-07-06				phyto
+CCMP-312-1.JPG					benner-argosy-2015.pdf				fossils.jpg					pnas
+Capture_00307.JPG				bradet-legris-story-2017.pdf			hopewell-rocks-2017.jpg				sally-rosie-mirelle-2018-06-P6100052.jpg
+Finnegan-Science_photo_montage_web.jpg		ccmp1583side.png				labgroup-2-2018-april.jpg			seawifs-white-128.png
+GBMF-joggins-2015-June.JPG			coras-2017.jpg					labgroup-2018-april.jpg
+Stephanopyxis-sp.png				cover-centric-diatoms-200x200.tiff		newfoundland_-coccos-ose2002210_lrg.jpg
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ ls ../../mmab2/content/images/[K imafe[K[K[K[K[K.[C[C[1P[1P[1@c[1@p[C[1@ [1@-[1@r
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ ls images/
+312-20x-dark.JPG				Stephanopyxis_turris_2.JPG			diatom.jpg					people
+CCMP 1010_2.JPG					Stephanopyxis_turris_banner.jpg			field-day-2017-07-06				phyto
+CCMP-312-1.JPG					benner-argosy-2015.pdf				fossils.jpg					pnas
+Capture_00307.JPG				bradet-legris-story-2017.pdf			hopewell-rocks-2017.jpg				sally-rosie-mirelle-2018-06-P6100052.jpg
+Finnegan-Science_photo_montage_web.jpg		ccmp1583side.png				labgroup-2-2018-april.jpg			seawifs-white-128.png
+GBMF-joggins-2015-June.JPG			coras-2017.jpg					labgroup-2018-april.jpg
+Stephanopyxis-sp.png				cover-centric-diatoms-200x200.tiff		newfoundland_-coccos-ose2002210_lrg.jpg
+]0;~/Dropbox/new-web-site/mmab4/staticAndrews-Mac-mini:static airwin$ 

@@ -1,0 +1,20 @@
+---
+title: "Read gradients2 data from dashboard files"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(tidyverse)
+library(lubridate)
+library(purrr)
+```
+
+Data are in csv files, one variable per file, downloaded from the grafana dashboard at gradientscruise.org. The files are for gradients2.
+
+```{r}
+fl = list.files()
+
+
+```

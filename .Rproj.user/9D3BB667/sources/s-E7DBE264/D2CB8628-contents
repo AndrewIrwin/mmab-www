@@ -1,0 +1,118 @@
+baseurl = "/"
+title = "Marine Macroecology and Biogeochemistry Lab"
+author = "Andrew Irwin"
+googleAnalytics = ""
+defaultContentLanguage = "en"
+language = "en-US"
+paginate = 5 # Number of posts per page
+theme = "hugo-terrassa-theme"
+
+[blackfriday]
+   fractions = false
+
+[menu]
+  [[menu.main]]
+    identifier = "Members"
+    name = "Lab Members"
+    url = "/members"
+    weight = 1
+  [[menu.main]]
+    identifier = "Publications"
+    name = "Publications"
+    url = "/publications"
+    weight = 1
+  [[menu.main]]
+    identifier = "Opportunities"
+    name = "Opportunities"
+    url = "/opportunities"
+    weight = 2
+
+[outputs]
+    home = ["HTML", "RSS"]
+    page = ["HTML", "RSS"]
+
+[params]
+    description = "The Marine Macroecology and Biogeochemistry Lab is led by Zoe Finkel and Andrew Irwin at Dalhousie University."
+    favicon = "favicon.ico" # Relative URL
+    logo = "" # Absolute URL
+
+[params.hero]
+    textColor = "#000000" # Empty for default color
+
+[params.cta] # Call To Action 
+    show = true
+    cta = "Contact"
+    link = "contact" # Relative URL
+
+[params.separator] # Separators between sections on the home page
+    show = false
+
+[params.fa] # Font Awesome options
+    version = "5.7.2"
+    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
+
+[params.form] # Contact form
+    netlify = true # Use only if you are using Netlify
+    action = "https://formspree.io/a.irwin@dal.ca"
+    method = "POST"
+    inputNameName = "name"
+    inputNameLabel = "Name"
+    inputNamePlaceholder = "Your name"
+    inputEmailName = "email"
+    inputEmailLabel = "Email"
+    inputEmailPlaceholder = "Your email"
+    inputMsgName = "message"
+    inputMsgLabel = "Write something"
+    inputMsgLength = 750
+    inputSubmitValue = "Send"
+
+[params.posts]
+    showAuthor = false
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, 01 January 2006"
+
+[params.contact] # Contact info
+    email = "a.irwin@dal.ca"
+    phone = "+1 506 364 5747"
+    skype = ""
+    address = "Halifax, NS Canada"
+
+[params.social] # Social networks
+    twitter = ""
+    facebook = ""
+    github = ""
+    gitlab = ""
+    codepen = ""
+    instagram = ""
+    pinterest = ""
+    youtube = ""
+    linkedin = ""
+    weibo = ""
+    mastodon = ""
+    tumblr = ""
+    flickr = ""
+    "500px" = ""
+
+[params.copy] # Copyright
+    copy = "" # Empty for default content
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = false
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
