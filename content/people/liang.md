@@ -1,0 +1,15 @@
+Title: Dr Yue Liang
+Status: hidden
+
+<span style="float:right">
+![Photo]({photo}people/liang.png)
+</span>
+
+
+I am interested in understanding physiological and biochemical responses in microalgae to environmental changes using systemic biological approaches. 
+
+Presently I am working on RNA-seq based transcriptomic analyses on two closely related diatom strains cultured under three different temperatures. 
+
+For my PhD, I studied useful natural microalgal lipids on several aspects including structural characterization, biosynthesis pathway identification, and investigation of their metabolic regulation under stressed conditions at Tokyo University of Agriculture and Technology in Japan. I continued this study during a postdoc at the same lab.
+
+

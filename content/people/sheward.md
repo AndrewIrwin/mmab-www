@@ -1,0 +1,22 @@
+Title: Rosie Sheward
+Status: hidden
+
+<span style="float:right">
+![Photo]({photo}people/rsheward.jpg)
+</span>
+
+My main interest is in the evolution of coccolithophores (unicellular,
+calcite-producting phytoplankton). My research combines the study
+of both extinct and living phytoplankton to establish direct links
+between fossilized phytoplankton remains and present-day species
+and communities, bringing together approaches and datasets from the
+traditionally separate fields of phycology and micropaleontology.
+
+I am presently investigating cellular stoichiometry and macromolecular
+composition in coccolithophores. This contributes to the wider
+research of lab members into the interactions between cellular
+resource requirements, resource availability, competitive species
+interactions, and biogeochemical cycles that ultimately drive the
+evolution of phytoplankton communities under climate change.
+
+

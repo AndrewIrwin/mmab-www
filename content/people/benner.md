@@ -1,0 +1,15 @@
+Title: Dr Ina Benner
+Status: hidden
+
+<span style="float:right">
+![Photo]({photo}people/benner.png)
+</span>
+
+I am interested in understanding how single cell organisms can evolve to changes in climate. 
+
+Presently I am determining the potential of arctic phytoplankton to evolve to changing temperature.
+
+For my PhD I worked on the utilization of organic nutrients in phytoplankton at the Alfred Wegner Institute in Bremerhaven, Germany. I've also worked at the Romberg Tiburon Center for Environmental Studies in San Francisco on the adaptation of calcifying phytoplankton to temperature and carbon dioxide concentration.
+
+
+

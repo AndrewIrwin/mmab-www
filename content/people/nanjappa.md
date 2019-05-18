@@ -1,0 +1,22 @@
+Title: Dr Deepak Nanjappa
+Status: hidden
+
+<span style="float:right">
+![Photo]({photo}people/dnanjappa.jpg)
+</span>
+
+My research interests are in molecular biology and functional
+ecology, especially using omics-based methods to understand how
+microbial systems respond to changing conditions. I am particularly
+interested in studying gene expression and metabolic pathway, and
+how their modulation help cells to maintain homeostasis.
+
+My current work involves the study of effects of crude oil spill
+on phytoplankton community. This involves the analysis of
+metatranscriptomic data generated during the mesocosm experiments,
+conducted with natural phytoplankton assemblages and seawater. The
+study will help to decipher the modulations in gene expression and
+the metabolic pathways to understand the overall effect of crude
+oil and the various strategies cells employ to overcome.
+
+

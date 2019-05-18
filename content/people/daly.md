@@ -1,0 +1,9 @@
+Title: Margaux Daly
+Status: hidden
+
+<span style="float:right">
+![Photo]({photo}people/daly.png)
+</span>
+
+I am interested in understanding how phytoplankton respond to changing arctic conditions. I am currently working to understand how changes in environmental conditions such as light and temperature influence the evolutionary potential of Arctic and Antarctic _Phaeocystis_ species. 
+

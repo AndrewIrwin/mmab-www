@@ -1,0 +1,14 @@
+Title: Susan Sharpe
+Status: hidden
+
+<span style="float:right">
+![Photo]({photo}people/ssharpe.jpg)
+</span>
+
+I started out in the lab doing a honours project on the metabolic
+size scaling of Ditylum brightwellii (2009 to 2011). I completed a
+MSc at Dal examining the transition from unicellular organisms to
+multicellular organisms using bioinformatics laboratory experiments.
+Presently I maintain cultures and equipment and assist with various
+research projects.
+

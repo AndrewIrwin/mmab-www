@@ -1,0 +1,24 @@
+Title: Dr Niall McGinty
+Status: hidden
+
+<span style="float:right">
+![Photo]({photo}people/mcginty.png)
+</span>
+
+I'm broadly interested in marine spatial ecology and time series
+analysis of pelagic ecosystems ranging from the micro- to the
+macroscale. I am particularly interested in the ways in which
+organisms (especially zooplankton) respond to changes in the climate
+regarding their distribution, niches and timing.
+
+My PhD was conducted in the NUI Galway where I examined the regional
+scale variability of plankton within Irish waters over the last 50
+years, and tried to put into context these findings with the large
+scale shifts observed across the North Atlantic during that time.
+
+At MtA I will be investigating the realised niches of zooplankton
+in vastly different areas, comparing species with similar traits
+and also exploring how these niches may change through time.
+
+
+
