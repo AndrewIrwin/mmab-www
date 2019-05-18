@@ -42,7 +42,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Niall McGinty]({filename}people/mcginty.md) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
 * [Dr Deepak Nanjappa]({filename}people/nanjappa.md) ([Google scholar](https://scholar.google.ca/citations?user=vnMVBCkAAAAJ), email: dnanjappa at mta.ca) 
 * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
-* Dr Wupeng Xiao
 * Dr Yong Zhang (email: yozhang at mta.ca)
 
 ## Graduate students
@@ -54,6 +53,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Curran McConnell (Mathematics)
 
 ## Collaborators
+* Dr Wupeng Xiao
 * Mick Follows, Stephanie Dutkiewicz and the [Darwin Project](http://darwinproject.mit.edu/) (MIT)
 * [Matt Oliver](http://www.ceoe.udel.edu/our-people/profiles/moliver) (University of Delaware, Lewes)
 * [Doug Campbell](https://sites.google.com/site/campbellphytoplankton/) (Mount Allison, Biology)

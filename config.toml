@@ -1,5 +1,5 @@
 # baseurl = "/"
-baseurl = "https://AndrewIrwin.github.io/mmab-www/"
+baseURL = "https://AndrewIrwin.github.io/mmab-www/"
 publishDir = "docs"
 
 # title = "Marine Macroecology and Biogeochemistry Lab"

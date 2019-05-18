@@ -2,16 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1557834567565.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1542943790",
+    "hash" : "0",
     "id" : "BB6D8B80",
     "lastKnownWriteTime" : 1555540881,
-    "last_content_update" : 1555540881,
+    "last_content_update" : 1558027559632,
     "path" : "~/Dropbox/new-web-site/mmab4/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

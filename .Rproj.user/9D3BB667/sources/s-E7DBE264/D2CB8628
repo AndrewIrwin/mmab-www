@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "109668250",
+    "hash" : "0",
     "id" : "D2CB8628",
-    "lastKnownWriteTime" : 1556239267,
-    "last_content_update" : 1556239267,
+    "lastKnownWriteTime" : 1557874250,
+    "last_content_update" : 1557874250,
     "path" : "~/Dropbox/new-web-site/mmab4/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

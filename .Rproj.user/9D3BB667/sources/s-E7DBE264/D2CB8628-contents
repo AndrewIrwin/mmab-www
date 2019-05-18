@@ -1,5 +1,9 @@
-baseurl = "/"
-title = "Marine Macroecology and Biogeochemistry Lab"
+# baseurl = "/"
+baseurl = "https://AndrewIrwin.github.io/mmab-www/"
+publishDir = "docs"
+
+# title = "Marine Macroecology and Biogeochemistry Lab"
+title = "Marine Microbial Macroecology Lab"
 author = "Andrew Irwin"
 googleAnalytics = ""
 defaultContentLanguage = "en"
