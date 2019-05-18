@@ -26,21 +26,21 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
  ORCID [0000-0001-7784-2319](http://orcid.org/0000-0001-7784-2319), email: a.irwin at dal.ca.) 
 
 ## Research associates
-* [Dr Zhi-Ping Mei](people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ), email: zhi-ping.mei at dal.ca)
-* [Dr Crispin Mutshinda](people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), email: crispin.mutshinda at dal.ca)
+* [Dr Zhi-Ping Mei](../people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ), email: zhi-ping.mei at dal.ca)
+* [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), email: crispin.mutshinda at dal.ca)
 
 ## Lab technicians
-* [Dr Ruby Hu](people/hu) (email: Ruby.Hu at dal.ca)
-* [Susan Sharpe](people/sharpe) ([Google scholar](https://scholar.google.ca/citations?user=byhY--8AAAAJ), email: susansharpe at dal.ca)
+* [Dr Ruby Hu](../people/hu) (email: Ruby.Hu at dal.ca)
+* [Susan Sharpe](../people/sharpe) ([Google scholar](https://scholar.google.ca/citations?user=byhY--8AAAAJ), email: susansharpe at dal.ca)
 
 ## Post-docs
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), email: lbretherton at mta.ca)
 * Dr Olga Carnicer
 * Dr Vinitha Ebenezer (email: vebenezer at dal.ca)
 * Dr Zhengke Li (email: zkli at dal.ca)
-* [Dr Yue Liang](people/liang) (email: YueL at dal.ca)
-* [Dr Niall McGinty](people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
-* [Dr Deepak Nanjappa](people/nanjappa) ([Google scholar](https://scholar.google.ca/citations?user=vnMVBCkAAAAJ), email: dnanjappa at mta.ca) 
+* [Dr Yue Liang](../people/liang) (email: YueL at dal.ca)
+* [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
+* [Dr Deepak Nanjappa](../people/nanjappa) ([Google scholar](https://scholar.google.ca/citations?user=vnMVBCkAAAAJ), email: dnanjappa at mta.ca) 
 * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
 * Dr Yong Zhang (email: yozhang at mta.ca)
 
@@ -64,20 +64,20 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Nick Record](https://www.bigelow.org/research/srs/nick-record/) (Bigelow)
 
 ## Past members
-  * [Sally Faulkner](people/faulkner) (Environmental Science, now at MUN)
-  * [Catherine Fiset](people/fiset) (Mathematics & Computer Science, Biology, now at UPEI Vet School)
-  * [Matthew Fyfe](people/fyfe) (Environmental Science)
-  * [Kindy Houinato](people/houinato) (Environmental Science, Economics)
-  * [Akarsh Pai](people/pai) (Biochemistry)
-  * [Dr Rosie Sheward](people/sheward) ([Google scholar](https://scholar.google.ca/citations?user=U07nicwAAAAJ)) 
-  * [Dr Justin Liefer](people/liefer) ([Google scholar](https://scholar.google.ca/citations?user=eQuE6lIAAAAJ))
-  * [Dr Ina Benner](people/benner) (now at UCLA)
+  * [Sally Faulkner](../people/faulkner) (Environmental Science, now at MUN)
+  * [Catherine Fiset](../people/fiset) (Mathematics & Computer Science, Biology, now at UPEI Vet School)
+  * [Matthew Fyfe](../people/fyfe) (Environmental Science)
+  * [Kindy Houinato](../people/houinato) (Environmental Science, Economics)
+  * [Akarsh Pai](../people/pai) (Biochemistry)
+  * [Dr Rosie Sheward](../people/sheward) ([Google scholar](https://scholar.google.ca/citations?user=U07nicwAAAAJ)) 
+  * [Dr Justin Liefer](../people/liefer) ([Google scholar](https://scholar.google.ca/citations?user=eQuE6lIAAAAJ))
+  * [Dr Ina Benner](../people/benner) (now at UCLA)
   * Michael Bradet-Legris (Math & Computer Science, 2017)
-  * [Dr Chris Brown](people/brown) ([Google scholar](https://scholar.google.ca/citations?user=uXfmay0AAAAJ))
-  * [Thomas Hammond](people/hammond) (Economics, Math & Computer Science, 2017)
-  * [Justin Laforest](people/laforest) (Earth & Environmental Science, St FX, 2017)
-  * [Aneri Garg](people/garg) (Environmental Science, 2015-16)
-  * [Margaux Daly](people/daly) (Environmental Science, 2016)
+  * [Dr Chris Brown](../people/brown) ([Google scholar](https://scholar.google.ca/citations?user=uXfmay0AAAAJ))
+  * [Thomas Hammond](../people/hammond) (Economics, Math & Computer Science, 2017)
+  * [Justin Laforest](../people/laforest) (Earth & Environmental Science, St FX, 2017)
+  * [Aneri Garg](../people/garg) (Environmental Science, 2015-16)
+  * [Margaux Daly](../people/daly) (Environmental Science, 2016)
   * Nils Guelzow (Post-doc, 2014-15)
   * Julie Koester (Post-doc, 2012-14; currently at UNC Wilmington)
   * Johnathan Carter (Environmental Science honours student, 2013-14; currently a graduate student at Memorial University)
