@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Marine Microbial Macroecology Lab</title>
-    <link>https://AndrewIrwin.github.io/mmab-www/tags/news/</link>
+    <link>/tags/news/</link>
     <description>Recent content in News on Marine Microbial Macroecology Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 02 Dec 2018 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://AndrewIrwin.github.io/mmab-www/tags/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Moving into the new lab</title>
-      <link>https://AndrewIrwin.github.io/mmab-www/posts/new-lab-2018-12/</link>
+      <link>/posts/new-lab-2018-12/</link>
       <pubDate>Sun, 02 Dec 2018 09:00:00 +0000</pubDate>
       
-      <guid>https://AndrewIrwin.github.io/mmab-www/posts/new-lab-2018-12/</guid>
+      <guid>/posts/new-lab-2018-12/</guid>
       <description>We moved into our new lab this week!
   Photo of the new lab shortly after starting to move in.   </description>
     </item>
     
     <item>
       <title>Visitors from TAMUG</title>
-      <link>https://AndrewIrwin.github.io/mmab-www/posts/tamug-visit-day-trip/</link>
+      <link>/posts/tamug-visit-day-trip/</link>
       <pubDate>Tue, 01 Aug 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://AndrewIrwin.github.io/mmab-www/posts/tamug-visit-day-trip/</guid>
+      <guid>/posts/tamug-visit-day-trip/</guid>
       <description>Sam Setta and Laura Bretherton visited our lab for a week to work on bioinformatic analysis of some GOMRI experiments.
 We always try to be good hosts for our visitors &amp;ndash; this time in addition to lots of hard work this incldued a trip to Hopewell Rocks and Cora&amp;rsquo;s, a favourite local breakfast place.</description>
     </item>
     
     <item>
       <title>Work by Michaël Bradet-Legris featured by Mount Allison</title>
-      <link>https://AndrewIrwin.github.io/mmab-www/posts/bradet-legris-promo/</link>
+      <link>/posts/bradet-legris-promo/</link>
       <pubDate>Sat, 15 Jul 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://AndrewIrwin.github.io/mmab-www/posts/bradet-legris-promo/</guid>
+      <guid>/posts/bradet-legris-promo/</guid>
       <description>The computing and bioinformatic work being done by summer research student Michaël Bradet-Legris was featured in a Mount Allison story this week.
 Click here for the full article.
 Archive version.</description>
@@ -43,10 +43,10 @@ Archive version.</description>
     
     <item>
       <title>Dr Ina Benner&#39;s research featured in student newspaper (The Argosy)</title>
-      <link>https://AndrewIrwin.github.io/mmab-www/posts/benner-argosy/</link>
+      <link>/posts/benner-argosy/</link>
       <pubDate>Thu, 12 Mar 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://AndrewIrwin.github.io/mmab-www/posts/benner-argosy/</guid>
+      <guid>/posts/benner-argosy/</guid>
       <description>Dr Benner&amp;rsquo;s work on phytoplankton evolution was featured in The Argosy this week.
 Click here for the full article.</description>
     </item>

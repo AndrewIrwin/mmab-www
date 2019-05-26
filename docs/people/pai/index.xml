@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akarsh Pai on Marine Microbial Macroecology Lab</title>
-    <link>https://AndrewIrwin.github.io/mmab-www/people/pai/</link>
+    <link>/people/pai/</link>
     <description>Recent content in Akarsh Pai on Marine Microbial Macroecology Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://AndrewIrwin.github.io/mmab-www/people/pai/" rel="self" type="application/rss+xml" />
+	<atom:link href="/people/pai/" rel="self" type="application/rss+xml" />
     
     
   </channel>

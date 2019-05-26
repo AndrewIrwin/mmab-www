@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Marine Microbial Macroecology Lab</title>
-    <link>https://AndrewIrwin.github.io/mmab-www/tags/publications/</link>
+    <link>/tags/publications/</link>
     <description>Recent content in Publications on Marine Microbial Macroecology Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 23 Feb 2016 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://AndrewIrwin.github.io/mmab-www/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projected plankton community change featured at the BBC</title>
-      <link>https://AndrewIrwin.github.io/mmab-www/posts/shift-shuffle/</link>
+      <link>/posts/shift-shuffle/</link>
       <pubDate>Tue, 23 Feb 2016 12:00:00 +0000</pubDate>
       
-      <guid>https://AndrewIrwin.github.io/mmab-www/posts/shift-shuffle/</guid>
+      <guid>/posts/shift-shuffle/</guid>
       <description>Work by Andrew Barton and Charlie Stock (Princeton/GFDL) and Andrew Irwin and Zoe Finkel showing how North Atlantic phytoplankton communities may chnage over the next century was published today in PNAS.
 A news story about this work appeared on the BBC website.</description>
     </item>
     
     <item>
       <title>Research on extinction rates published in Science</title>
-      <link>https://AndrewIrwin.github.io/mmab-www/posts/extinctions-science/</link>
+      <link>/posts/extinctions-science/</link>
       <pubDate>Mon, 04 May 2015 09:58:00 +0000</pubDate>
       
-      <guid>https://AndrewIrwin.github.io/mmab-www/posts/extinctions-science/</guid>
+      <guid>/posts/extinctions-science/</guid>
       <description>Fossils helping to identify marine life at high risk of extinction</description>
     </item>
     
     <item>
       <title>Changing phytoplankton niches</title>
-      <link>https://AndrewIrwin.github.io/mmab-www/posts/pnas/</link>
+      <link>/posts/pnas/</link>
       <pubDate>Fri, 01 May 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://AndrewIrwin.github.io/mmab-www/posts/pnas/</guid>
+      <guid>/posts/pnas/</guid>
       <description>New paper on phytoplankton niches published in PNAS.</description>
     </item>
     

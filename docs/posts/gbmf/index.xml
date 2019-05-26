@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research meeting on Marine Microbial Macroecology Lab</title>
-    <link>https://AndrewIrwin.github.io/mmab-www/posts/gbmf/</link>
+    <link>/posts/gbmf/</link>
     <description>Recent content in Research meeting on Marine Microbial Macroecology Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Jun 2015 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://AndrewIrwin.github.io/mmab-www/posts/gbmf/" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/gbmf/" rel="self" type="application/rss+xml" />
     
     
   </channel>

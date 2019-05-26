@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projected plankton community change featured at the BBC on Marine Microbial Macroecology Lab</title>
-    <link>https://AndrewIrwin.github.io/mmab-www/posts/shift-shuffle/</link>
+    <link>/posts/shift-shuffle/</link>
     <description>Recent content in Projected plankton community change featured at the BBC on Marine Microbial Macroecology Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 23 Feb 2016 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://AndrewIrwin.github.io/mmab-www/posts/shift-shuffle/" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/shift-shuffle/" rel="self" type="application/rss+xml" />
     
     
   </channel>
