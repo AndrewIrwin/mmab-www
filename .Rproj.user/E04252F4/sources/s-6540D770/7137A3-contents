@@ -4,7 +4,7 @@ Menulabel: Members
 Date: 2019-04-01 12:00
 ---
 
-Email addresses for most lab members are listed below.
+Email addresses for lab members are listed below.
 
 ## Zoe V. Finkel 
 **Oceanography, Canada Research Chair in Marine Microbial Macroecology**
@@ -35,7 +35,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Post-docs
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), email: lbretherton at mta.ca)
-* Dr Olga Carnicer
+* Dr Olga Carnicer (email: olga.carnicer at dal.ca)
 * Dr Vinitha Ebenezer (email: vebenezer at dal.ca)
 * Dr Zhengke Li (email: zkli at dal.ca)
 * [Dr Yue Liang](../people/liang) (email: YueL at dal.ca)
@@ -53,7 +53,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Curran McConnell (Mathematics)
 
 ## Collaborators
-* Dr Wupeng Xiao
+* Wupeng Xiao (Xiamen University)
 * Mick Follows, Stephanie Dutkiewicz and the [Darwin Project](http://darwinproject.mit.edu/) (MIT)
 * [Matt Oliver](http://www.ceoe.udel.edu/our-people/profiles/moliver) (University of Delaware, Lewes)
 * [Doug Campbell](https://sites.google.com/site/campbellphytoplankton/) (Mount Allison, Biology)

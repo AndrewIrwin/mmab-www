@@ -13,9 +13,9 @@ For each paper, the title links to a PDF copy of the article and the doi links t
 
 # 2019
   * JD Liefer, A Garg, MH Fyfe, AJ Irwin, I Benner, CM Brown, MJ Follows, AW Omta, ZV Finkel. [The Macromolecular Basis of Phytoplankton C:N:P Under Nitrogen Starvation](../pubs/liefer-2019-fmicb-10-00763.pdf). _Front. Microbiol._ **10**: 763. [10.3389/fmicb.2019.00763](https://dx.doi.org/10.3389/fmicb.2019.00763)
-  * L Bretherton, M Kamalanathan, J Genzera, J Hillhousea, S Setta, Y Liang, CM Brown, C Xu, J Sweet, U Passow, ZV Finkel, AJ Irwin, PH Santschi, A Quigg. [Response of natural phytoplankton communities exposed to crude oil and chemical dispersants during a mesocosm experiment](../pubs/bretherton-2019-aq-tox.pdf). _Aquatic Toxicology_ **206**: 43-53. [10.1016/j.aquatox.2018.11.004](https://doi.org/10.1016/j.aquatox.2018.11.004)
+  * L Bretherton, M Kamalanathan, J Genzer, J Hillhouse, S Setta, Y Liang, CM Brown, C Xu, J Sweet, U Passow, ZV Finkel, AJ Irwin, PH Santschi, A Quigg. [Response of natural phytoplankton communities exposed to crude oil and chemical dispersants during a mesocosm experiment](../pubs/bretherton-2019-aq-tox.pdf). _Aquatic Toxicology_ **206**: 43-53. [10.1016/j.aquatox.2018.11.004](https://doi.org/10.1016/j.aquatox.2018.11.004)
   * Z Finkel, A Irwin. Phytoplankton. In [Encyclopaedia of Astrobiology](https://link.springer.com/referencework/10.1007/978-3-642-11274-4). In press.
-  * Y Liang, J Koester, J Liefer, AJ Irwin, ZV Finkel. [Molecular mechanisms of temperature acclimation and adaptation in marine diatoms](../pubs/liang-2019-ismej-s41396-019-0441-9.pdf). _ISME J_. in press. [Author link](https://rdcu.be/bD24E) [10.1038/s41396-019-0441-9](https://dx.doi.org/10.1038/s41396-019-0441-9)
+  * Y Liang, J Koester, J Liefer, AJ Irwin, ZV Finkel. [Molecular mechanisms of temperature acclimation and adaptation in marine diatoms](../pubs/liang-2019-ismej-s41396-019-0441-9.pdf). _ISME J_. in press. [Author link](https://rdcu.be/bD24E).  [10.1038/s41396-019-0441-9](https://dx.doi.org/10.1038/s41396-019-0441-9)
   * L Bretherton, M Kamalanathan, J Hillhouse, J Genzer, H Bacosa, ZV Finkel, AS Quigg. Growth dynamics and domoic acid production of Pseudo-nitzschia sp. in response to oil and dispersant exposure. _Harmful Algae_ in press.
 
 # 2018
