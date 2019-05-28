@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Marine Macroecology and Biogeochemistry Lab 
+title: Welcome to the Marine Microbial Macroecology Lab 
 date: 2019 April 18
 ---
 

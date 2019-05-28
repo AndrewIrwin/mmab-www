@@ -8,5 +8,5 @@ title: Home
 weight: 1
 ---
 
-# Marine Macroecology and Biogeochemistry Lab
+# Marine Microbial Macroecology Lab
 ## An Oceanography and Mathematical Sciences lab at Dalhousie University
