@@ -38,7 +38,7 @@ theme = "hugo-terrassa-theme"
     page = ["HTML", "RSS"]
 
 [params]
-    description = "The Marine Macroecology and Biogeochemistry Lab is led by Zoe Finkel and Andrew Irwin at Dalhousie University."
+    description = "The Marine Microbial Macroecology Lab is led by Zoe Finkel and Andrew Irwin at Dalhousie University."
     # favicon = "favicon.ico" # Relative URL
     favicon = "images/seawifs-white-128.png"
     logo = "" # Absolute URL
