@@ -31,7 +31,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Lab technicians
 * [Dr Ruby Hu](../people/hu) (email: Ruby.Hu at dal.ca)
-* [Susan Sharpe](../people/sharpe) ([Google scholar](https://scholar.google.ca/citations?user=byhY--8AAAAJ), email: susansharpe at dal.ca)
+* Khadijah Carey (email: kh901662 at dal.ca)
 
 ## Post-docs
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), email: lbretherton at mta.ca)
@@ -42,7 +42,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
 * [Dr Deepak Nanjappa](../people/nanjappa) ([Google scholar](https://scholar.google.ca/citations?user=vnMVBCkAAAAJ), email: dnanjappa at mta.ca) 
 * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
-* Dr Yong Zhang (email: yozhang at mta.ca)
 
 ## Graduate students
 * Jonathan Bradet-Legris (M.Sc. candidate, Statistics)
@@ -64,6 +63,8 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Nick Record](https://www.bigelow.org/research/srs/nick-record/) (Bigelow)
 
 ## Past members
+  * Dr Yong Zhang 
+  * [Susan Sharpe](../people/sharpe) (Technician, [Google scholar](https://scholar.google.ca/citations?user=byhY--8AAAAJ))
   * [Sally Faulkner](../people/faulkner) (Environmental Science, now at MUN)
   * [Catherine Fiset](../people/fiset) (Mathematics & Computer Science, Biology, now at UPEI Vet School)
   * [Matthew Fyfe](../people/fyfe) (Environmental Science)
