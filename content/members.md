@@ -25,12 +25,14 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
  Researcher ID [B-2245-2008](http://www.researcherid.com/rid/B-2245-2008),
  ORCID [0000-0001-7784-2319](http://orcid.org/0000-0001-7784-2319), email: a.irwin at dal.ca.) 
 
+## Lab manager
+* [Dr Ruby Hu](../people/hu) (email: Ruby.Hu at dal.ca)
+
 ## Research associates
 * [Dr Zhi-Ping Mei](../people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ), email: zhi-ping.mei at dal.ca)
 * [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), email: crispin.mutshinda at dal.ca)
 
-## Lab technicians
-* [Dr Ruby Hu](../people/hu) (email: Ruby.Hu at dal.ca)
+## Lab technician
 * Khadijah Carey (email: kh901662 at dal.ca)
 
 ## Post-docs
@@ -45,11 +47,13 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Graduate students
 * Jonathan Bradet-Legris (M.Sc. candidate, Statistics)
+* Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, arriving soon)
 
 ## Undergraduate students
-* Mirelle Naud (MtA, Biology, English)
 * Chris Freund (Mathematics)
+* Kate McCloud (Biochemistry, Oceanography)
 * Curran McConnell (Mathematics)
+* Mirelle Naud (MtA, Biology, English)
 
 ## Collaborators
 * Wupeng Xiao (Xiamen University)
