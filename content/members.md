@@ -51,7 +51,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Undergraduate students
 * Chris Freund (Mathematics)
-* Kate McCloud (Biochemistry, Oceanography)
+* Kate McLeod (Biochemistry, Oceanography)
 * Curran McConnell (Mathematics)
 * Mirelle Naud (MtA, Biology, English)
 
