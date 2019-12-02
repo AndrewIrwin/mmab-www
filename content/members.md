@@ -29,7 +29,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Ruby Hu](../people/hu) (email: Ruby.Hu at dal.ca)
 
 ## Research associates
-* [Dr Zhi-Ping Mei](../people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ), email: zhi-ping.mei at dal.ca)
 * [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), email: crispin.mutshinda at dal.ca)
 
 ## Lab technician
@@ -42,17 +41,15 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Dr Zhengke Li (email: zkli at dal.ca)
 * [Dr Yue Liang](../people/liang) (email: YueL at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
-* [Dr Deepak Nanjappa](../people/nanjappa) ([Google scholar](https://scholar.google.ca/citations?user=vnMVBCkAAAAJ), email: dnanjappa at mta.ca) 
 * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
 
 ## Graduate students
 * Jonathan Bradet-Legris (M.Sc. candidate, Statistics)
-* Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, arriving soon)
+* Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
+* Mohammad Amiran (Ph.D. candidate, Applied mathematics)
 
 ## Undergraduate students
-* Chris Freund (Mathematics)
 * Kate McLeod (Biochemistry, Oceanography)
-* Curran McConnell (Mathematics)
 * Mirelle Naud (MtA, Biology, English)
 
 ## Collaborators
@@ -67,6 +64,10 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Nick Record](https://www.bigelow.org/research/srs/nick-record/) (Bigelow)
 
 ## Past members
+  * [Dr Zhi-Ping Mei](../people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ), email: zhi-ping.mei at dal.ca)
+  * [Dr Deepak Nanjappa](../people/nanjappa) ([Google scholar](https://scholar.google.ca/citations?user=vnMVBCkAAAAJ)) Now at SUNY SB.
+  * Chris Freund (Mathematics)
+  * Curran McConnell (Mathematics)
   * Dr Yong Zhang 
   * [Susan Sharpe](../people/sharpe) (Technician, [Google scholar](https://scholar.google.ca/citations?user=byhY--8AAAAJ))
   * [Sally Faulkner](../people/faulkner) (Environmental Science, now at MUN)
