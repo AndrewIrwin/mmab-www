@@ -20,7 +20,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * C Fiset, AJ Irwin, ZV Finkel. [The macromolecular composition of non-calcified marine macroalgae](../pubs/fiset-2019-jpy.12913.pdf). _J Phycology_ **55**: 1361-1369. [10.1111/jpy.12913](https://dx.doi.org/10.1111/jpy.12913)
   * C Mutshina, C Widdicombe, ZV Finkel, AJ Irwin. Bayesian inference to partition determinants of community dynamics from  observational time series. _Community Ecology_, in press. 
   * L Bretherton, M Kamalanathan, J Hillhouse, ZV Finkel, AJ Irwin, A Quigg. Trait-dependent variability of the response of marine phytoplankton to oil and dispersant exposure. _Marine Pollution Bulletin_, in press.
-  * I Benner, ZF Finkel, AJ Irwin.  Capacity of the common Arctic picoeukaryote Micromonas to adapt to a warming ocean. _Limnology & Oceanography: Letters_.  in press.
+  * I Benner, ZF Finkel, AJ Irwin. [Capacity of the common Arctic picoeukaryote Micromonas to adapt to a warming ocean](../pubs/benner-2019-lol.pdf). _Limnology & Oceanography: Letters_.  in press. [10.1002/lol2.10133](https://dx.doi.org/10.1002/lol2.10133)
 
 # 2018
   * AJ Irwin & ZV Finkel. [Phytoplankton functional types: A trait perspective](../pubs/irwin-2018-traits-gasol-kirchman.pdf). In Gasol and Kirchman [eds] Microbial Ecology of the Oceans. [Wiley](https://www.wiley.com/en-ca/Microbial+Ecology+of+the+Oceans%2C+3rd+Edition-p-9781119107187). Chapter 11, pp. 435-465. [bioRxiv preprint 10.1101/148312](https://doi.org/10.1101/148312)
