@@ -13,6 +13,8 @@ particularly transcriptomics in non-model microbial eukaryotes,
 computational data analysis in macroecology, Bayesian statistics,
 phytoplankton culturing, biochemical assays, and molecular techniques.
 
+*If you are interested in joining our lab*, please review the information below. Send us a short email describing your research interests and goals and how they connect to the work in our lab.
+
 # Research opportunity for undergraduate students
 
 Opportunities are available for enthusiastic undergraduate students
