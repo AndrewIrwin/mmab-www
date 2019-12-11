@@ -11,6 +11,9 @@ Publications and citations from Google Scholar ([Irwin](http://scholar.google.co
 
 For each paper, the title links to a PDF copy of the article and the doi links to the journal's copy of the paper. Supplementary information is provided under separate links where applicable.
 
+# 2020
+  * ZV Finkel, Y Liang, D Nanjappa, L Bretherton, CM Brown, A Quigg, AJ Irwin. A ribosomal sequence-based oil sensitivity index for phytoplankton groups. _Marine Pollution Bulletin_, in press.
+
 # 2019
   * JD Liefer, A Garg, MH Fyfe, AJ Irwin, I Benner, CM Brown, MJ Follows, AW Omta, ZV Finkel. [The Macromolecular Basis of Phytoplankton C:N:P Under Nitrogen Starvation](../pubs/liefer-2019-fmicb-10-00763.pdf). _Front. Microbiol._ **10**: 763. [10.3389/fmicb.2019.00763](https://dx.doi.org/10.3389/fmicb.2019.00763)
   * L Bretherton, M Kamalanathan, J Genzer, J Hillhouse, S Setta, Y Liang, CM Brown, C Xu, J Sweet, U Passow, ZV Finkel, AJ Irwin, PH Santschi, A Quigg. [Response of natural phytoplankton communities exposed to crude oil and chemical dispersants during a mesocosm experiment](../pubs/bretherton-2019-aq-tox.pdf). _Aquatic Toxicology_ **206**: 43-53. [GOMRI news story](http://gulfresearchinitiative.org/study-finds-dispersed-oil-but-not-oil-alone-negatively-affects-phytoplankton/).  [10.1016/j.aquatox.2018.11.004](https://doi.org/10.1016/j.aquatox.2018.11.004) 
@@ -20,7 +23,6 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * C Fiset, AJ Irwin, ZV Finkel. [The macromolecular composition of non-calcified marine macroalgae](../pubs/fiset-2019-jpy.12913.pdf). _J Phycology_ **55**: 1361-1369. [10.1111/jpy.12913](https://dx.doi.org/10.1111/jpy.12913) Data on Figshare at doi [10.6084/m9.figshare.4248962.v1](https://doi.org/10.6084/m9.figshare.4248962.v1)
   * C Mutshina, C Widdicombe, ZV Finkel, AJ Irwin. Bayesian inference to partition determinants of community dynamics from  observational time series. _Community Ecology_, in press. 
   * I Benner, ZF Finkel, AJ Irwin. [Capacity of the common Arctic picoeukaryote Micromonas to adapt to a warming ocean](../pubs/benner-2019-lol.pdf). _Limnology & Oceanography: Letters_.  in press. [10.1002/lol2.10133](https://dx.doi.org/10.1002/lol2.10133) Data on Figshare at doi [10.6084/m9.figshare.4264499](https://dx.doi.org/10.6084/m9.figshare.4264499)
-  * ZV Finkel, Y Liang, D Nanjappa, L Bretherton, CM Brown, A Quigg, AJ Irwin. A ribosomal sequence-based oil sensitivity index for phytoplankton groups. _Marine Pollution Bulletin_, in press.
 
 # 2018
   * AJ Irwin & ZV Finkel. [Phytoplankton functional types: A trait perspective](../pubs/irwin-2018-traits-gasol-kirchman.pdf). In Gasol and Kirchman [eds] Microbial Ecology of the Oceans. [Wiley](https://www.wiley.com/en-ca/Microbial+Ecology+of+the+Oceans%2C+3rd+Edition-p-9781119107187). Chapter 11, pp. 435-465. [bioRxiv preprint 10.1101/148312](https://doi.org/10.1101/148312)
