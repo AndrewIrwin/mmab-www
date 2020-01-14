@@ -46,10 +46,10 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Graduate students
 * Jonathan Bradet-Legris (M.Sc. candidate, Statistics)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
-* Mohammad Amiran (Ph.D. candidate, Applied mathematics)
+* Mohammad Amirian (Ph.D. candidate, Applied mathematics)
+* Kate McLeod (M.Sc. candidate, Oceanography)
 
 ## Undergraduate students
-* Kate McLeod (Biochemistry, Oceanography)
 * Mirelle Naud (MtA, Biology, English)
 
 ## Collaborators
