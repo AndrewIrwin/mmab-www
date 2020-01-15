@@ -22,7 +22,10 @@ that would like research experience. The research projects are
 varied and interdisciplinary. Students with interests and background
 in any combination of environmental science, math and computer
 science, physics, chemistry and biology are welcome to contact Drs.
-Irwin and/or Finkel.
+Irwin and/or Finkel. Please send a statement of your interests, a
+description of your program of study, and an unofficial transcript.
+
+We have already recruited undergraduate students for summer 2020 and we do not anticipate adding any more undergraduate students to our lab this year.
 
 # Graduate student and Post-doctoral researcher opportunities
 

@@ -14,6 +14,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
 # 2020
   * ZV Finkel, Y Liang, D Nanjappa, L Bretherton, CM Brown, A Quigg, AJ Irwin. A ribosomal sequence-based oil sensitivity index for phytoplankton groups. _Marine Pollution Bulletin_, in press. [10.1016/j.marpolbul.2019.110798](https://doi.org/10.1016/j.marpolbul.2019.110798)
   * ZV Finkel, AJ Irwin. Phytoplankton. In [Encyclopaedia of Astrobiology](https://link.springer.com/referencework/10.1007/978-3-642-11274-4). In press.
+  * L Bretherton, M Kamalanathan, J Hillhouse, ZV Finkel, AJ Irwin, A Quigg. Trait-dependent variability of the response of marine phytoplankton to oil and dispersant exposure. _Marine Pollution Bulletin_, in press.
 
 # 2019
   * JD Liefer, A Garg, MH Fyfe, AJ Irwin, I Benner, CM Brown, MJ Follows, AW Omta, ZV Finkel. [The Macromolecular Basis of Phytoplankton C:N:P Under Nitrogen Starvation](../pubs/liefer-2019-fmicb-10-00763.pdf). _Front. Microbiol._ **10**: 763. [10.3389/fmicb.2019.00763](https://dx.doi.org/10.3389/fmicb.2019.00763)

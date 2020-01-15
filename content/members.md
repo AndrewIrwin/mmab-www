@@ -51,6 +51,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Undergraduate students
 * Mirelle Naud (MtA, Biology, English)
+* Jacob Miller (Mathematics, Actuarial Science)
 
 ## Collaborators
 * Wupeng Xiao (Xiamen University)

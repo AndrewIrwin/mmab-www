@@ -32,5 +32,7 @@ Pictured below are Crispin Mutshinda, Joe Siddons, and Jonathan Bradet-Legris co
 
 ![Jonathan Bradet-Legris and others](/images/cbiomes-bayesian-wkshp/IMG_0380.jpg)
 
+![Whole group](/images/cbiomes-bayesian-wkshp/bayes-workshop-group.png)
+
 
 
