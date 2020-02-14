@@ -14,7 +14,8 @@ For each paper, the title links to a PDF copy of the article and the doi links t
 # 2020
   * ZV Finkel, Y Liang, D Nanjappa, L Bretherton, CM Brown, A Quigg, AJ Irwin. [A ribosomal sequence-based oil sensitivity index for phytoplankton groups](../pubs/finkel-2020-mpb-index.pdf). _Marine Pollution Bulletin_, **151**: 110798. [10.1016/j.marpolbul.2019.110798](https://doi.org/10.1016/j.marpolbul.2019.110798)
   * ZV Finkel, AJ Irwin. [Phytoplankton](../pubs/finkel-2020-phytoplankton-astro.pdf). In Gargaud et al. (eds) [Encyclopedia of Astrobiology](https://link.springer.com/referencework/10.1007/978-3-642-11274-4). Springer. Book doi [10.1007/978-3-642-27833-4](https://doi.org/10.1007/978-3-642-27833-4), chapter doi [10.1007/978-3-642-27833-4_5416-1](https://dx.doi.org/10.1007%2F978-3-642-27833-4_5416-1).
-  * L Bretherton, M Kamalanathan, J Hillhouse, ZV Finkel, AJ Irwin, A Quigg. Trait-dependent variability of the response of marine phytoplankton to oil and dispersant exposure. _Marine Pollution Bulletin_, in press.
+  * L Bretherton, M Kamalanathan, J Hillhouse, ZV Finkel, AJ Irwin, A Quigg. Trait-dependent variability of the response of marine phytoplankton to oil and dispersant exposure. _Marine Pollution Bulletin_, **153**: 110906. [10.1016/j.marpolbul.2020.110906](https://dx.doi.org/10.1016/j.marpolbul.2020.110906).
+  * CM Mutshinda, AJ Irwin, Mikko J. Sillanpää. A Bayesian framework for robust quantitative trait locus mapping and outlier detection. _Int. J. Biostat._, in press.
 
 # 2019
   * JD Liefer, A Garg, MH Fyfe, AJ Irwin, I Benner, CM Brown, MJ Follows, AW Omta, ZV Finkel. [The Macromolecular Basis of Phytoplankton C:N:P Under Nitrogen Starvation](../pubs/liefer-2019-fmicb-10-00763.pdf). _Front. Microbiol._ **10**: 763. [10.3389/fmicb.2019.00763](https://dx.doi.org/10.3389/fmicb.2019.00763)
