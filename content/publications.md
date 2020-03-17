@@ -17,7 +17,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * L Bretherton, M Kamalanathan, J Hillhouse, ZV Finkel, AJ Irwin, A Quigg. [Trait-dependent variability of the response of marine phytoplankton to oil and dispersant exposure](../pubs/bretherton-2020-mpb-trait.pdf). _Marine Pollution Bulletin_, **153**: 110906. [10.1016/j.marpolbul.2020.110906](https://dx.doi.org/10.1016/j.marpolbul.2020.110906). Data at [GRIIDC](https://data.gulfresearchinitiative.org/data/R6.x807.000:0014).
   * CM Mutshinda, AJ Irwin, Mikko J. Sillanpää. [A Bayesian framework for robust quantitative trait locus mapping and outlier detection](../pubs/mutshinda-2020-ijb-qtl.pdf). _Int. J. Biostat._, in press. [10.1515/ijb-2019-0038](https://dx.doi.org/10.1515/ijb-2019-0038)
   * AW Omta, D Talmy, K Inomura, AJ Irwin, ZV Finkel, D Sher, JD Liefer, MJ Follows. Quantifying nutrient throughput and DOM production by algae in continuous culture. _J theor Biol_, in press.
-  * JC Gradone, MJ Oliver, AR Davies, A Irwin, C Moffat. Sea Surface Kinetic Energy as a Proxy for Phytoplankton Light Limitation in the Summer Pelagic Southern Ocean. _J Geophys Res: Oceans_, in press.
+  * JC Gradone, MJ Oliver, AR Davies, A Irwin, C Moffat. Sea Surface Kinetic Energy as a Proxy for Phytoplankton Light Limitation in the Summer Pelagic Southern Ocean. _J Geophys Res: Oceans_, in press. [10.1029/2019JC015646](http://dx.doi.org/10.1029/2019JC015646)
 
 
 # 2019
