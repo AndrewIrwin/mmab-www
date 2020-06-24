@@ -64,7 +64,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Amanda Cockshutt](http://www.mta.ca/Community/Bios/Amanda_Cockshutt/Amanda_Cockshutt/) (Mount Allison, Chemistry & Biochemistry)
 * [Environmental Proteomics](http://www.environmentalproteomics.ca).
 * [Antonietta Quigg](http://www.tamug.edu/phytoplankton/People/Antonietta_Quigg.html) and the Phytoplankton Dynamics Laboratory at Texas A&M Galveston.
-* [Andrew Barton](http://www.princeton.edu/~abarton/) (Princeton/GFDL)
+* [Andrew Barton](https://adbarton.scrippsprofiles.ucsd.edu/) (UCSD, Scripps)
 * [Nick Record](https://www.bigelow.org/research/srs/nick-record/) (Bigelow)
 
 ## Past members
