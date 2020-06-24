@@ -48,10 +48,13 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
 * Mohammad Amirian (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
 * Kate McLeod (M.Sc. candidate, Oceanography)
+* KC Pramir (Ph.D. candidate, Oceanography)
+* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
 
 ## Undergraduate students
-* Mirelle Naud (MtA, Biology, English)
 * Jacob Miller (Mathematics, Actuarial Science)
+* Yinjie Meng (Statistics, Honours)
+* Zonglin Wu (Statistics, Honours)
 
 ## Collaborators
 * Wupeng Xiao (Xiamen University)
@@ -65,6 +68,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Nick Record](https://www.bigelow.org/research/srs/nick-record/) (Bigelow)
 
 ## Past members
+  * Mirelle Naud (MtA, Biology, English)
   * [Dr Zhi-Ping Mei](../people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ), email: zhi-ping.mei at dal.ca)
   * [Dr Deepak Nanjappa](../people/nanjappa) ([Google scholar](https://scholar.google.ca/citations?user=vnMVBCkAAAAJ)) Now at SUNY SB.
   * Chris Freund (Mathematics)
