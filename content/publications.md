@@ -18,7 +18,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * CM Mutshinda, AJ Irwin, Mikko J. Sillanpää. [A Bayesian framework for robust quantitative trait locus mapping and outlier detection](../pubs/mutshinda-2020-ijb-qtl.pdf). _Int. J. Biostat._, in press. [10.1515/ijb-2019-0038](https://dx.doi.org/10.1515/ijb-2019-0038)
   * AW Omta, D Talmy, K Inomura, AJ Irwin, ZV Finkel, D Sher, JD Liefer, MJ Follows. [Quantifying nutrient throughput and DOM production by algae in continuous culture](../pubs/omta-2020-jtb.pdf). _J theor Biol_, **494**: 110214. [10.1016/j.jtbi.2020.110214](https://doi.org/10.1016/j.jtbi.2020.110214)
   * JC Gradone, MJ Oliver, AR Davies, A Irwin, C Moffat. [Sea Surface Kinetic Energy as a Proxy for Phytoplankton Light Limitation in the Summer Pelagic Southern Ocean](../pubs/gradone-2020-2019JC015646.pdf). _J Geophys Res: Oceans_, **125**: e2019JC015646. [10.1029/2019JC015646](http://dx.doi.org/10.1029/2019JC015646)
-
+  * Z-K Li, G Dai, Y Zhang, K Xu, L Bretherton, ZV Finkel, AJ Irwin, P Juneau, B-S Qiu. Phytosynthetic adaptation to light availability shapes the ecological success of bloom-forming cyanobacterium _Pseudanabaena_ to iron limitation. _J Phycol_ in press. [10.1111/jpy.13040](https://dx.doi.org/10.1111/jpy.13040)
 
 # 2019
   * JD Liefer, A Garg, MH Fyfe, AJ Irwin, I Benner, CM Brown, MJ Follows, AW Omta, ZV Finkel. [The Macromolecular Basis of Phytoplankton C:N:P Under Nitrogen Starvation](../pubs/liefer-2019-fmicb-10-00763.pdf). _Front. Microbiol._ **10**: 763. [10.3389/fmicb.2019.00763](https://dx.doi.org/10.3389/fmicb.2019.00763)
