@@ -69,7 +69,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Past members
   * Mirelle Naud (MtA, Biology, English)
-  * [Dr Zhi-Ping Mei](../people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ), email: zhi-ping.mei at dal.ca)
+  * [Dr Zhi-Ping Mei](../people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ))
   * [Dr Deepak Nanjappa](../people/nanjappa) ([Google scholar](https://scholar.google.ca/citations?user=vnMVBCkAAAAJ)) Now at SUNY SB.
   * Chris Freund (Mathematics)
   * Curran McConnell (Mathematics)
