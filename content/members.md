@@ -35,6 +35,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Khadijah Carey (email: kh901662 at dal.ca)
 
 ## Post-docs
+* Dr Suchandan Bemal (coming soon [Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ))
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), email: lbretherton at mta.ca)
 * Dr Olga Carnicer (email: olga.carnicer at dal.ca)
 * Dr Vinitha Ebenezer (email: vebenezer at dal.ca)
@@ -48,7 +49,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Jonathan Bradet-Legris (M.Sc. candidate, Statistics)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
 * Mohammad Amirian (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
-* Kate McLeod (M.Sc. candidate, Oceanography)
+* Kate McLeod (M.Sc. candidate, Oceanography, on leave)
 * KC Pramir (Ph.D. candidate, Oceanography)
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
 
