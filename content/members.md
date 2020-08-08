@@ -42,6 +42,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Yue Liang](../people/liang) (email: YueL at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
 * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
+* Dr Sing-How Tuo (coming soon, [Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ))
 
 ## Graduate students
 * Jonathan Bradet-Legris (M.Sc. candidate, Statistics)
