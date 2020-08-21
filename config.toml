@@ -28,65 +28,10 @@ theme = "hugo-terrassa-theme"
     url = "/publications"
     weight = 1
   [[menu.main]]
-    identifier = "Data"
-    name = "Protocols & Data"
-    url = "/data"
-    weight = 2
-  [[menu.main]]
     identifier = "Opportunities"
     name = "Opportunities"
     url = "/opportunities"
     weight = 3
-
-[outputs]
-    home = ["HTML", "RSS"]
-    page = ["HTML", "RSS"]
-
-[params]
-    description = "The Marine Microbial Macroecology Lab is led by Zoe Finkel and Andrew Irwin at Dalhousie University."
-    # favicon = "favicon.ico" # Relative URL
-    favicon = "images/seawifs-white-128.png"
-    logo = "" # Absolute URL
-
-[params.hero]
-    textColor = "#000000" # Empty for default color
-
-[params.cta] # Call To Action 
-    show = true
-    cta = "Contact"
-    link = "contact" # Relative URL
-
-[params.separator] # Separators between sections on the home page
-    show = false
-
-[params.fa] # Font Awesome options
-    version = "5.7.2"
-    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
-
-[params.form] # Contact form
-    netlify = true # Use only if you are using Netlify
-    action = "https://formspree.io/a.irwin@dal.ca"
-    method = "POST"
-    inputNameName = "name"
-    inputNameLabel = "Name"
-    inputNamePlaceholder = "Your name"
-    inputEmailName = "email"
-    inputEmailLabel = "Email"
-    inputEmailPlaceholder = "Your email"
-    inputMsgName = "message"
-    inputMsgLabel = "Write something"
-    inputMsgLength = 750
-    inputSubmitValue = "Send"
-
-[params.posts]
-    showAuthor = false
-    showDate = true
-    showTags = true
-  [[menu.main]]
-    identifier = "Opportunities"
-    name = "Opportunities"
-    url = "/opportunities"
-    weight = 2
 
 [outputs]
     home = ["HTML", "RSS"]
