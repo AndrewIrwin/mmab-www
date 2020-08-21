@@ -273,6 +273,7 @@
 
 .post__body > ul {
 	list-style-type: disc;
+        padding-left: 10px;  # AJI
 }
 
 .post__body > blockquote > p {

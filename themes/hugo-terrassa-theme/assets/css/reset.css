@@ -137,10 +137,10 @@ footer {
 
 ol,
 ul {
-    # list-style: none;
+    list-style: none; # was AJI comment
     margin-left: 0;
     margin-right: 0;
-    # padding: 0;
+    padding: 0;
 }
 
 p {
