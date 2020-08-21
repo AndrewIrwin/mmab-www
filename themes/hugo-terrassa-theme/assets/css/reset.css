@@ -137,7 +137,7 @@ footer {
 
 ol,
 ul {
-    list-style: none;
+    # list-style: none;
     margin-left: 0;
     margin-right: 0;
     padding: 0;
