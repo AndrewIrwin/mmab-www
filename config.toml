@@ -28,7 +28,7 @@ theme = "hugo-terrassa-theme"
     url = "/publications"
     weight = 1
   [[menu.main]]
-    identifier = "Protocols & Data"
+    identifier = "Data"
     name = "Protocols & Data"
     url = "/data"
     weight = 2
