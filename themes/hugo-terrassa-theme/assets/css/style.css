@@ -272,7 +272,7 @@
 }
 
 .post__body > ul {
-	# list-style-type: disc; # AJI removed
+	list-style-type: disc; 
 	list-style: disc; # AJI added
         padding-left: 10px;  # AJI
 }
