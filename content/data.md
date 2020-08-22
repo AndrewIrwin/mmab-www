@@ -22,25 +22,20 @@ Slug: data
 
 ### Effects of oil on phytoplankton
 
-- Gulf of Mexico Reearch Initiative GRIIDC repository:
-    - Eukaryotic community response to oil and Corexit in a mesocosm, (COAST, Mesocosm 2, October 2015.) Eukaryote RNA sequencing on GRIIDC [UDI R4.x263.189:0011](https://data.gulfresearchinitiative.org/data/R4.x263.189:0011) and doi [10.7266/n7-43q9-xq06](http://dx.doi.org/10.7266/n7-43q9-xq06)
-    - Eukaryotic community response to oil and Corexit in a coastal water mesocosm, (Mesocosm 1, August 2015.) Eukaryote RNA sequencing on GRIIDC [UDI R4.x263.189:0010](https://data.gulfresearchinitiative.org/data/R4.x263.189:0010) and doi [10.7266/n7-kvpb-0878](https://dx.doi.org/10.7266/n7-kvpb-0878)
-    - Percent relative abundance of the eukaryotic microbial community in the GOMCOAST (Gulf of Mexico, Coastal Water, mesocosm 4) mesocosm. Eukaryote RNA sequencing for Mesocosm 4 on GRIIDC [UDI R4.x263.000:0042](https://data.gulfresearchinitiative.org/data/R4.x263.000:0042) doi [10.7266/N7JD4V8Z](https://10.7266/N7JD4V8Z)
-    - Eukaryotic phytoplankton community composition in the COAST (Gulf of Mexico, COASTal water mesocosms amended with coastal microbial concentrate) mesocosm as identified by 18S sequence from RNA-seq whole transcriptome sequencing for four treatments (control, WAF, CEWAF, dilute CEWAF).  18S rRNA sequences for Mesocosm 2 data on GRIIDC [UDI R6.x807.000:0040](https://data.gulfresearchinitiative.org/data/R6.x807.000:0040) and doi [10.7266/032DBZJY](https://dx.doi.org/10.7266/032DBZJY)
-    - Physiological responses of marine phytoplankton exposed to oil and Corexit in culture experiments.  Results from exposure experiments with six different microalgae species.  Data on GRIIDC [UDI R6.x807.000:0014](https://data.gulfresearchinitiative.org/data/R6.x807.000:0014) doi [10.7266/n7-jehv-5771](https://dx.doi.org/10.7266/n7-jehv-5771)
-    - Response of toxigenic Pseudo-nitzschia sp. to oil and dispersant exposure over 6 days.  Results from exposure experiment on Pseudo-nitzschia sp. Data on GRIIDC [UDI R6.x807.000:0035](https://data.gulfresearchinitiative.org/data/R6.x807.000:0035) doi [10.7266/n7-qpqz-hn88](https://dx.doi.org/10.7266/n7-qpqz-hn88)
-
-- Figshare
-    - Sensitivity index for phytoplankton, [10.6084/m9.figshare.8766389.v1](https://doi.org/10.6084/m9.figshare.8766389.v1)
-
-- NCBI
-    - BioProject [PRJNA489497](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA489497).
+- Eukaryotic community response to oil and Corexit in a coastal water mesocosm, (Mesocosm 1, August 2015.) Eukaryote RNA sequencing on GRIIDC [UDI R4.x263.189:0010](https://data.gulfresearchinitiative.org/data/R4.x263.189:0010) and doi [10.7266/n7-kvpb-0878](https://dx.doi.org/10.7266/n7-kvpb-0878)
+- Eukaryotic community response to oil and Corexit in a mesocosm, (COAST, Mesocosm 2, October 2015.) Eukaryote RNA sequencing on GRIIDC [UDI R4.x263.189:0011](https://data.gulfresearchinitiative.org/data/R4.x263.189:0011) and doi [10.7266/n7-43q9-xq06](http://dx.doi.org/10.7266/n7-43q9-xq06)
+- Metatranscriptome analysis of COAST mesocosm on GRIIDC [UDI R6.x807.000:0072](https://data.gulfresearchinitiative.org/data/R6.x807.000:0072) and doi [TBA](https://dx.doi.org/10.7266/TBA)
+- Eukaryotic phytoplankton community composition in the COAST (Gulf of Mexico, COASTal water mesocosms amended with coastal microbial concentrate) mesocosm as identified by 18S sequence from RNA-seq whole transcriptome sequencing for four treatments (control, WAF, CEWAF, dilute CEWAF).  18S rRNA sequences for Mesocosm 2 data on GRIIDC [UDI R6.x807.000:0040](https://data.gulfresearchinitiative.org/data/R6.x807.000:0040) and doi [10.7266/032DBZJY](https://dx.doi.org/10.7266/032DBZJY)
+- Sensitivity index for phytoplankton on figshare [10.6084/m9.figshare.8766389.v1](https://doi.org/10.6084/m9.figshare.8766389.v1)
+- Percent relative abundance of the eukaryotic microbial community in the GOMCOAST (Gulf of Mexico, Coastal Water, mesocosm 4) mesocosm. Eukaryote RNA sequencing for Mesocosm 4 on GRIIDC [UDI R4.x263.000:0042](https://data.gulfresearchinitiative.org/data/R4.x263.000:0042) doi [10.7266/N7JD4V8Z](https://10.7266/N7JD4V8Z)
+- Physiological responses of marine phytoplankton exposed to oil and Corexit in culture experiments.  Results from exposure experiments with six different microalgae species.  Data on GRIIDC [UDI R6.x807.000:0014](https://data.gulfresearchinitiative.org/data/R6.x807.000:0014) doi [10.7266/n7-jehv-5771](https://dx.doi.org/10.7266/n7-jehv-5771)
+- Response of toxigenic Pseudo-nitzschia sp. to oil and dispersant exposure over 6 days.  Results from exposure experiment on Pseudo-nitzschia sp. Data on GRIIDC [UDI R6.x807.000:0035](https://data.gulfresearchinitiative.org/data/R6.x807.000:0035) doi [10.7266/n7-qpqz-hn88](https://dx.doi.org/10.7266/n7-qpqz-hn88)
+- NCBI BioProject [PRJNA489497](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA489497).
 
 
 ### _Chaetocerous affinis_ transcriptome
 
-- NCBI
-    - BioProject [PRJNA495610](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA495610).
+- NCBI BioProject [PRJNA495610](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA495610).
 
 ### Macromolecules
 
