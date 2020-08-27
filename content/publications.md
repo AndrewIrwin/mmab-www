@@ -20,6 +20,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * JC Gradone, MJ Oliver, AR Davies, A Irwin, C Moffat. [Sea Surface Kinetic Energy as a Proxy for Phytoplankton Light Limitation in the Summer Pelagic Southern Ocean](../pubs/gradone-2020-2019JC015646.pdf). _J Geophys Res: Oceans_, **125**: e2019JC015646. [10.1029/2019JC015646](http://dx.doi.org/10.1029/2019JC015646)
   * Z-K Li, G Dai, Y Zhang, K Xu, L Bretherton, ZV Finkel, AJ Irwin, P Juneau, B-S Qiu. Phytosynthetic adaptation to light availability shapes the ecological success of bloom-forming cyanobacterium _Pseudanabaena_ to iron limitation. _J Phycol_ in press. [10.1111/jpy.13040](https://dx.doi.org/10.1111/jpy.13040)
   * CM Mutshinda, ZV Finkel, CE Widdicombe, AJ Irwin. [A trait-based clustering for phytoplankton biomass modeling and prediction](../pubs/mutshinda-2020-clustering.pdf). _Diversity_, **12**: 295. [10.3390/d12080295](https://doi.org/10.3390/d12080295)
+  * MM Amirian, I Towers, Z Jovanoski, AJ Irwin. Memory and mutualism in species sustainability: a time-fractional Lotka-Volterra model with harvesting. _Heliyon_ in press.
 
 # 2019
   * JD Liefer, A Garg, MH Fyfe, AJ Irwin, I Benner, CM Brown, MJ Follows, AW Omta, ZV Finkel. [The Macromolecular Basis of Phytoplankton C:N:P Under Nitrogen Starvation](../pubs/liefer-2019-fmicb-10-00763.pdf). _Front. Microbiol._ **10**: 763. [10.3389/fmicb.2019.00763](https://dx.doi.org/10.3389/fmicb.2019.00763)
@@ -161,11 +162,12 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * AJ Irwin and PD Taylor (2000) [Evolution of dispersal in a stepping-stone population with overlapping generations](../pubs/tpb-dispersal-1490a.pdf). _Theo. Pop. Biol._ **58**: 321-328.  [10.1006/tpbi.2000.1490](http://dx.doi.org/10.1006/tpbi.2000.1490)
   * AJ Irwin and PD Taylor (2000) [Heterozygous advantage and the evolution of female choice](../pubs/eer-1155.pdf). _Evolutionary Ecology Research_ **2**(1): 119-128.
   * PD Taylor and AJ Irwin (2000) [Overlapping generations can promote altruistic behavior](../pubs/taylor-2000-evolution-54.pdf). _Evolution_ **54**(4): 1135-1141.  [10.1111/j.0014-3820.2000.tb00549.x](http://dx.doi.org/10.1111/j.0014-3820.2000.tb00549.x)
-  * PD Taylor, AJ Irwin and T Day (2000) [Inclusive fitness in finite deme-structured and stepping-stone populations](../pubs/taylor-2000-selection-1.pdf). _Selection_ **1**: 153-163.
+  * PD Taylor, AJ Irwin and T Day (2000) [Inclusive fitness in finite deme-structured and stepping-stone populations](../pubs/taylor-2000-selection-1.pdf). _Selection_ **1**: 153-163. [10.1556/select.1.2000.1-3.15](https://dx.doi.org/10.1556/select.1.2000.1-3.15)
 
 # Earlier
-  * ZV Finkel (1998) [Diatoms: Size and metabolic processes](../pubs/finkel-1998-masters_thesis.pdf). M.Sc. thesis. Dalhousie University.
+  * ZV Finkel (1998) [Diatoms: Size and metabolic processes](../pubs/finkel-1998-masters_thesis.pdf). M.Sc. thesis. Dalhousie University. [National Library of Canada](https://www.collectionscanada.ca/obj/s4/f2/dsk2/ftp03/MQ36438.pdf)
   * AJ Irwin and BD Shizgal (1995) A discrete velocity model for relaxation of anisotropic distribution functions. _Rarefied Gas Dynamics_ **19**: 654-651.
   * NC Kenkel and AJ Irwin (1994) [Fractal analysis of dispersal](../pubs/kenkel-1994-abstracta_botanica.pdf). _Abstracta Botantica_ **18**: 79-84. [JSTOR](https://www.jstor.org/stable/43519530)
+  * AJ Irwin (1993) The discrete-velocity method in plasma physics. M.Sc. thesis. University of British Columbia. [Archive](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0080528)
   * AJ Irwin, SJ Fraser, R Kapral (1990) [Stochastically induced coherence in bistable systems](../pubs/ifk-prl-64-2343_figure_fixed.pdf). _Phys. Rev. Lett._ **64**: 2343-2346.  [10.1103/PhysRevLett.64.2343](http://dx.doi.org/10.1103/PhysRevLett.64.2343) and the comment AJ Irwin, SJ Fraser, R Kapral (1990) _Phys. Rev. Lett._ **65**: 3357. 
   * AJ Irwin and SJ Fraser (1990) [Cellular automaton model of chemical wave propagation on fractals](../pubs/fraser-1990-jcp-ca.pdf). _J. Chem. Phys._ **93**: 3471-3483.  [10.1063/1.458829](http://dx.doi.org/10.1063/1.458829)
