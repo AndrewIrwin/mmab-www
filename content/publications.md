@@ -21,6 +21,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * Z-K Li, G Dai, Y Zhang, K Xu, L Bretherton, ZV Finkel, AJ Irwin, P Juneau, B-S Qiu. [Phytosynthetic adaptation to light availability shapes the ecological success of bloom-forming cyanobacterium _Pseudanabaena_ to iron limitation](../pubs/li-2020-cyano.pdf). _J Phycol_ in press. [10.1111/jpy.13040](https://dx.doi.org/10.1111/jpy.13040)
   * CM Mutshinda, ZV Finkel, CE Widdicombe, AJ Irwin. [A trait-based clustering for phytoplankton biomass modeling and prediction](../pubs/mutshinda-2020-clustering.pdf). _Diversity_, **12**: 295. [10.3390/d12080295](https://doi.org/10.3390/d12080295)
   * MM Amirian, I Towers, Z Jovanoski, AJ Irwin. Memory and mutualism in species sustainability: a time-fractional Lotka-Volterra model with harvesting. _Heliyon_ in press.
+  * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. Dynamic photophysiological stress response of a model diatom to ten environmental stresses. _J Phycol_ in press.
 
 # 2019
   * JD Liefer, A Garg, MH Fyfe, AJ Irwin, I Benner, CM Brown, MJ Follows, AW Omta, ZV Finkel. [The Macromolecular Basis of Phytoplankton C:N:P Under Nitrogen Starvation](../pubs/liefer-2019-fmicb-10-00763.pdf). _Front. Microbiol._ **10**: 763. [10.3389/fmicb.2019.00763](https://dx.doi.org/10.3389/fmicb.2019.00763)

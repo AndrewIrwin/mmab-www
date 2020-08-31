@@ -26,7 +26,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
  ORCID [0000-0001-7784-2319](http://orcid.org/0000-0001-7784-2319), email: a.irwin at dal.ca.) 
 
 ## Lab manager
-* [Dr Ruby Hu](../people/hu) (email: Ruby.Hu at dal.ca)
+* [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
 
 ## Research associates
 * [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), email: crispin.mutshinda at dal.ca)
