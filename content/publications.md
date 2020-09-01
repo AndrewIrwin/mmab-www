@@ -20,7 +20,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * JC Gradone, MJ Oliver, AR Davies, A Irwin, C Moffat. [Sea Surface Kinetic Energy as a Proxy for Phytoplankton Light Limitation in the Summer Pelagic Southern Ocean](../pubs/gradone-2020-2019JC015646.pdf). _J Geophys Res: Oceans_, **125**: e2019JC015646. [10.1029/2019JC015646](http://dx.doi.org/10.1029/2019JC015646)
   * Z-K Li, G Dai, Y Zhang, K Xu, L Bretherton, ZV Finkel, AJ Irwin, P Juneau, B-S Qiu. [Phytosynthetic adaptation to light availability shapes the ecological success of bloom-forming cyanobacterium _Pseudanabaena_ to iron limitation](../pubs/li-2020-cyano.pdf). _J Phycol_ in press. [10.1111/jpy.13040](https://dx.doi.org/10.1111/jpy.13040)
   * CM Mutshinda, ZV Finkel, CE Widdicombe, AJ Irwin. [A trait-based clustering for phytoplankton biomass modeling and prediction](../pubs/mutshinda-2020-clustering.pdf). _Diversity_, **12**: 295. [10.3390/d12080295](https://doi.org/10.3390/d12080295)
-  * MM Amirian, I Towers, Z Jovanoski, AJ Irwin. Memory and mutualism in species sustainability: a time-fractional Lotka-Volterra model with harvesting. _Heliyon_ in press.
+  * MM Amirian, I Towers, Z Jovanoski, AJ Irwin. [Memory and mutualism in species sustainability: a time-fractional Lotka-Volterra model with harvesting](../pubs/amirian-2020-harvesting.pdf). _Heliyon_ **6**(8): e04816.  [10.1016/j.heliyon.2020.e04816](https://doi.org/10.1016/j.heliyon.2020.e04816). [arXiv](https://arxiv.org/abs/1904.12340)
   * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. Dynamic photophysiological stress response of a model diatom to ten environmental stresses. _J Phycol_ in press.
 
 # 2019
