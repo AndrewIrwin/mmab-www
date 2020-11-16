@@ -56,6 +56,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Yinjie Meng (Statistics, Honours)
 * Zonglin Wu (Statistics, Honours)
 * Seoyeon Cali Park (Statistics)
+* Gracie Walker (Biology, Mathematics, UWaterloo co-op)
 
 ## Collaborators
 * Wupeng Xiao (Xiamen University)
