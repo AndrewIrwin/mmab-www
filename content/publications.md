@@ -9,7 +9,7 @@ Slug: publications
 
 Publications and citations from Google Scholar ([Irwin](http://scholar.google.com/citations?user=wFFLMuUAAAAJ&hl=en), [Finkel](http://scholar.google.com/citations?user=zfV-o4gAAAAJ&hl=en)), ORCID ([Irwin](http://orcid.org/0000-0001-7784-2319), [Finkel](http://orcid.org/0000-0003-4212-3917)), Europe PubMed Central ([Irwin](https://europepmc.org/authors/0000-0001-7784-2319)), and Researcher ID ([Irwin](http://www.researcherid.com/rid/B-2245-2008), [Finkel](http://www.researcherid.com/rid/B-9626-2008)).
 
-For each paper, the title links to a PDF copy of the article and the doi links to the journal's copy of the paper. Supplementary information is provided under separate links where applicable.
+For each paper, the title links to a PDF copy of the article and the doi links to the journal's copy of the paper. Supplementary information is provided under separate links where applicable. Links to Internet Archive copies are marked with IA.
 
 # 2020
   * ZV Finkel, Y Liang, D Nanjappa, L Bretherton, CM Brown, A Quigg, AJ Irwin. [A ribosomal sequence-based oil sensitivity index for phytoplankton groups](../pubs/finkel-2020-mpb-index.pdf). _Marine Pollution Bulletin_, **151**: 110798. [10.1016/j.marpolbul.2019.110798](https://doi.org/10.1016/j.marpolbul.2019.110798). Data in [GRIIDC](https://data.gulfresearchinitiative.org/data/R6.x807.000:0040), [Figshare](https://doi.org/10.6084/m9.figshare.8766389), and [NCBI SRA](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA489497).
@@ -38,7 +38,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
   * L Bretherton, A Williams, J Genzer, J Hillhouse, M Kamalanthan, ZV Finkel, AS Quigg. [Physiological response of 10 phytoplankton species exposed to macondo oil and the dispersant, Corexit](../pubs/bretherton-2018-jphycol.pdf). _J. Phycol._ **54**: 317-328. [10.1111/jpy.12625](https://dx.doi.org/10.1111/jpy.12625)
   * J Liefer, A Garg, D Campbell, AJ Irwin, ZV Finkel. [Nitrogen starvation induces distinct photosynthetic responses and recovery dynamics in diatoms and prasinophytes](../pubs/Liefer-2018-PLOSONE.pdf). _PLOS One_. e0195705. [10.1371/journal.pone.0195705](https://doi.org/10.1371/journal.pone.0195705)
   * N McGinty, AD Barton, NR Record, ZV Finkel, AJ Irwin. [Traits structure copepod niches in the North Atlantic and Southern Ocean](../pubs/mcginty-2018-meps-m601p109.pdf). _Mar. Ecol. Prog. Ser._ **601**: 109-126. [10.3354/meps12660](https://dx.doi.org/10.3354/meps12660)
-  * PA Ajani, N McGinty, ZV Finkel, AJ Irwin. [Phytoplankton realised niches track changing oceanic conditions at a long-term coastal station off Syndney Australia](../pubs/ajani-2018-fmars-05-00285.pdf). _Frontiers in Marine Science_, **5**: 285. [10.3389/fmars.2018.00285](https://dx.doi.org/10.3389/fmars.2018.00285)
+  * PA Ajani, N McGinty, ZV Finkel, AJ Irwin. [Phytoplankton realised niches track changing oceanic conditions at a long-term coastal station off Syndney Australia](../pubs/ajani-2018-fmars-05-00285.pdf). _Frontiers in Marine Science_, **5**: 285. [10.3389/fmars.2018.00285](https://dx.doi.org/10.3389/fmars.2018.00285) [IA](https://fatcat.wiki/release/gsd4nei62ffe5oi75tig3dmx4a)
 
 # 2017
   * P Tréguer, C Bowler, B Moriceau, S Dutkiewicz, M Gehlen, O Aumont, L Bittner, R Dugdale, Z Finkel, D Iudicone, O Jahn, L Guidi, M Lasbleiz, K Leblanc, M Levy, P Pondaven. [Influence of diatom diversity on the ocean biological carbon pump](../pubs/treguer-2017-nature-geosciences.pdf).  _Nature Geoscience_, **11**: 27-37. [10.1038/s41561-017-0028-x](https://dx.doi.org/10.1038/s41561-017-0028-x)
@@ -87,8 +87,8 @@ For each paper, the title links to a PDF copy of the article and the doi links t
 
 # 2011
   * M Grey and ZV Finkel.  [The Joggins Fossil Cliffs UNESCO world heritage site: a review of recent research](../pubs/grey-2012-ag-47-185.pdf).  _Atlantic Geology_ **47**: 185-200.  [10.4138/atlgeol.2011.009](http://dx.doi.org/10.4138/atlgeol.2011.009)
-  * ZP Mei, ZV Finkel, AJ Irwin.  [Phytoplankton growth allometry and size-dependent C:N stoichiometry revealed by a variable quota model](../pubs/mei-2011-m434p029.pdf). _Mar. Ecol. Prog. Ser._ **434**: 29-43 [10.3354/meps09149](http://dx.doi.org/10.3354/meps09149)
-  * B Chen, AJ Irwin, ZV Finkel.  [Biogeographic distribution of diversity and size-structure of organic-walled dinoflagellate cysts](../pubs/chen-2011-meps-425-35.pdf). _Mar. Ecol. Prog. Ser._ **425**: 35-45.  [10.3354/meps08985](http://dx.doi.org/10.3354/meps08985)  
+  * ZP Mei, ZV Finkel, AJ Irwin.  [Phytoplankton growth allometry and size-dependent C:N stoichiometry revealed by a variable quota model](../pubs/mei-2011-m434p029.pdf). _Mar. Ecol. Prog. Ser._ **434**: 29-43 [10.3354/meps09149](http://dx.doi.org/10.3354/meps09149) [IA](https://fatcat.wiki/release/mxdemujn7fdfhivimogtl6nvfy)
+  * B Chen, AJ Irwin, ZV Finkel.  [Biogeographic distribution of diversity and size-structure of organic-walled dinoflagellate cysts](../pubs/chen-2011-meps-425-35.pdf). _Mar. Ecol. Prog. Ser._ **425**: 35-45.  [10.3354/meps08985](http://dx.doi.org/10.3354/meps08985)  [IA](https://fatcat.wiki/release/2vv7uggmmzaqhhei4vvh6xnrsu)
     * [Supplementary information](../pubs/chen-2011-meps-m425p035_supp.pdf)
   * AS Quigg, AJ Irwin, ZV Finkel.  [Evolutionary inheritance of elemental stoichiometry in phytoplankton](../pubs/quigg-2011-prsb-526.pdf).  _Proceedings of the Royal Society of London B_ **278**: 526-534.  [10.1098/rspb.2010.1356](http://dx.doi.org/10.1098/rspb.2010.1356).  
     * [Supplementary information](../pubs/quigg-2010-prsb-supplement.pdf)
@@ -140,7 +140,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
 
 # 2004
 
-  * ZV Finkel, AJ Irwin and O Schofield.  [Resource limitation alters the 3/4 size-scaling of metabolic rates in phytoplankton](../pubs/finkel-2004-meps-allometry-m273p269.pdf). _Mar. Ecol. Prog. Ser._ **273**: 269-279.  [10.3354/meps273269](http://dx.doi.org/10.3354/meps273269)
+  * ZV Finkel, AJ Irwin and O Schofield.  [Resource limitation alters the 3/4 size-scaling of metabolic rates in phytoplankton](../pubs/finkel-2004-meps-allometry-m273p269.pdf). _Mar. Ecol. Prog. Ser._ **273**: 269-279.  [10.3354/meps273269](http://dx.doi.org/10.3354/meps273269) [IA](https://fatcat.wiki/release/wj5ch6tex5gx5cmgfsupa2f3te)
   * O Schofield, R Arnone, P Bissett, C Davis, ZV Finkel, M Oliver, M Moline.  [Watercolors in the coastal zone: what can we see?](../pubs/schofield-2004-oceanography-5.19.pdf) _Oceanography_ **17**(2): 30-37.
   * ME Katz, ZV Finkel, D Grzebyk, A Knoll, PG Falkowski.  [Evolutionary trajectories and biogeochemical impacts of marine eukaryotic phytoplankton](../pubs/katz-2004-arees-ar229-es35-19_523-556_.pdf). _Annual review of ecology, evolution, and systematics_ **35**: 523-556.  [10.1146/annurev.ecolsys.35.112202.130137](http://dx.doi.org/10.1146/annurev.ecolsys.35.112202.130137)
   * MJ Oliver, S Glenn, JT Kohut, AJ Irwin, OM Schofield, MA Moline and WP Bissett.  [Bioinformatic Approaches for Objective Detection of Water Masses On Continental Shelves](../pubs/oliver-2004-jgr-2003jc002072.pdf). _J. Geophys. Res._ **109**.  [10.1029/2003JC002072](http://dx.doi.org/10.1029/2003JC002072)

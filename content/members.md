@@ -53,9 +53,9 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
 
 ## Undergraduate students
-* Jacob Miller (Mathematics, Actuarial Science)
 * Yinjie Meng (Statistics, Honours)
 * Zonglin Wu (Statistics, Honours)
+* Seoyeon Cali Park (Statistics)
 
 ## Collaborators
 * Wupeng Xiao (Xiamen University)
@@ -69,6 +69,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Nick Record](https://www.bigelow.org/research/srs/nick-record/) (Bigelow)
 
 ## Past members
+  * Jacob Miller (Mathematics, Actuarial Science)
   * [Dr Yue Liang](../people/liang) (Chinese Academy of Sciences & Pilot National Lab for Marine Science and Technology)
   * Mirelle Naud (MtA, Biology, English)
   * [Dr Zhi-Ping Mei](../people/mei) ([Google scholar](https://scholar.google.ca/citations?user=CFaB2cAAAAAJ))

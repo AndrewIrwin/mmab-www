@@ -11,7 +11,7 @@ Slug: data
 
 ### Protocols for Macromolecule Quantification
 
-* Preparation of oxalate reagent (YY Hu, ZV Finkel, 2020) [protols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-bhkvj4w6)
+* Preparation of oxalate reagent (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-bhkvj4w6)
 * Total RNA and DNA in microalgae: The extraction and quantification (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-in-microalgae-the-extraction-and-bbnwimfe)
 * Lipids in microalgae: The extraction by modified Folch solvent (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/lipids-in-microalgae-the-extraction-by-modified-fo-bbu9inz6)
 * Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/lipids-in-microalgae-quantitation-by-acid-dichroma-bamiic4e)
