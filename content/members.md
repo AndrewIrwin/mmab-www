@@ -45,12 +45,12 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Dr Sing-How Tuo (coming soon, [Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001)
 
 ## Graduate students
-* Jonathan Bradet-Legris (M.Sc. candidate, Statistics)
+* Jonathan Bradet-Legris (M.Sc. candidate, Statistics, jn807397 at dal.ca)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
-* Mohammad Amirian (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
+* Mohammad Amirian (Ph.D. candidate, Applied mathematics) (M.Amirianmatlob at dal.ca, [Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
 * Kate McLeod (M.Sc. candidate, Oceanography, on leave)
 * Pramir K C (Ph.D. candidate, Oceanography)
-* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
+* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics, BBeardsall at dal.ca)
 
 ## Undergraduate students
 * Yinjie Meng (Statistics, Honours)
