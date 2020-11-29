@@ -1,5 +1,5 @@
 ---
-title: Haooy Anniversary to out new lab
+title: Happy Anniversary to our new lab
 Summary: We've been in our new lab for two years
 publishDate: "2020-11-29T12:00:00"
 author: AJ Irwin
