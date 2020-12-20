@@ -11,6 +11,13 @@ Publications and citations from Google Scholar ([Irwin](http://scholar.google.co
 
 For each paper, the title links to a PDF copy of the article and the doi links to the journal's copy of the paper. Supplementary information is provided under separate links where applicable. Links to Internet Archive copies are marked with IA.
 
+# 2021
+
+* N McGinty, AD Barton, NR Record, ZV Finkel, DG Johns, CA Stock, AJ Irwin.
+Anthropogenic climate change impacts on copepod trait biogeography. 
+_Global Change Biology_ in press.
+
+
 # 2020
   * ZV Finkel, Y Liang, D Nanjappa, L Bretherton, CM Brown, A Quigg, AJ Irwin. [A ribosomal sequence-based oil sensitivity index for phytoplankton groups](../pubs/finkel-2020-mpb-index.pdf). _Marine Pollution Bulletin_, **151**: 110798. [10.1016/j.marpolbul.2019.110798](https://doi.org/10.1016/j.marpolbul.2019.110798). Data in [GRIIDC](https://data.gulfresearchinitiative.org/data/R6.x807.000:0040), [Figshare](https://doi.org/10.6084/m9.figshare.8766389), and [NCBI SRA](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA489497).
   * ZV Finkel, AJ Irwin. [Phytoplankton](../pubs/finkel-2020-phytoplankton-astro.pdf). In Gargaud et al. (eds) [Encyclopedia of Astrobiology](https://link.springer.com/referencework/10.1007/978-3-642-11274-4). Springer. Book doi [10.1007/978-3-642-27833-4](https://doi.org/10.1007/978-3-642-27833-4), chapter doi [10.1007/978-3-642-27833-4_5416-1](https://dx.doi.org/10.1007%2F978-3-642-27833-4_5416-1).
