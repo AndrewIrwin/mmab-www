@@ -15,7 +15,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
 
 * N McGinty, AD Barton, NR Record, ZV Finkel, DG Johns, CA Stock, AJ Irwin.
 Anthropogenic climate change impacts on copepod trait biogeography. 
-_Global Change Biology_ in press.
+_Global Change Biology_ in press. [10.1111/gcb.15499](https://dx.doi.org/10.1111/gcb.15499)
 
 
 # 2020
