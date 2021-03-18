@@ -9,6 +9,8 @@ Slug: publications
 
 Publications and citations from Google Scholar ([Irwin](http://scholar.google.com/citations?user=wFFLMuUAAAAJ&hl=en), [Finkel](http://scholar.google.com/citations?user=zfV-o4gAAAAJ&hl=en)), ORCID ([Irwin](http://orcid.org/0000-0001-7784-2319), [Finkel](http://orcid.org/0000-0003-4212-3917)), Europe PubMed Central ([Irwin](https://europepmc.org/authors/0000-0001-7784-2319)), and Researcher ID ([Irwin](http://www.researcherid.com/rid/B-2245-2008), [Finkel](http://www.researcherid.com/rid/B-9626-2008)).
 
+On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing world](http://bio.mmab.ca/Irwin-on-demand-seminar.mp4), March 2021.
+
 For each paper, the title links to a PDF copy of the article and the doi links to the journal's copy of the paper. Supplementary information is provided under separate links where applicable. Links to Internet Archive copies are marked with IA.
 
 # 2021
