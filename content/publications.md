@@ -15,11 +15,12 @@ For each paper, the title links to a PDF copy of the article and the doi links t
 
 # 2021
 
-* N McGinty, AD Barton, NR Record, ZV Finkel, DG Johns, CA Stock, AJ Irwin.
+  * N McGinty, AD Barton, NR Record, ZV Finkel, DG Johns, CA Stock, AJ Irwin.
 [Anthropogenic climate change impacts on copepod trait biogeography](../pubs/mcginty-2021-gcb-15499.pdf). 
 _Global Change Biology_ **27**: 1431-1442. [10.1111/gcb.15499](https://dx.doi.org/10.1111/gcb.15499)
-* O Carnicer, AJ Irwin, ZV Finkel. Traits influence dinoflagellate C:N:P. _European
+  * O Carnicer, AJ Irwin, ZV Finkel. Traits influence dinoflagellate C:N:P. _European
 J Phycology_, in press.
+  * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. [Dynamic photophysiological stress response of a model diatom to ten environmental stresses](../pubs/li-2021-jphycol=13072.pdf). _J Phycol_ **57**: 484-495. [10.1111/jpy.13072](https://doi.org/10.1111/jpy.13072)
 
 # 2020
   * ZV Finkel, Y Liang, D Nanjappa, L Bretherton, CM Brown, A Quigg, AJ Irwin. [A ribosomal sequence-based oil sensitivity index for phytoplankton groups](../pubs/finkel-2020-mpb-index.pdf). _Marine Pollution Bulletin_, **151**: 110798. [10.1016/j.marpolbul.2019.110798](https://doi.org/10.1016/j.marpolbul.2019.110798). Data in [GRIIDC](https://data.gulfresearchinitiative.org/data/R6.x807.000:0040), [Figshare](https://doi.org/10.6084/m9.figshare.8766389), and [NCBI SRA](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA489497).
@@ -31,7 +32,6 @@ J Phycology_, in press.
   * Z-K Li, G Dai, Y Zhang, K Xu, L Bretherton, ZV Finkel, AJ Irwin, P Juneau, B-S Qiu. [Phytosynthetic adaptation to light availability shapes the ecological success of bloom-forming cyanobacterium _Pseudanabaena_ to iron limitation](../pubs/li-2020-cyano.pdf). _J Phycol_ **56**: 1457-1467. [10.1111/jpy.13040](https://dx.doi.org/10.1111/jpy.13040)
   * CM Mutshinda, ZV Finkel, CE Widdicombe, AJ Irwin. [A trait-based clustering for phytoplankton biomass modeling and prediction](../pubs/mutshinda-2020-clustering.pdf). _Diversity_, **12**: 295. [10.3390/d12080295](https://doi.org/10.3390/d12080295)
   * MM Amirian, I Towers, Z Jovanoski, AJ Irwin. [Memory and mutualism in species sustainability: a time-fractional Lotka-Volterra model with harvesting](../pubs/amirian-2020-harvesting.pdf). _Heliyon_ **6**(8): e04816.  [10.1016/j.heliyon.2020.e04816](https://doi.org/10.1016/j.heliyon.2020.e04816). [arXiv](https://arxiv.org/abs/1904.12340)
-  * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. Dynamic photophysiological stress response of a model diatom to ten environmental stresses. _J Phycol_ in press. [10.1111/jpy.13072](https://doi.org/10.1111/jpy.13072)
 
 # 2019
   * JD Liefer, A Garg, MH Fyfe, AJ Irwin, I Benner, CM Brown, MJ Follows, AW Omta, ZV Finkel. [The Macromolecular Basis of Phytoplankton C:N:P Under Nitrogen Starvation](../pubs/liefer-2019-fmicb-10-00763.pdf). _Front. Microbiol._ **10**: 763. [10.3389/fmicb.2019.00763](https://dx.doi.org/10.3389/fmicb.2019.00763)
