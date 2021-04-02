@@ -20,7 +20,7 @@ For each paper, the title links to a PDF copy of the article and the doi links t
 _Global Change Biology_ **27**: 1431-1442. [10.1111/gcb.15499](https://dx.doi.org/10.1111/gcb.15499)
   * O Carnicer, AJ Irwin, ZV Finkel. Traits influence dinoflagellate C:N:P. _European
 J Phycology_, in press.
-  * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. [Dynamic photophysiological stress response of a model diatom to ten environmental stresses](../pubs/li-2021-jphycol=13072.pdf). _J Phycol_ **57**: 484-495. [10.1111/jpy.13072](https://doi.org/10.1111/jpy.13072)
+  * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. [Dynamic photophysiological stress response of a model diatom to ten environmental stresses](../pubs/li-2021-jphycol-13072.pdf). _J Phycol_ **57**: 484-495. [10.1111/jpy.13072](https://doi.org/10.1111/jpy.13072)
 
 # 2020
   * ZV Finkel, Y Liang, D Nanjappa, L Bretherton, CM Brown, A Quigg, AJ Irwin. [A ribosomal sequence-based oil sensitivity index for phytoplankton groups](../pubs/finkel-2020-mpb-index.pdf). _Marine Pollution Bulletin_, **151**: 110798. [10.1016/j.marpolbul.2019.110798](https://doi.org/10.1016/j.marpolbul.2019.110798). Data in [GRIIDC](https://data.gulfresearchinitiative.org/data/R6.x807.000:0040), [Figshare](https://doi.org/10.6084/m9.figshare.8766389), and [NCBI SRA](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA489497).
