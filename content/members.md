@@ -36,10 +36,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Post-docs
 * Dr Suchandan Bemal (email: Suchandan.Bemal at dal.ca [Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ))
-* Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at mta.ca)
-* Dr Olga Carnicer (email: olga.carnicer at dal.ca)
 * Dr Vinitha Ebenezer (email: vebenezer at dal.ca)
-* Dr Zhengke Li (email: zkli at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
 * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
 * Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001))
@@ -47,13 +44,10 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Graduate students
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
 * Mohammad Amirian (Ph.D. candidate, Applied mathematics) (M.Amirianmatlob at dal.ca, [Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
-* Kate McLeod (M.Sc. candidate, Oceanography, on leave)
 * Pramir K C (Ph.D. candidate, Oceanography)
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics, BBeardsall at dal.ca)
 
 ## Undergraduate students
-* Yinjie Meng (Statistics, Honours)
-* Zonglin Wu (Statistics, Honours)
 * Seoyeon Cali Park (Statistics)
 * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
 
@@ -69,6 +63,12 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Nick Record](https://www.bigelow.org/research/srs/nick-record/) (Bigelow)
 
 ## Past members
+  * Dr Zhengke Li (email: zkli at dal.ca)
+  * Kate McLeod (M.Sc. candidate, Oceanography, on leave)
+  * Yinjie Meng (Statistics, Honours)
+  * Zonglin Wu (Statistics, Honours)
+  * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at mta.ca)
+  * Dr Olga Carnicer (email: olga.carnicer at dal.ca)
   * Jonathan Bradet-Legris (M.Sc. Statistics)
   * Jacob Miller (Mathematics, Actuarial Science)
   * [Dr Yue Liang](../people/liang) (Chinese Academy of Sciences & Pilot National Lab for Marine Science and Technology)
