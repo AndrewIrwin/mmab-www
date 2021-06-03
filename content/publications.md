@@ -22,7 +22,7 @@ _Global Change Biology_ **27**: 1431-1442. [10.1111/gcb.15499](https://dx.doi.or
 J Phycology_, in press. [10.1080/09670262.2021.1914860](https://doi.org/10.1080/09670262.2021.1914860)
   * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. [Dynamic photophysiological stress response of a model diatom to ten environmental stresses](../pubs/li-2021-jphycol-13072.pdf). _J Phycol_ **57**: 484-495. [10.1111/jpy.13072](https://doi.org/10.1111/jpy.13072)
   * Y Liang, L Bretherton, CM Brown, U Passow, A Quigg, AJ Irwin, ZV Finkel.  Transcriptome-wide responses of aggregates of the diatom _Odontella aurita_ to oil. _Mar. Ecol. Prog. Ser._ in press.
-  * Y Zhang, Z-K Li, KG Schulz, Y Hu, AJ Irwin, ZV Finkel. Growth-dependent changes in elemental stoichiometry and macromolecular allocation in the coccolithophore _Emiliania huxleyi_ under different environmental conditions.  _Limnology and Oceanography_ in press. [10.1002/lno.11854](https://dx.doi.org/10.1002/lno.11854)
+  * Y Zhang, Z-K Li, KG Schulz, Y Hu, AJ Irwin, ZV Finkel. [Growth-dependent changes in elemental stoichiometry and macromolecular allocation in the coccolithophore _Emiliania huxleyi_ under different environmental conditions](../pubs/zhang-2021-lo-11854.pdf).  _Limnology and Oceanography_ in press. [10.1002/lno.11854](https://dx.doi.org/10.1002/lno.11854)
 
 
 # 2020
