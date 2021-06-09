@@ -5,7 +5,7 @@ date: 2019 April 18
 
 We are an interdisciplinary research group interested in large-scale ecological, evolutionary and biogeochemical phenomena in the oceans.  Our primary goal is to understand and anticipate the effects of climate change on marine organisms, specifically phytoplankton using a combination of theoretical and data-driven models, remote-sensed, field and laboratory data, and the fossil record.
 
-Researchers in our lab particpate in several large collaborative research projects:
+Researchers in our lab participate in several large collaborative research projects:
 [Computational Biogeochemical Modeling of Marine Ecosystems](https://cbiomes.org/) (CBIOMES),
 [Simons Collaboration on Ocean Processes and Ecology - Gradients](https://www.simonsfoundation.org/life-sciences/microbial-oceanography/simons-collaboration-on-ocean-processes-and-ecology/scope-gradients/) (SCOPE=Gradients), and
 [North West Atlantic Biological Carbon Pump](http://nwa-bcp.ocean.dal.ca/) (NWA-BCP).

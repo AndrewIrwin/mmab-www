@@ -25,11 +25,9 @@ science, physics, chemistry and biology are welcome to contact Drs.
 Irwin and/or Finkel. Please send a statement of your interests, a
 description of your program of study, and an unofficial transcript.
 
-We have already recruited undergraduate students for summer 2020 and we do not anticipate adding any more undergraduate students to our lab this year.
+# Post-doctoral researcher opportunities
 
-# Graduate student and Post-doctoral researcher opportunities
-
-We are recruiting graduate students and post-doctoral fellows to
+We are recruiting post-doctoral fellows to
 work on the Computational Biogeochemical Modeling of Marine Ecosystems
 (CBIOMES) project. CBIOMES is an interdisciplinary, multi-institutional
 project funded by the Simons Foundation to better understand the
@@ -65,15 +63,15 @@ successful applicant.
 
 Researchers will be given exposure to interdisciplinary research
 and the opportunity to develop skills in a variety of areas including:
-statistical analyses, bioinformatics, modelling, and laboratory
+statistical analyses, bioinformatics, modeling, and laboratory
 work. Ideally applicants will have an interest in, expertise or
 familiarity with one or more of the following: phytoplankton culture,
 oceanic cruise experience, physiological, biochemical and molecular
 assays on phytoplankton, bioinformatics techniques especially
-transcriptomics on non-model organisms, marine ecological modelling,
+transcriptomics on non-model organisms, marine ecological modeling,
 or computationally-intensive statistical analyses.
 
-Students and post-doctoral fellows are to be housed at Dalhousie
+Researchers will join Dalhousie
 University in the Oceanography or Mathematics and Statistics
 departments to work with Dr. Zoe Finkel and Dr. Andrew Irwin. There
 will be opportunities to interact with collaborating groups at MIT,
