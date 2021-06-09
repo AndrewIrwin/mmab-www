@@ -14,16 +14,14 @@ phytoplankton community structure, feedbacks between phytoplankton
 community structure and climate change, and the macroevolutionary
 history of phytoplankton communities.
 ([Google scholar](http://scholar.google.com/citations?user=zfV-o4gAAAAJ&hl=en),
- Researcher ID [B-9626-2008](http://www.researcherid.com/rid/B-9626-2008),
- ORCID [0000-0003-4212-3917](http://orcid.org/0000-0003-4212-3917), email: zfinkel at dal.ca.)
+ [ORCID](http://orcid.org/0000-0003-4212-3917), email: zfinkel at dal.ca.)
 
 ## Andrew J. Irwin 
 **Mathematics & Statistics**
 
 I use mathematical and statistical models to study the marine biosphere, phytoplankton growth, and environmental influences on the distribution of phytoplankton in the ocean. 
 ([Google scholar](http://scholar.google.com/citations?user=wFFLMuUAAAAJ&hl=en),
- Researcher ID [B-2245-2008](http://www.researcherid.com/rid/B-2245-2008),
- ORCID [0000-0001-7784-2319](http://orcid.org/0000-0001-7784-2319), email: a.irwin at dal.ca.) 
+ [ORCID](https://orcid.org/0000-0001-7784-2319), email: a.irwin at dal.ca.) 
 
 ## Lab manager
 * [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
@@ -39,10 +37,10 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Dr Vinitha Ebenezer (email: vebenezer at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
 * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
-* Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001))
+* Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001), stuo at dal.ca)
 
 ## Graduate students
-* Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
+* Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 * Mohammad Amirian (Ph.D. candidate, Applied mathematics) (M.Amirianmatlob at dal.ca, [Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
 * Pramir K C (Ph.D. candidate, Oceanography)
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics, BBeardsall at dal.ca)

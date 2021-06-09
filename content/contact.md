@@ -9,7 +9,7 @@ Menulabel: Contact
 > Halifax, NS, B3H 4R2   
 > Canada  
 > zfinkel at dal dot ca  
-> +1 (506) 364-2615  
+> +1 (506) 364-5747 
 
 >  Andrew J. Irwin  
 >  Dept. of Mathematics and Statistics  
