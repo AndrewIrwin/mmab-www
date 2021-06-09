@@ -49,17 +49,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Seoyeon Cali Park (Statistics)
 * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
 
-## Collaborators
-* Wupeng Xiao (Xiamen University)
-* Mick Follows, Stephanie Dutkiewicz and the [Darwin Project](http://darwinproject.mit.edu/) (MIT)
-* [Matt Oliver](http://www.ceoe.udel.edu/our-people/profiles/moliver) (University of Delaware, Lewes)
-* [Doug Campbell](https://sites.google.com/site/campbellphytoplankton/) (Mount Allison, Biology)
-* [Amanda Cockshutt](http://www.mta.ca/Community/Bios/Amanda_Cockshutt/Amanda_Cockshutt/) (Mount Allison, Chemistry & Biochemistry)
-* [Environmental Proteomics](http://www.environmentalproteomics.ca).
-* [Antonietta Quigg](http://www.tamug.edu/phytoplankton/People/Antonietta_Quigg.html) and the Phytoplankton Dynamics Laboratory at Texas A&M Galveston.
-* [Andrew Barton](https://adbarton.scrippsprofiles.ucsd.edu/) (UCSD, Scripps)
-* [Nick Record](https://www.bigelow.org/research/srs/nick-record/) (Bigelow)
-
 ## Past members
   * Dr Zhengke Li (email: zkli at dal.ca)
   * Kate McLeod (M.Sc. candidate, Oceanography, on leave)
