@@ -26,6 +26,9 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Lab manager
 * [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
 
+## Project manager
+* Laura Carvalho Morris
+
 ## Research associates
 * [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), email: crispin.mutshinda at dal.ca)
 
@@ -42,7 +45,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Graduate students
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 * Mohammad Amirian (Ph.D. candidate, Applied mathematics) (M.Amirianmatlob at dal.ca, [Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
-* Pramir K C (Ph.D. candidate, Oceanography)
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics, BBeardsall at dal.ca)
 
 ## Undergraduate students
@@ -50,8 +52,9 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
 
 ## Past members
+  * Pramir K C (Ph.D. candidate, Oceanography)
   * Dr Zhengke Li (email: zkli at dal.ca)
-  * Kate McLeod (M.Sc. candidate, Oceanography, on leave)
+  * Kate McLeod (M.Sc. candidate, Oceanography)
   * Yinjie Meng (Statistics, Honours)
   * Zonglin Wu (Statistics, Honours)
   * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at mta.ca)
