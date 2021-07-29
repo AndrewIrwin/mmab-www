@@ -36,7 +36,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Khadijah Carey (email: kh901662 at dal.ca)
 
 ## Post-docs
-* Dr Suchandan Bemal (email: Suchandan.Bemal at dal.ca [Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ))
+* Dr Suchandan Bemal ([Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ), email: Suchandan.Bemal at dal.ca)
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at dal.ca)
 * Dr Vinitha Ebenezer (email: vebenezer at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
@@ -45,11 +45,11 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Graduate students
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
-* Mohammad Amirian (Ph.D. candidate, Applied mathematics) (M.Amirianmatlob at dal.ca, [Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
+* Mohammad Amirian (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics, BBeardsall at dal.ca)
 
 ## Undergraduate students
-* Seoyeon Cali Park (Statistics)
+* Seoyeon Cali Park (Statistics, Honours)
 * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
 
 ## Past members
