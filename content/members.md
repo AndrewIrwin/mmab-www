@@ -50,9 +50,9 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Undergraduate students
 * Seoyeon Cali Park (Statistics, Honours)
-* Gracie Walker (Biology, Mathematics, UWaterloo co-op)
 
 ## Past members
+  * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
   * Pramir K C (Ph.D. candidate, Oceanography)
   * Dr Zhengke Li (email: zkli at dal.ca)
   * Kate McLeod (M.Sc. candidate, Oceanography)
