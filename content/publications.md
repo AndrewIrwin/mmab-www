@@ -17,6 +17,9 @@ Publication and citation data can be found here:
 
 On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing world](http://bio.mmab.ca/Irwin-on-demand-seminar.mp4), recorded in March 2021.
 
+# 2022
+
+* CM Mutshinda, A Mishra, ZV Finkel, CE Widdicombe, AJ Irwin. Bayesian two-part modeling of phytoplankton biomass and occurrence. _Hydrobiologia_. In press. 
 
 # 2021
 
