@@ -20,6 +20,7 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 # 2022
 
 * CM Mutshinda, A Mishra, ZV Finkel, CE Widdicombe, AJ Irwin. Bayesian two-part modeling of phytoplankton biomass and occurrence. _Hydrobiologia_. In press. 
+* V Ebenezer, Y Hu, O Carnicer, AJ Irwin, MJ Follows, ZV Finkel. Elemental and macromolecular composition of the marine Chloropicophyceae, a major group of oceanic photosynthetic picoeukaryotes. _Limnology & Oceanography_ in press.
 
 # 2021
 
