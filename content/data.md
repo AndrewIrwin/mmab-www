@@ -12,10 +12,10 @@ Slug: data
 ### Protocols for Macromolecule Quantification
 
 * Preparation of oxalate reagent (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-brhwm37e)
-* Total RNA and DNA in microalgae: The extraction and quantification (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-in-microalgae-bmdsk26e)
-* Lipids in microalgae: The extraction by modified Folch solvent (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/lipids-in-microalgae-the-extraction-by-modified-fo-bbu9inz6)
+* Total RNA and DNA in microalgae (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-in-microalgae-b2e8qbhw)
+* Rapid extraction of total lipids from microalgae (YY Hu, ZV Finkel, 2021) [protocols.io](https://www.protocols.io/view/rapid-extraction-of-total-lipids-from-microalgae-bx2zpqf6)
 * Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/lipids-in-microalgae-quantitation-by-acid-dichroma-bamiic4e)
-* Inorganic polyphosphate in microalgae: A DAPI-based quantification in microtiter plate (YY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/inorganic-polyphosphate-in-microalgae-a-dapi-based-banbidan)
+* Inorganic polyphosphate in microalgae: A DAPI-based quantification in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/inorganic-polyphosphate-from-microalgae-a-dapi-bas-b3n4qmgw)
  
 
 ## Datasets
