@@ -38,7 +38,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Post-docs
 * Dr Suchandan Bemal ([Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ), email: Suchandan.Bemal at dal.ca)
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at dal.ca)
-* Dr Vinitha Ebenezer (email: vebenezer at dal.ca)
+* Dr Vinitha Ebenezer ([ORCID](https://orcid.org/0000-0002-7653-0097), email: vebenezer at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at mta.ca)
 * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
 * Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001), stuo at dal.ca)
