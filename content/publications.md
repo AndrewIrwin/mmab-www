@@ -18,9 +18,9 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 
 # 2022
 
-* CM Mutshinda, A Mishra, ZV Finkel, CE Widdicombe, AJ Irwin. [Bayesian two-part modeling of phytoplankton biomass and occurrence](mutshinda-2022-hydrobiologia.pdf). _Hydrobiologia_. In press. [10.1007/s10750-021-04789-2](https://dx.doi.org/10.1007/s10750-021-04789-2)
-* V Ebenezer, Y Hu, O Carnicer, AJ Irwin, MJ Follows, ZV Finkel. [Elemental and macromolecular composition of the marine Chloropicophyceae, a major group of oceanic photosynthetic picoeukaryotes](ebenezer-2022-lo.pdf). _Limnology & Oceanography_ in press. [10.1002/lno.12013](https://dx.doi.org/10.1002/lno.12013)
-* JR Casey, RM Boiteau, KM Engqvist, ZV Finkel, G Li, J Liefer, CL Muller, N Munoz, MJ Follows. [Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology](casey-2022-sci-advances.pdf). _Science Advances_ *8*: eabl4930. [10.1126/sciadv.abl4930](https://doi.org/10.1126/sciadv.abl4930)
+* CM Mutshinda, A Mishra, ZV Finkel, CE Widdicombe, AJ Irwin. [Bayesian two-part modeling of phytoplankton biomass and occurrence](../pubs/mutshinda-2022-hydrobiologia.pdf). _Hydrobiologia_. In press. [10.1007/s10750-021-04789-2](https://dx.doi.org/10.1007/s10750-021-04789-2)
+* V Ebenezer, Y Hu, O Carnicer, AJ Irwin, MJ Follows, ZV Finkel. [Elemental and macromolecular composition of the marine Chloropicophyceae, a major group of oceanic photosynthetic picoeukaryotes](../pubs/ebenezer-2022-lo.pdf). _Limnology & Oceanography_ in press. [10.1002/lno.12013](https://dx.doi.org/10.1002/lno.12013)
+* JR Casey, RM Boiteau, KM Engqvist, ZV Finkel, G Li, J Liefer, CL Muller, N Munoz, MJ Follows. [Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology](../pubs/casey-2022-sci-advances.pdf). _Science Advances_ *8*: eabl4930. [10.1126/sciadv.abl4930](https://doi.org/10.1126/sciadv.abl4930)
 
 # 2021
 
