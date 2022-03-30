@@ -1,7 +1,7 @@
 ---
 Title: Lab members
 Menulabel: Members
-Date: 2019-04-01 12:00
+Date: 2022-04-01 12:00
 ---
 
 Email addresses for lab members are listed below.
@@ -40,18 +40,22 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Dr Suchandan Bemal ([Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ), email: Suchandan.Bemal at dal.ca)
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at dal.ca)
 * Dr Vinitha Ebenezer ([ORCID](https://orcid.org/0000-0002-7653-0097), email: vebenezer at dal.ca)
-* Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
 * Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001), stuo at dal.ca)
 
 ## Graduate students
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 * Mohammad Amirian Matlob (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics, BBeardsall at dal.ca)
+* Seoyeon Cali Park (M.Sc. candidate, Statistics)
 
 ## Undergraduate students
-* Seoyeon Cali Park (Statistics, Honours)
+* Linh Dinh (Mathematics & Statistics)
+* Amelie Frappier (Marine Biology)
+* Julianne Jager
+* Catherine Savard (Earth System Science, Queen's U)
 
 ## Past members
+  * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
   * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
   * Pramir K C (Ph.D. candidate, Oceanography)
   * Dr Zhengke Li ([ORCID](http://orcid.org/0000-0001-8735-2313), email: zkli at dal.ca)
