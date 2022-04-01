@@ -30,7 +30,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Laura Carvalho Morris
 
 ## Research associates
-* [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), email: crispin.mutshinda at dal.ca)
+* [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), [ORCID](https://orcid.org/0000-0001-9671-7812), email: crispin.mutshinda at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at dal.ca)
 
 ## Lab technician
