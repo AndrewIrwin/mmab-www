@@ -51,6 +51,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Catherine Savard (Earth System Science, Queen's U)
 
 ## Past members
+  * Laura Carvalho Morris (project manager)
   * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
   * Seoyeon Cali Park (Statistics)
   * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
