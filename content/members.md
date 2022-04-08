@@ -46,7 +46,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 * Mohammad Amirian Matlob (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics, BBeardsall at dal.ca)
-* Seoyeon Cali Park (M.Sc. candidate, Statistics)
 
 ## Undergraduate students
 * Linh Dinh (Mathematics & Statistics)
@@ -56,6 +55,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Past members
   * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
+  * Seoyeon Cali Park (Statistics)
   * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
   * Pramir K C (Ph.D. candidate, Oceanography)
   * Dr Zhengke Li ([ORCID](http://orcid.org/0000-0001-8735-2313), email: zkli at dal.ca)
