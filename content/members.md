@@ -54,7 +54,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Past members
   * Laura Carvalho Morris (project manager)
   * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
-  * Seoyeon Cali Park (Statistics)
+  * Seoyeon Cali Park (Statistics, Honours)
   * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
   * Pramir K C (Ph.D. candidate, Oceanography)
   * Dr Zhengke Li ([ORCID](http://orcid.org/0000-0001-8735-2313), email: zkli at dal.ca)
