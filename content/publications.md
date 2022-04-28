@@ -26,7 +26,7 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 # 2021
 
   * O Carnicer, AJ Irwin, ZV Finkel. [Traits influence dinoflagellate C:N:P](../pubs/carnicer-2021-dino-cnp.pdf). _European
-J Phycology_, in press. [10.1080/09670262.2021.1914860](https://doi.org/10.1080/09670262.2021.1914860)
+J Phycology_ **57**: 154-165. [10.1080/09670262.2021.1914860](https://doi.org/10.1080/09670262.2021.1914860)
   * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. [Dynamic photophysiological stress response of a model diatom to ten environmental stresses](../pubs/li-2021-jphycol-13072.pdf). _J Phycol_ **57**: 484-495. [10.1111/jpy.13072](https://doi.org/10.1111/jpy.13072)
   * Y Liang, L Bretherton, CM Brown, U Passow, A Quigg, AJ Irwin, ZV Finkel.  [Transcriptome-wide responses of aggregates of the diatom _Odontella aurita_ to oil](../pubs/liang-2021-meps-m671p067.pdf). _Mar. Ecol. Prog. Ser._ **671**: 67-79. [10.3354/meps13749](https://doi.org/10.3354/meps13749)
   * N McGinty, A Barton, DG Johns, ZV Finkel, AJ Irwin. [Niche conservation in copepods between ocean basins](../pubs/mcginty-2021-ecog.05690.pdf). _Ecography_ **44**: 1653-1664. [10.1111/ecog.05690](https://doi.org/10.1111/ecog.05690)
