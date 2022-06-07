@@ -13,8 +13,8 @@ Slug: data
 
 * Preparation of oxalate reagent (YYY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-brhwm37e)
 * Total RNA and DNA in microalgae (YYY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-in-microalgae-b2e8qbhw)
-* Rapid extraction of total lipids from microalgae (YYY Hu, ZV Finkel, 2021) [protocols.io](dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v4)
-* Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YYY Hu, ZV Finkel, 2020) [protocols.io](dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2)
+* Rapid extraction of total lipids from microalgae (YYY Hu, ZV Finkel, 2021) [protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v4)
+* Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YYY Hu, ZV Finkel, 2020) [protocols.io](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2)
 * Inorganic polyphosphate in microalgae: A DAPI-based quantification in microtiter plate (YYY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/inorganic-polyphosphate-from-microalgae-a-dapi-bas-b3n4qmgw)
 * An X-HTDC method for estimating particulate phosphorus from microalgae (YYY Hu, ZF Finkel, 2021) [protocols.io](https://www.protocols.io/view/an-x-htdc-method-for-estimating-particulate-phosph-bwskpecw)
  
