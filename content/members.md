@@ -46,12 +46,14 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 
 ## Undergraduate students
-* Linh Dinh (Mathematics & Statistics)
 * Amelie Frappier (Marine Biology)
 * Julianne Jager
+* Christopher Lord
+* Isabel Ross
 * Catherine Savard (Earth System Science, Queen's U)
 
 ## Past members
+  * Linh Dinh (Mathematics & Statistics)
   * Laura Carvalho Morris (project manager)
   * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), jtsiddons at dal.ca)
   * Seoyeon Cali Park (Statistics, Honours)
