@@ -22,7 +22,7 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 * V Ebenezer, Y Hu, O Carnicer, AJ Irwin, MJ Follows, ZV Finkel. [Elemental and macromolecular composition of the marine Chloropicophyceae, a major group of oceanic photosynthetic picoeukaryotes](../pubs/ebenezer-2022-lo.pdf). _Limnology & Oceanography_ **67**: 540-551. [10.1002/lno.12013](https://dx.doi.org/10.1002/lno.12013)
 * Z-K Li, Y Zhang, W Li, AJ Irwin, ZV Finkel. [Conservation and architecture of housekeeping genes in the model marine diatom _Thalassiosira pseudonana_](../pubs/Li-2022-new-phytologist.pdf). _New Phytologist_ **234**: 1363-1376. [10.1111/nph.18039](https://dx.doi.org/10.1111/nph.18039)
 * CM Mutshinda, A Mishra, ZV Finkel, CE Widdicombe, AJ Irwin. [Bayesian two-part modeling of phytoplankton biomass and occurrence](../pubs/mutshinda-2022-hydrobiologia.pdf). _Hydrobiologia_ **849**: 1287-1300. [10.1007/s10750-021-04789-2](https://dx.doi.org/10.1007/s10750-021-04789-2)
-* JT Siddons, AJ Irwin, ZV Finkel. Graphical analysis of a marine plankton community reveals spatial, temporal, and niche structure of sub-communities. _Frontiers in Marine Science_ 943540. [10.3389/fmars.2022.943540](https://dx.doi.org/10.3389/fmars.2022.943540)
+* JT Siddons, AJ Irwin, ZV Finkel. [Graphical analysis of a marine plankton community reveals spatial, temporal, and niche structure of sub-communities](../pubs/siddons-2022-fmars.pdf). _Frontiers in Marine Science_ **9**: 943540. [10.3389/fmars.2022.943540](https://dx.doi.org/10.3389/fmars.2022.943540)
 * MM Amirian, AJ Irwin, ZV Finkel. Extending the Monod Model of Microbial Growth with Memory. arXiv [10.48550/arXiv.2207.02028](https://doi.org/10.48550/arXiv.2207.02028)
 
 # 2021
