@@ -24,6 +24,8 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 * CM Mutshinda, A Mishra, ZV Finkel, CE Widdicombe, AJ Irwin. [Bayesian two-part modeling of phytoplankton biomass and occurrence](../pubs/mutshinda-2022-hydrobiologia.pdf). _Hydrobiologia_ **849**: 1287-1300. [10.1007/s10750-021-04789-2](https://dx.doi.org/10.1007/s10750-021-04789-2)
 * JT Siddons, AJ Irwin, ZV Finkel. [Graphical analysis of a marine plankton community reveals spatial, temporal, and niche structure of sub-communities](../pubs/siddons-2022-fmars.pdf). _Frontiers in Marine Science_ **9**: 943540. [10.3389/fmars.2022.943540](https://dx.doi.org/10.3389/fmars.2022.943540)
 * MM Amirian, AJ Irwin, ZV Finkel. Extending the Monod Model of Microbial Growth with Memory. arXiv [10.48550/arXiv.2207.02028](https://doi.org/10.48550/arXiv.2207.02028)
+* YY Hu, AJ Irwin, ZV Finkel. Improving quantification of particulate phosphorus. _Limnology and Oceanography: Methods_, in press.
+
 
 # 2021
 
