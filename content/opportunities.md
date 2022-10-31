@@ -44,7 +44,8 @@ If you are interested in joining our research group, please write us a statement
 
 Please send your responses to [Andrew Irwin](mailto:a.irwin@dal.ca) or 
 [Zoe Finkel](mailto:zfinkel@dal.ca).
-(Adapted from [JHU EAPS](https://eps.jhu.edu/graduate/admissions/).)
+(Adapted from [JHU EAPS](https://eps.jhu.edu/graduate/admissions/) and
+[ORB Lab, UDel](https://sites.udel.edu/ceoe-moliver/).)
 
 # Post-doctoral researcher opportunities
 
