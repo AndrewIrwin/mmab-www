@@ -25,6 +25,24 @@ science, physics, chemistry and biology are welcome to contact Drs.
 Irwin and/or Finkel. Please send a statement of your interests, a
 description of your program of study, and an unofficial transcript.
 
+# Information for prospective graduate students
+
+We are looking for excellent, motivated students from a variety of backgrounds,
+including students with an undergraduate degree in biochemistry, oceanography, biology, statistics, applied mathematics, or environmental science.
+
+Admissions processes for graduate school are described by the departments
+of [oceanography](https://www.dal.ca/faculty/science/oceanography/GraduatePrograms1.html) and [mathematics and statistics](https://www.dal.ca/faculty/science/math-stats/programs/graduate-studies.html). 
+
+If you are interested in joining our research group, please write us a statement of interest that answers the following questions:
+
+1. What topics in biological oceanography or applied statistics that excite you? Why?
+2. What research methods (lab experiments, statistical or mathematical modelling) are you most interested in developing?
+3. What are your personal and professional goals that will be addressed by working on a graduate degree? How will joining our group at Dalhousie University help you achieve those goals?
+4. What preparation or experience do you bring to the program that will help you succeed? This could include specific courses, research experiences, or other work and extra-curricular experiences.
+
+Please send your responses to Andrew Irwin or Zoe Finkel.
+(Adapted from [JHU EAPS](https://eps.jhu.edu/graduate/admissions/).)
+
 # Post-doctoral researcher opportunities
 
 We are recruiting post-doctoral fellows to
