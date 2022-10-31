@@ -35,12 +35,15 @@ of [oceanography](https://www.dal.ca/faculty/science/oceanography/GraduateProgra
 
 If you are interested in joining our research group, please write us a statement of interest that answers the following questions:
 
-1. What topics in biological oceanography or applied statistics that excite you? Why?
+1. What topics in biological oceanography or applied statistics excite you? Why?
 2. What research methods (lab experiments, statistical or mathematical modelling) are you most interested in developing?
 3. What are your personal and professional goals that will be addressed by working on a graduate degree? How will joining our group at Dalhousie University help you achieve those goals?
 4. What preparation or experience do you bring to the program that will help you succeed? This could include specific courses, research experiences, or other work and extra-curricular experiences.
+5. How do your research interests and goals fit within the work done in our lab? For example, tell us about something you found interesting in a research paper we published.
 
-Please send your responses to Andrew Irwin or Zoe Finkel.
+
+Please send your responses to [Andrew Irwin](mailto:a.irwin@dal.ca) or 
+[Zoe Finkel](mailto:zfinkel@dal.ca).
 (Adapted from [JHU EAPS](https://eps.jhu.edu/graduate/admissions/).)
 
 # Post-doctoral researcher opportunities
