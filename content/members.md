@@ -30,12 +30,8 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), [ORCID](https://orcid.org/0000-0001-9671-7812), email: crispin.mutshinda at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at dal.ca)
 
-## Lab technician
-* Khadijah Carey (email: kh901662 at dal.ca)
-
 ## Post-docs
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at dal.ca)
-* Dr Vinitha Ebenezer ([Google scholar](https://scholar.google.com/citations?user=U26WeNAAAAAJ), [ORCID](https://orcid.org/0000-0002-7653-0097), email: vebenezer at dal.ca)
 * Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001), stuo at dal.ca)
 
 ## Graduate students
@@ -48,8 +44,11 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Julianne Jager (Mechanical Engineering)
 * Christopher Lord
 * Isabel Ross
+* Xinya Calhoun
 
 ## Past members
+  * Khadijah Carey (lab technician)
+  * Dr Vinitha Ebenezer ([Google scholar](https://scholar.google.com/citations?user=U26WeNAAAAAJ), [ORCID](https://orcid.org/0000-0002-7653-0097))
   * Amelie Frappier (Marine Biology)
   * Catherine Savard (Earth System Science, Queen's U)
   * Dr Suchandan Bemal ([Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ))
