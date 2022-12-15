@@ -44,7 +44,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Julianne Jager (Mechanical Engineering)
 * Christopher Lord
 * Isabel Ross
-* Xinya Calhoun
 
 ## Past members
   * Khadijah Carey (lab technician)
