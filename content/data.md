@@ -1,22 +1,13 @@
----
-title: 'Protocols and data from our lab'
-author: 'AJ Irwin'
-date: '2020-03-01'
-Menulabel: Data
-Date: 2020-02-24 12:00
-Slug: data
----
-
 ## Protocols
 
 ### Protocols for Macromolecule Quantification
 
-* Preparation of oxalate reagent (YYY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-brhwm37e)
-* Total RNA and DNA in microalgae (YYY Hu, ZV Finkel, 2020) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-in-microalgae-b2e8qbhw)
-* Rapid extraction of total lipids from microalgae (YYY Hu, ZV Finkel, 2021) [protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v4)
-* Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YYY Hu, ZV Finkel, 2020) [protocols.io](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2)
-* Inorganic polyphosphate in microalgae: A DAPI-based quantification in microtiter plate (YYY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/inorganic-polyphosphate-from-microalgae-a-dapi-bas-b3n4qmgw)
-* An X-HTDC method for estimating particulate phosphorus from microalgae (YYY Hu, ZF Finkel, 2021) [protocols.io](https://www.protocols.io/view/an-x-htdc-method-for-estimating-particulate-phosph-bwskpecw). [10.17504/protocols.io.kqdg35dq7v25/v5](https://dx.doi.org/10.17504/protocols.io.kqdg35dq7v25/v5)
+* Preparation of oxalate reagent (YY Hu, ZV Finkel, 2021) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-dm6gpr6yjvzp/v2)
+* Total RNA and DNA in microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-from-microalgae-24-samples-per-d-6qpvro85bvmk/v10)
+* Rapid extraction of total lipids from microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v5)
+* Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2)
+* Inorganic polyphosphate in microalgae: A DAPI-based quantification in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/inorganic-polyphosphate-from-microalgae-a-dapi-bas-n2bvjy3rpvk5/v6)
+* An X-HTDC method for estimating particulate phosphorus from microalgae (YY Hu, ZF Finkel, 2022) [protocols.io](https://www.protocols.io/view/an-x-htdc-method-for-estimating-particulate-phosph-kqdg35dq7v25/v6). [10.17504/protocols.io.kqdg35dq7v25/v5](https://dx.doi.org/10.17504/protocols.io.kqdg35dq7v25/v6)
  
 
 ## Datasets
