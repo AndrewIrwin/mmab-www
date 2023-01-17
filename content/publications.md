@@ -16,6 +16,10 @@ Publication and citation data can be found here:
 
 On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing world](http://bio.mmab.ca/Irwin-on-demand-seminar.mp4), recorded in March 2021.
 
+# 2023
+
+* CM Mutshinda, A Mishra, ZV Finkel, AJ Irwin. Density regulation amplifies environmentally induced population fluctuations. _Peer J_, in press.
+
 # 2022
 
 * JR Casey, RM Boiteau, KM Engqvist, ZV Finkel, G Li, J Liefer, CL Muller, N Munoz, MJ Follows. [Basin-scale biogeography of marine phytoplankton reflects cellular-scale optimization of metabolism and physiology](../pubs/casey-2022-sci-advances.pdf). _Science Advances_ *8*: eabl4930. [10.1126/sciadv.abl4930](https://doi.org/10.1126/sciadv.abl4930)
@@ -25,7 +29,6 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 * JT Siddons, AJ Irwin, ZV Finkel. [Graphical analysis of a marine plankton community reveals spatial, temporal, and niche structure of sub-communities](../pubs/siddons-2022-fmars.pdf). _Frontiers in Marine Science_ **9**: 943540. [10.3389/fmars.2022.943540](https://dx.doi.org/10.3389/fmars.2022.943540)
 * MM Amirian, AJ Irwin, ZV Finkel. [Extending the Monod Model of Microbial Growth with Memory](../pubs/amirian-2022-fmars.pdf). arXiv [10.48550/arXiv.2207.02028](https://doi.org/10.48550/arXiv.2207.02028), _Frontiers Mar. Sci._. [10.3389/fmars.2022.963734](https://dx.doi.org/10.3389/fmars.2022.963734)
 * YY Hu, AJ Irwin, ZV Finkel. [Improving quantification of particulate phosphorus](../pubs/hu-2022-lom.pdf). _Limnology and Oceanography: Methods_. **20**: 729-740. [10.1002/lom3.10517](https://doi.org/10.1002/lom3.10517)
-* CM Mutshinda, A Mishra, ZV Finkel, AJ Irwin. Density regulation amplifies environmentally induced population fluctuations. _Peer J_, in press.
 
 
 # 2021
