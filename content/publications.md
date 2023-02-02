@@ -18,7 +18,7 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 
 # 2023
 
-* CM Mutshinda, A Mishra, ZV Finkel, AJ Irwin. Density regulation amplifies environmentally induced population fluctuations. _Peer J_, in press.
+* CM Mutshinda, A Mishra, ZV Finkel, AJ Irwin. [Density regulation amplifies environmentally induced population fluctuations](../pubs/mutshinda-2023-peerj.pdf). _Peer J_ **11**: e14701. [10.7717/peerj.14701](https://doi.org/10.7717/peerj.14701)
 
 # 2022
 
