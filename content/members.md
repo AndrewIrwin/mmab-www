@@ -35,7 +35,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Post-docs
 * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at dal.ca)
-* Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001), stuo at dal.ca)
 
 ## Graduate students
 * Mohammad Amirian Matlob (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
@@ -44,11 +43,21 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 
 ## Undergraduate students
+* Aaraya Aad 
 * Julianne Jager (Mechanical Engineering)
+* Ayane Inuzuka-Boyle
 * Christopher Lord
+* Elena Milito 
+* Felix Moye
+* Daniel Ng
+* Zoe Nutsford
+* Emily Rivard
 * Isabel Ross
+* Caitlin Taylor
+* Junlin Wu 
 
 ## Past members
+  * Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001))
   * Khadijah Carey (lab technician)
   * Dr Vinitha Ebenezer ([Google scholar](https://scholar.google.com/citations?user=U26WeNAAAAAJ), [ORCID](https://orcid.org/0000-0002-7653-0097))
   * Amelie Frappier (Marine Biology)
