@@ -3,12 +3,12 @@
 ### Protocols for Macromolecule Quantification
 
 * Measurement of biogenic silica from phytoplankton (YY Hu, N Samarasinghe, ZV Finkel, 2023) [protocols.io](https://www.protocols.io/view/measurement-of-biogenic-silica-from-plankton-8epv5jjzjl1b/v2) [10.17504/protocols.io.8epv5jjzjl1b/v2](https://dx.doi.org/10.17504/protocols.io.8epv5jjzjl1b/v2)
-* Preparation of oxalate reagent (YY Hu, ZV Finkel, 2021) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-dm6gpr6yjvzp/v2)
-* Total RNA and DNA in microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-from-microalgae-24-samples-per-d-6qpvro85bvmk/v10)
-* Rapid extraction of total lipids from microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v5)
-* Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2)
+* Preparation of oxalate reagent (YY Hu, ZV Finkel, 2021) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-dm6gpr6yjvzp/v2) [10.17504/protocols.io.dm6gpr6yjvzp/v2](https://dx.doi.org/10.17504/protocols.io.dm6gpr6yjvzp/v2)
+* Total RNA and DNA in microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-from-microalgae-12-samples-per-m-6qpvro85bvmk/v11) [10.17504/protocols.io.6qpvro85bvmk/v11](https://dx.doi.org/10.17504/protocols.io.6qpvro85bvmk/v11)
+* Rapid extraction of total lipids from microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v5) [10.17504/protocols.io.dm6gpr9jdvzp/v5](https://dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v5)
+* Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2) [10.17504/protocols.io.e6nvw9dpzgmk/v2](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2)
 * Inorganic polyphosphate in microalgae: A DAPI-based quantification in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/inorganic-polyphosphate-from-microalgae-a-dapi-bas-n2bvjy3rpvk5/v6)
-* An X-HTDC method for estimating particulate phosphorus from microalgae (YY Hu, ZF Finkel, 2022) [protocols.io](https://www.protocols.io/view/an-x-htdc-method-for-estimating-particulate-phosph-kqdg35dq7v25/v6). [10.17504/protocols.io.kqdg35dq7v25/v5](https://dx.doi.org/10.17504/protocols.io.kqdg35dq7v25/v6)
+* An X-HTDC method for estimating particulate phosphorus from microalgae (YY Hu, ZF Finkel, 2022) [protocols.io](https://www.protocols.io/view/an-x-htdc-method-for-estimating-particulate-phosph-kqdg35dq7v25/v6). [10.17504/protocols.io.kqdg35dq7v25/v6](https://dx.doi.org/10.17504/protocols.io.kqdg35dq7v25/v6)
  
 
 ## Datasets
