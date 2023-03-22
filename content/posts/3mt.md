@@ -9,13 +9,9 @@ Nuwanthi Samarasinghe recently participated in the 3MT (three-minute thesis) eve
 
 Congratulations to Nuwanthi for her presentation titled: "Do Small Diatoms Matter in the Ocean?" Nuwanthi showed the audience how the smallest diatoms really are important contributors to the marine phytoplankton communities and biogeochemical cycles.
 
-<span style="float:right">
-![Photo](/images/IMG_7746.JPG)
-</span>
+{{< figure src="/images/IMG_7746.JPG" title="Nuwanthi Samarasinge presenting her 3MT." >}}
 
-<span style="float:right">
-![Photo](/images/IMG_7750.JPG)
-</span>
+{{< figure src="/images/IMG_7750.JPG" title="The 2023 finalists for Dalhousie's 3MT event." >}}
 
 
  
