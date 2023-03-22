@@ -2,6 +2,8 @@
 
 ### Protocols for Macromolecule Quantification
 
+
+* DAPI-Based Polyphosphate Estimation with Extraction Sufficiency Validation: A Method for Quantifying Polyphosphate from Microalgae Samples (YY Hu, ZV Finkel, 2023) [protocols.io](https://www.protocols.io/view/dapi-based-polyphosphate-estimation-with-extractio-ewov1ox87lr2/v1) [10.17504/protocols.io.ewov1ox87lr2/v1](https://dx.doi.org/10.17504/protocols.io.ewov1ox87lr2/v1)
 * Measurement of biogenic silica from phytoplankton (YY Hu, N Samarasinghe, ZV Finkel, 2023) [protocols.io](https://www.protocols.io/view/measurement-of-biogenic-silica-from-plankton-8epv5jjzjl1b/v2) [10.17504/protocols.io.8epv5jjzjl1b/v2](https://dx.doi.org/10.17504/protocols.io.8epv5jjzjl1b/v2)
 * Preparation of oxalate reagent (YY Hu, ZV Finkel, 2021) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-dm6gpr6yjvzp/v2) [10.17504/protocols.io.dm6gpr6yjvzp/v2](https://dx.doi.org/10.17504/protocols.io.dm6gpr6yjvzp/v2)
 * Total RNA and DNA in microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-from-microalgae-12-samples-per-m-6qpvro85bvmk/v11) [10.17504/protocols.io.6qpvro85bvmk/v11](https://dx.doi.org/10.17504/protocols.io.6qpvro85bvmk/v11)
