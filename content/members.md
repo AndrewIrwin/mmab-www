@@ -44,7 +44,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Undergraduate students
 * Aaraya Aad 
-* Julianne Jager (Mechanical Engineering)
 * Ayane Inuzuka-Boyle
 * Christopher Lord
 * Elena Milito 
@@ -52,11 +51,12 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Daniel Ng
 * Zoe Nutsford
 * Emily Rivard
-* Isabel Ross
 * Caitlin Taylor
 * Junlin Wu 
 
 ## Past members
+  * Julianne Jager (Mechanical Engineering)
+  * Isabel Ross
   * Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001), now at National Sun Yat-sen University, Taiwan) 
   * Khadijah Carey (lab technician)
   * Dr Vinitha Ebenezer ([Google scholar](https://scholar.google.com/citations?user=U26WeNAAAAAJ), [ORCID](https://orcid.org/0000-0002-7653-0097))
