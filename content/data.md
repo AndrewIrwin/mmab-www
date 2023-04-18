@@ -24,6 +24,10 @@
 
 ## Datasets
 
+### Stoichiometry
+
+- RM Sheward, JD Liefer, AJ Irwin, ZV Finkel (2023) The _Emiliania hyxleyi_ stoichiometry database. [10.5281/zenodo.7594880](https://dx.doi.org/10.5281/zenodo.7594880)
+
 ### Effects of oil on phytoplankton
 
 - Eukaryotic community response to oil and Corexit in a coastal water mesocosm, (Mesocosm 1, August 2015.) Eukaryote RNA sequencing on GRIIDC [UDI R4.x263.189:0010](https://data.gulfresearchinitiative.org/data/R4.x263.189:0010) and doi [10.7266/n7-kvpb-0878](https://dx.doi.org/10.7266/n7-kvpb-0878)
