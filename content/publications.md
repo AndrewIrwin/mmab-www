@@ -18,7 +18,7 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 
 # 2023
 
-* N McGinty, AJ Irwin, ZV Finkel, S Dutkiewicz. Using ecological partitions to assess zooplankton biogeography and seasonality. _Frontiers_ **10**: in press. [10.3389/fmars.2023.989770](https://dx.doi.org/10.3389/fmars.2023.989770)
+* N McGinty, AJ Irwin, ZV Finkel, S Dutkiewicz. [Using ecological partitions to assess zooplankton biogeography and seasonality](../pubs/mcginty-2023-fmars-10-989770.pdf). _Frontiers_ **10**: 989770. [10.3389/fmars.2023.989770](https://dx.doi.org/10.3389/fmars.2023.989770)
 * CM Mutshinda, A Mishra, ZV Finkel, AJ Irwin. [Density regulation amplifies environmentally induced population fluctuations](../pubs/mutshinda-2023-peerj.pdf). _Peer J_ **11**: e14701. [10.7717/peerj.14701](https://doi.org/10.7717/peerj.14701)
 
 # 2022
