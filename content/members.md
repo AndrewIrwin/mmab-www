@@ -42,11 +42,11 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 
 ## Undergraduate students
+  * Aaraya Aad 
   * Christopher Lord
   * Mohammad Sadra Dehghani
 
 ## Past members
-  * Aaraya Aad 
   * Ayane Inuzuka-Boyle
   * Elena Milito 
   * Felix Moye
