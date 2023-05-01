@@ -30,7 +30,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Mykola Prus
 
 ## Research associates
-* [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), [ORCID](https://orcid.org/0000-0001-9671-7812), email: crispin.mutshinda at dal.ca)
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), email: nmcginty at dal.ca)
 
 ## Post-docs
@@ -43,18 +42,20 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 
 ## Undergraduate students
-* Aaraya Aad 
-* Ayane Inuzuka-Boyle
-* Christopher Lord
-* Elena Milito 
-* Felix Moye
-* Daniel Ng
-* Zoe Nutsford
-* Emily Rivard
-* Caitlin Taylor
-* Junlin Wu 
+  * Christopher Lord
+  * Mohammad Sadra Dehghani
 
 ## Past members
+  * Aaraya Aad 
+  * Ayane Inuzuka-Boyle
+  * Elena Milito 
+  * Felix Moye
+  * Daniel Ng
+  * Zoe Nutsford
+  * Emily Rivard
+  * Caitlin Taylor
+  * Junlin Wu 
+  * [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), [ORCID](https://orcid.org/0000-0001-9671-7812))
   * Julianne Jager (Mechanical Engineering)
   * Isabel Ross
   * Dr Sing-How Tuo ([Google scholar](https://scholar.google.ca/citations?user=_fIzMm8AAAAJ), [ORCID](https://orcid.org/0000-0003-0620-2001), now at National Sun Yat-sen University, Taiwan) 
