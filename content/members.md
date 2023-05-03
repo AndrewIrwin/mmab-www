@@ -44,6 +44,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Undergraduate students
   * Aaraya Aad 
   * Christopher Lord
+  * Emily Rivard
   * Mohammad Sadra Dehghani
 
 ## Past members
@@ -52,7 +53,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * Felix Moye
   * Daniel Ng
   * Zoe Nutsford
-  * Emily Rivard
   * Caitlin Taylor
   * Junlin Wu 
   * [Dr Crispin Mutshinda](../people/mutshinda) ([Google scholar](https://scholar.google.ca/citations?user=LTUJJ_AAAAAJ), [ORCID](https://orcid.org/0000-0001-9671-7812))
