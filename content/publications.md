@@ -14,7 +14,6 @@ Publication and citation data can be found here:
 * ORCID ([Irwin](http://orcid.org/0000-0001-7784-2319), [Finkel](http://orcid.org/0000-0003-4212-3917))
 * Scopus ([Irwin](https://www.scopus.com/authid/detail.uri?authorId=7007182936), [Finkel](https://www.scopus.com/authid/detail.uri?authorId=6602961240)) 
 
-On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing world](http://bio.mmab.ca/Irwin-on-demand-seminar.mp4), recorded in March 2021.
 
 # 2023
 
@@ -35,6 +34,7 @@ On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing w
 
 # 2021
 
+  * On-demand seminar from Andrew Irwin, [Phytoplankton biogeography in a changing world](http://bio.mmab.ca/Irwin-on-demand-seminar.mp4), recorded in March 2021.
   * O Carnicer, AJ Irwin, ZV Finkel. [Traits influence dinoflagellate C:N:P](../pubs/carnicer-2021-dino-cnp.pdf). _European
 J Phycology_ **57**: 154-165. [10.1080/09670262.2021.1914860](https://doi.org/10.1080/09670262.2021.1914860)
   * ZK Li, W Li, Y Zhang, Y Hu, R Sheward, AJ Irwin, ZV Finkel. [Dynamic photophysiological stress response of a model diatom to ten environmental stresses](../pubs/li-2021-jphycol-13072.pdf). _J Phycol_ **57**: 484-495. [10.1111/jpy.13072](https://doi.org/10.1111/jpy.13072)
