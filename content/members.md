@@ -27,6 +27,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
 
 ## Technical staff:
+* Artem Dzhulai
 * Mykola Prus
 
 ## Research associates
