@@ -17,7 +17,7 @@ Publication and citation data:
 
 # 2023
 
-* O Carnicer, YY Hu, V Ebenezer, AJ Irwin, ZV Finkel. Genomic architecture constrains macromolecular allocation in dinoflagellates. _Protist_, in press. [10.1016/j.protis.2023.125992](https://doi.org/10.1016/j.protis.2023.125992)
+* O Carnicer, YY Hu, V Ebenezer, AJ Irwin, ZV Finkel. [Genomic architecture constrains macromolecular allocation in dinoflagellates](../pubs/carnicer-2023-protist.pdf). _Protist_ **174**: 125992. [10.1016/j.protis.2023.125992](https://doi.org/10.1016/j.protis.2023.125992)
 * ZK Li, AJ Irwin, ZV Finkel. [Common environmental stress responses in a model marine diatom](../pubs/li-2023-desr.pdf). _New Phytologist_ **240**: 272-284. [10.1111/nph.19147](https://doi.org/10.1111/nph.19147)
 * RM Sheward, JD Liefer, AJ Irwin, ZV Finkel. [Elemental stoichiometry of the key calcifying marine phytoplankton _Emiliania huxleyi_ under ocean climate change: a meta-analysis](../pubs/sheward-2023-gcb-ehux.pdf). _Global Change Biology_, **29**: 4259-4278. [10.1111/gcb.16807](http://dx.doi.org/10.1111/gcb.16807)
 * N McGinty, AJ Irwin, ZV Finkel, S Dutkiewicz. [Using ecological partitions to assess zooplankton biogeography and seasonality](../pubs/mcginty-2023-fmars-10-989770.pdf). _Frontiers_ **10**: 989770. [10.3389/fmars.2023.989770](https://dx.doi.org/10.3389/fmars.2023.989770)
