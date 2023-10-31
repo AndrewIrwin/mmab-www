@@ -19,6 +19,7 @@ The MMaB Lab is located at [Dalhousie University](https://www.dal.ca/)
 in Halifax, Nova Scotia, Canada.  Members are affiliated with
 [Oceanography](https://www.dal.ca/faculty/science/oceanography.html) and
 the [Mathematics and Statistics](https://mathstat.dal.ca/) departments.
+We are members of the [Statistical Ecology Lab - SEaDAL](https://www.stat-ecol-dal.com/) at Dalhousie University.
 The lab was located at and generously supported by [Mount Allison
 University](https://www.mta.ca/) from 2004-2018.
 
