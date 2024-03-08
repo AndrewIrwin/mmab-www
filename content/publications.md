@@ -16,7 +16,7 @@ Publication and citation data:
 
 # 2024
 
-* S Dutkiewicz, CL Follett, MJ Follows, F Henderikx-Freitas, F Ribalet, MR Gradoville, SN Coesel, H Farnelid, ZV Finkel, AJ Irwin, O Jahn, DM Karl, JP Mattern, AE White, JP Zehr, EV Armbrust. Multiple Biotic Interactions Establish Phytoplankton Community Structure Across Environmental Gradients. _Limnology and Oceanography_, in ppress.
+* S Dutkiewicz, CL Follett, MJ Follows, F Henderikx-Freitas, F Ribalet, MR Gradoville, SN Coesel, H Farnelid, ZV Finkel, AJ Irwin, O Jahn, DM Karl, JP Mattern, AE White, JP Zehr, EV Armbrust. Multiple biotic interactions establish phytoplankton community structure across environmental gradients. _Limnology and Oceanography_, in press.
 
 
 # 2023
