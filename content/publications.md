@@ -14,6 +14,10 @@ Publication and citation data:
  ORCID ([Irwin](http://orcid.org/0000-0001-7784-2319), [Finkel](http://orcid.org/0000-0003-4212-3917)),
  Scopus ([Irwin](https://www.scopus.com/authid/detail.uri?authorId=7007182936), [Finkel](https://www.scopus.com/authid/detail.uri?authorId=6602961240)).
 
+# 2024
+
+* S Dutkiewicz, CL Follett, MJ Follows, F Henderikx-Freitas, F Ribalet, MR Gradoville, SN Coesel, H Farnelid, ZV Finkel, AJ Irwin, O Jahn, DM Karl, JP Mattern, AE White, JP Zehr, EV Armbrust. Multiple biotic interactions establish phytoplankton community structure across environmental gradients. _Limnology and Oceanography_, in press.
+
 
 # 2023
 
