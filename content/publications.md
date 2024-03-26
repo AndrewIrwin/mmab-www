@@ -16,7 +16,7 @@ Publication and citation data:
 
 # 2024
 
-* S Dutkiewicz, CL Follett, MJ Follows, F Henderikx-Freitas, F Ribalet, MR Gradoville, SN Coesel, H Farnelid, ZV Finkel, AJ Irwin, O Jahn, DM Karl, JP Mattern, AE White, JP Zehr, EV Armbrust. [Multiple biotic interactions establish phytoplankton community structure across environmental gradients](../pubs/dutkiewicz-2024-lno.pdf). _Limnology and Oceanography_, in press. [10.1002/lno.12555](https://dx.doi.org/10.1002/lno.12555)
+* S Dutkiewicz, CL Follett, MJ Follows, F Henderikx-Freitas, F Ribalet, MR Gradoville, SN Coesel, H Farnelid, ZV Finkel, AJ Irwin, O Jahn, DM Karl, JP Mattern, AE White, JP Zehr, EV Armbrust. [Multiple biotic interactions establish phytoplankton community structure across environmental gradients](../pubs/dutkiewicz-2024-lno.pdf). _Limnology and Oceanography_, in press. [10.1002/lno.12555](https://dx.doi.org/10.1002/lno.12555) [Supplement](../pubs/dutkiewicz-2024-lno-supplemental.pdf)
 * YY Hu, AJ Irwin, ZV Finkel. An improved method to quantify bulk carbohydrate in marine planktonic samples. _Limnology and Oceanography: Methods_, in press. [10.1002/lom3.10614](https://dx.doi.org/10.1002/lom3.10614)
 
 # 2023
