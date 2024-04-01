@@ -14,10 +14,16 @@ Publication and citation data:
  ORCID ([Irwin](http://orcid.org/0000-0001-7784-2319), [Finkel](http://orcid.org/0000-0003-4212-3917)),
  Scopus ([Irwin](https://www.scopus.com/authid/detail.uri?authorId=7007182936), [Finkel](https://www.scopus.com/authid/detail.uri?authorId=6602961240)).
 
+# 2024
+
+* S Dutkiewicz, CL Follett, MJ Follows, F Henderikx-Freitas, F Ribalet, MR Gradoville, SN Coesel, H Farnelid, ZV Finkel, AJ Irwin, O Jahn, DM Karl, JP Mattern, AE White, JP Zehr, EV Armbrust. [Multiple biotic interactions establish phytoplankton community structure across environmental gradients](../pubs/dutkiewicz-2024-lno.pdf). _Limnology and Oceanography_, in press. [10.1002/lno.12555](https://dx.doi.org/10.1002/lno.12555) [Supplement](../pubs/dutkiewicz-2024-lno-supplemental.pdf)
+* YY Hu, AJ Irwin, ZV Finkel. [An improved method to quantify bulk carbohydrate in marine planktonic samples](../pubs/hu-2024-carb.pdf). _Limnology and Oceanography: Methods_, in press. [10.1002/lom3.10614](https://dx.doi.org/10.1002/lom3.10614)
 
 # 2023
 
-* RM Sheward, JD Liefer, AJ Irwin, ZV Finkel. [Elemental stoichiometry of the key calcifying marine phytoplankton _Emiliania huxleyi_ under ocean climate change: a meta-analysis](../pubs/sheward-2023-gcb-ehux.pdf). _Global Change Biology_, in press. [10.1111/gcb.16807](http://dx.doi.org/10.1111/gcb.16807)
+* O Carnicer, YY Hu, V Ebenezer, AJ Irwin, ZV Finkel. [Genomic architecture constrains macromolecular allocation in dinoflagellates](../pubs/carnicer-2023-protist.pdf). _Protist_ **174**: 125992. [10.1016/j.protis.2023.125992](https://doi.org/10.1016/j.protis.2023.125992)
+* ZK Li, AJ Irwin, ZV Finkel. [Common environmental stress responses in a model marine diatom](../pubs/li-2023-desr.pdf). _New Phytologist_ **240**: 272-284. [10.1111/nph.19147](https://doi.org/10.1111/nph.19147)
+* RM Sheward, JD Liefer, AJ Irwin, ZV Finkel. [Elemental stoichiometry of the key calcifying marine phytoplankton _Emiliania huxleyi_ under ocean climate change: a meta-analysis](../pubs/sheward-2023-gcb-ehux.pdf). _Global Change Biology_, **29**: 4259-4278. [10.1111/gcb.16807](http://dx.doi.org/10.1111/gcb.16807)
 * N McGinty, AJ Irwin, ZV Finkel, S Dutkiewicz. [Using ecological partitions to assess zooplankton biogeography and seasonality](../pubs/mcginty-2023-fmars-10-989770.pdf). _Frontiers_ **10**: 989770. [10.3389/fmars.2023.989770](https://dx.doi.org/10.3389/fmars.2023.989770)
 * CM Mutshinda, A Mishra, ZV Finkel, AJ Irwin. [Density regulation amplifies environmentally induced population fluctuations](../pubs/mutshinda-2023-peerj.pdf). _Peer J_ **11**: e14701. [10.7717/peerj.14701](https://doi.org/10.7717/peerj.14701)
 
@@ -203,6 +209,6 @@ _Global Change Biology_ **27**: 1431-1442. [10.1111/gcb.15499](https://dx.doi.or
   * ZV Finkel (1998) [Diatoms: Size and metabolic processes](../pubs/finkel-1998-masters_thesis.pdf). M.Sc. thesis. Dalhousie University. [National Library of Canada](https://www.collectionscanada.ca/obj/s4/f2/dsk2/ftp03/MQ36438.pdf)
   * AJ Irwin and BD Shizgal (1995) [A discrete velocity model for relaxation of anisotropic distribution functions](../pubs/shizgal-1994-rgd.pdf). _Rarefied Gas Dynamics_ **19**: 654-651.
   * NC Kenkel and AJ Irwin (1994) [Fractal analysis of dispersal](../pubs/kenkel-1994-abstracta_botanica.pdf). _Abstracta Botantica_ **18**: 79-84. [JSTOR](https://www.jstor.org/stable/43519530)
-  * AJ Irwin (1993) The discrete-velocity method in plasma physics. M.Sc. thesis. University of British Columbia. [Archive](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0080528)
+  * AJ Irwin (1993) The discrete-velocity method in plasma physics. M.Sc. thesis. University of British Columbia. [Archive](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0080528) [10.14288/1.0080528](https://dx.doi.org/10.14288/1.0080528)
   * AJ Irwin, SJ Fraser, R Kapral (1990) [Stochastically induced coherence in bistable systems](../pubs/ifk-prl-64-2343_figure_fixed.pdf). _Phys. Rev. Lett._ **64**: 2343-2346.  [10.1103/PhysRevLett.64.2343](http://dx.doi.org/10.1103/PhysRevLett.64.2343) and the comment AJ Irwin, SJ Fraser, R Kapral (1990) _Phys. Rev. Lett._ **65**: 3357. 
   * AJ Irwin and SJ Fraser (1990) [Cellular automaton model of chemical wave propagation on fractals](../pubs/fraser-1990-jcp-ca.pdf). _J. Chem. Phys._ **93**: 3471-3483.  [10.1063/1.458829](http://dx.doi.org/10.1063/1.458829)
