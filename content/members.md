@@ -41,15 +41,16 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Mohammad Amirian Matlob (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Kevan Merrow (M.Sc. candidate, Oceanography, kevan.merrow at dal.ca)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
+* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
 
 ## Undergraduate students
+* Thomas Duck (Math & Stats)
+
+## Past members
   * Aaraya Aad 
   * Christopher Lord
   * Emily Rivard
   * Mohammad Sadra Dehghani
-
-## Past members
-  * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
   * Ayane Inuzuka-Boyle
   * Elena Milito 
   * Felix Moye
