@@ -207,7 +207,7 @@ _Global Change Biology_ **27**: 1431-1442. [10.1111/gcb.15499](https://dx.doi.or
 
 # Earlier
   * ZV Finkel (1998) [Diatoms: Size and metabolic processes](../pubs/finkel-1998-masters_thesis.pdf). M.Sc. thesis. Dalhousie University. [National Library of Canada](https://www.collectionscanada.ca/obj/s4/f2/dsk2/ftp03/MQ36438.pdf)
-  * AJ Irwin and BD Shizgal (1995) A discrete velocity model for relaxation of anisotropic distribution functions. _Rarefied Gas Dynamics_ **19**: 654-651.
+  * AJ Irwin and BD Shizgal (1995) [A discrete velocity model for relaxation of anisotropic distribution functions](../pubs/shizgal-1994-rgd.pdf). _Rarefied Gas Dynamics_ **19**: 654-651.
   * NC Kenkel and AJ Irwin (1994) [Fractal analysis of dispersal](../pubs/kenkel-1994-abstracta_botanica.pdf). _Abstracta Botantica_ **18**: 79-84. [JSTOR](https://www.jstor.org/stable/43519530)
   * AJ Irwin (1993) The discrete-velocity method in plasma physics. M.Sc. thesis. University of British Columbia. [Archive](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0080528) [10.14288/1.0080528](https://dx.doi.org/10.14288/1.0080528)
   * AJ Irwin, SJ Fraser, R Kapral (1990) [Stochastically induced coherence in bistable systems](../pubs/ifk-prl-64-2343_figure_fixed.pdf). _Phys. Rev. Lett._ **64**: 2343-2346.  [10.1103/PhysRevLett.64.2343](http://dx.doi.org/10.1103/PhysRevLett.64.2343) and the comment AJ Irwin, SJ Fraser, R Kapral (1990) _Phys. Rev. Lett._ **65**: 3357. 
