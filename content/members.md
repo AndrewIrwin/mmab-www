@@ -47,6 +47,10 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Undergraduate students
 * Thomas Duck (Math & Stats)
 
+## Visitors
+
+* Carlton Duguay (U Winnipeg)
+
 ## Past members
   * Aaraya Aad 
   * Christopher Lord
