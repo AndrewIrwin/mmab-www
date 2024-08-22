@@ -39,8 +39,9 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
 
 ## Graduate students
+* Nolan Fehon (M.Sc. candidate, Computational Biology and Bioinformatics)
+* Hanna Gingerich (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Mohammad Amirian Matlob (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
-* Kevan Merrow (M.Sc. candidate, Oceanography, kevan.merrow at dal.ca)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
 
@@ -52,6 +53,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Carlton Duguay (U Winnipeg)
 
 ## Past members
+  * Kevan Merrow (M.Sc., Oceanography, kevan.merrow at dal.ca)
   * Aaraya Aad 
   * Christopher Lord
   * Emily Rivard
