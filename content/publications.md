@@ -16,6 +16,8 @@ Publication and citation data:
 
 # 2024
 
+* JD Liefer, AE Whiteb, ZV Finkel, AJ Irwin, M Dugenneb, K Inomura, F Ribalet, EV Armbrust, DM Karl, MH Fyfe, CM Brown, MJ Follows. Latitudinal patterns in ocean C:N:P reflect phytoplankton acclimation and macromolecular composition. _PNAS_ in press.
+
 * CM Mutshinda, ZV Finkel, AJ Irwin.  Large shifts in diatom and dinoflagellate biomass in the North Atlantic over six decades. _bioRxiv_. [10.1101/2024.07.02.601152](https://dx.doi.org/10.1101/2024.07.02.601152)
 * AW Omta, JD Liefer, ZV Finkel, AJ Irwin, D Sher, MJ Follows. [A model of time-dependent macromolecular and elemental composition of phytoplankton](../pubs/omta-2024-jtb.pdf). _J. theor. Biol._, **592**: 111883. [10.1016/j.jtbi.2024.111883](https://doi.org/10.1016/j.jtbi.2024.111883)
 * S Dutkiewicz, CL Follett, MJ Follows, F Henderikx-Freitas, F Ribalet, MR Gradoville, SN Coesel, H Farnelid, ZV Finkel, AJ Irwin, O Jahn, DM Karl, JP Mattern, AE White, JP Zehr, EV Armbrust. [Multiple biotic interactions establish phytoplankton community structure across environmental gradients](../pubs/dutkiewicz-2024-lno.pdf). _Limnology and Oceanography_, **69**: 1086-1100. [10.1002/lno.12555](https://dx.doi.org/10.1002/lno.12555) [Supplement](../pubs/dutkiewicz-2024-lno-supplemental.pdf)
