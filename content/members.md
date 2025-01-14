@@ -27,10 +27,9 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
 
 ## Technical staff:
-* Aaraya Aad 
 * Elisa Dai
-* Artem Dzhulai
 * Kevan Merrow (M.Sc., Oceanography, kevan.merrow at dal.ca)
+* Pixie Owen
 
 ## Research associates
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), email: nmcginty at dal.ca)
@@ -51,6 +50,8 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 
 ## Past members
+  * Aaraya Aad 
+  * Artem Dzhulai
   * Carlton Duguay (U Winnipeg)
   * Mykola Prus
   * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at dal.ca)
