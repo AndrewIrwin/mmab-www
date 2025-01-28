@@ -2,23 +2,29 @@
 
 ### Protocols for Macromolecule Quantification
 
-* Carbohydrate
+####  Carbohydrate
     * Total particulate carbohydrate from microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/total-particulate-carbohydrate-from-microalgae-yxmvmk24ng3p/v1), [10.17504/protocols.io.yxmvmk24ng3p/v1](https://dx.doi.org/10.17504/protocols.io.yxmvmk24ng3p/v1)
-* Lipid
+
+#### Lipid
     * Rapid extraction of total lipids from microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v5) [10.17504/protocols.io.dm6gpr9jdvzp/v5](https://dx.doi.org/10.17504/protocols.io.dm6gpr9jdvzp/v5)
-    * Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2) [10.17504/protocols.io.e6nvw9dpzgmk/v2](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v2)
+    * Lipids in microalgae: Quantitation by acid-dichromate method in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v3) [10.17504/protocols.io.e6nvw9dpzgmk/v3](https://dx.doi.org/10.17504/protocols.io.e6nvw9dpzgmk/v3)
     * Estimate phospholipids from microalgae (YY Hu, ZV Finkel) [protocols.io](https://www.protocols.io/view/estimate-phospholipids-from-microalgae-q26g74r19gwz/v2) [10.17504/protocols.io.q26g74r19gwz](https://dx.doi.org/10.17504/protocols.io.q26g74r19gwz/v2)
-* Protein
+
+#### Protein
     * Chloroform-methanol protein precipitation from microalgae and Pierce BCA assay (YY Hu, C Lord, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/chloroform-methanol-protein-precipitation-from-mic-yxmvm2e25g3p/v1), [10.17504/protocols.io.yxmvm2e25g3p/v1](https://dx.doi.org/10.17504/protocols.io.yxmvm2e25g3p/v1)
-* Nucleic acids
-    * Total RNA and DNA in microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-from-microalgae-12-samples-per-m-6qpvro85bvmk/v11) [10.17504/protocols.io.6qpvro85bvmk/v11](https://dx.doi.org/10.17504/protocols.io.6qpvro85bvmk/v11)
-* Phosphate
+
+#### Nucleic acids
+    * Total RNA and DNA in microalgae (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/total-rna-and-dna-from-microalgae-12-samples-per-m-6qpvro85bvmk/v12) [10.17504/protocols.io.6qpvro85bvmk/v12](https://dx.doi.org/10.17504/protocols.io.6qpvro85bvmk/v12)
+
+#### Phosphate
     * An X-HTDC method for estimating particulate phosphorus from microalgae (YY Hu, ZF Finkel, 2022) [protocols.io](https://www.protocols.io/view/an-x-htdc-method-for-estimating-particulate-phosph-kqdg35dq7v25/v6). [10.17504/protocols.io.kqdg35dq7v25/v6](https://dx.doi.org/10.17504/protocols.io.kqdg35dq7v25/v6)
     * DAPI-Based Polyphosphate Estimation with Extraction Sufficiency Validation: A Method for Quantifying Polyphosphate from Microalgae Samples (YY Hu, ZV Finkel, 2023) [protocols.io](https://www.protocols.io/view/dapi-based-polyphosphate-estimation-with-extractio-ewov1ox87lr2/v1) [10.17504/protocols.io.ewov1ox87lr2/v1](https://dx.doi.org/10.17504/protocols.io.ewov1ox87lr2/v1)
     * Inorganic polyphosphate in microalgae: A DAPI-based quantification in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/inorganic-polyphosphate-from-microalgae-a-dapi-bas-n2bvjy3rpvk5/v6)
-* Silicate
+
+#### Silicate
     * Measurement of biogenic silica from phytoplankton (YY Hu, N Samarasinghe, ZV Finkel, 2023) [protocols.io](https://www.protocols.io/view/measurement-of-biogenic-silica-from-plankton-8epv5jjzjl1b/v2) [10.17504/protocols.io.8epv5jjzjl1b/v2](https://dx.doi.org/10.17504/protocols.io.8epv5jjzjl1b/v2)
-* Related protocols
+
+#### Related protocols
     * Preparation of oxalate reagent (YY Hu, ZV Finkel, 2021) [protocols.io](https://www.protocols.io/view/preparation-of-oxalate-reagent-dm6gpr6yjvzp/v2) [10.17504/protocols.io.dm6gpr6yjvzp/v2](https://dx.doi.org/10.17504/protocols.io.dm6gpr6yjvzp/v2)
  
 
