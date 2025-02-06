@@ -16,7 +16,7 @@ Publication and citation data:
 
 # 2025
 
-* N McGinty, AJ Irwin. 	Global variation in zooplankton niche divergence across ocean basins. _Ecol. Lett._, in press.
+* N McGinty, AJ Irwin. 	Global variation in zooplankton niche divergence across ocean basins. _Ecol. Lett._, in press. [10.1111/ele.70089](https://dx.doi.org/10.1111/ele.70089)
 
 # 2024
 
