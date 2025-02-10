@@ -28,14 +28,14 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Technical staff:
 * Elisa Dai
-* Artem Dzhulai
-* Mykola Prus
+* Kevan Merrow (M.Sc., Oceanography, kevan.merrow at dal.ca)
+* Pixie Owen
 
 ## Research associates
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), email: nmcginty at dal.ca)
 
 ## Post-docs
-* Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at dal.ca)
+* Dr Dany Crouteau
 * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
 
 ## Graduate students
@@ -48,13 +48,13 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Undergraduate students
 * Thomas Duck (Math & Stats)
 
-## Visitors
-
-* Carlton Duguay (U Winnipeg)
 
 ## Past members
-  * Kevan Merrow (M.Sc., Oceanography, kevan.merrow at dal.ca)
   * Aaraya Aad 
+  * Artem Dzhulai
+  * Carlton Duguay (U Winnipeg)
+  * Mykola Prus
+  * Dr Laura Bretherton ([Google scholar](https://scholar.google.ca/citations?user=yzEE_7cAAAAJ), [ORCID](https://orcid.org/0000-0002-3396-6499), email: lbretherton at dal.ca)
   * Christopher Lord
   * Emily Rivard
   * Mohammad Sadra Dehghani

@@ -14,8 +14,13 @@ Publication and citation data:
  ORCID ([Irwin](http://orcid.org/0000-0001-7784-2319), [Finkel](http://orcid.org/0000-0003-4212-3917)),
  Scopus ([Irwin](https://www.scopus.com/authid/detail.uri?authorId=7007182936), [Finkel](https://www.scopus.com/authid/detail.uri?authorId=6602961240)).
 
+# 2025
+
+* N McGinty, AJ Irwin. 	Global variation in zooplankton niche divergence across ocean basins. _Ecol. Lett._, in press. [10.1111/ele.70089](https://dx.doi.org/10.1111/ele.70089)
+
 # 2024
 
+* JD Liefer, AE White, ZV Finkel, AJ Irwin, M Dugenne, K Inomura, F Ribalet, EV Armbrust, DM Karl, MH Fyfe, CM Brown, MJ Follows. [Latitudinal patterns in ocean C:N:P reflect phytoplankton acclimation and macromolecular composition](../pubs/liefer-2024-pnas.pdf). _Proc. Nat. Acad. Sci. USA_ **121**: e2404460121. [10.1073/pnas.2404460121](https://dx.doi.org/10.1073/pnas.2404460121)
 * CM Mutshinda, ZV Finkel, AJ Irwin.  Large shifts in diatom and dinoflagellate biomass in the North Atlantic over six decades. _bioRxiv_. [10.1101/2024.07.02.601152](https://dx.doi.org/10.1101/2024.07.02.601152)
 * AW Omta, JD Liefer, ZV Finkel, AJ Irwin, D Sher, MJ Follows. [A model of time-dependent macromolecular and elemental composition of phytoplankton](../pubs/omta-2024-jtb.pdf). _J. theor. Biol._, **592**: 111883. [10.1016/j.jtbi.2024.111883](https://doi.org/10.1016/j.jtbi.2024.111883)
 * S Dutkiewicz, CL Follett, MJ Follows, F Henderikx-Freitas, F Ribalet, MR Gradoville, SN Coesel, H Farnelid, ZV Finkel, AJ Irwin, O Jahn, DM Karl, JP Mattern, AE White, JP Zehr, EV Armbrust. [Multiple biotic interactions establish phytoplankton community structure across environmental gradients](../pubs/dutkiewicz-2024-lno.pdf). _Limnology and Oceanography_, **69**: 1086-1100. [10.1002/lno.12555](https://dx.doi.org/10.1002/lno.12555) [Supplement](../pubs/dutkiewicz-2024-lno-supplemental.pdf)
@@ -36,7 +41,7 @@ Publication and citation data:
 * Z-K Li, Y Zhang, W Li, AJ Irwin, ZV Finkel. [Conservation and architecture of housekeeping genes in the model marine diatom _Thalassiosira pseudonana_](../pubs/Li-2022-new-phytologist.pdf). _New Phytologist_ **234**: 1363-1376. [10.1111/nph.18039](https://dx.doi.org/10.1111/nph.18039)
 * CM Mutshinda, A Mishra, ZV Finkel, CE Widdicombe, AJ Irwin. [Bayesian two-part modeling of phytoplankton biomass and occurrence](../pubs/mutshinda-2022-hydrobiologia.pdf). _Hydrobiologia_ **849**: 1287-1300. [10.1007/s10750-021-04789-2](https://dx.doi.org/10.1007/s10750-021-04789-2)
 * JT Siddons, AJ Irwin, ZV Finkel. [Graphical analysis of a marine plankton community reveals spatial, temporal, and niche structure of sub-communities](../pubs/siddons-2022-fmars.pdf). _Frontiers in Marine Science_ **9**: 943540. [10.3389/fmars.2022.943540](https://dx.doi.org/10.3389/fmars.2022.943540)
-* MM Amirian, AJ Irwin, ZV Finkel. [Extending the Monod Model of Microbial Growth with Memory](../pubs/amirian-2022-fmars.pdf). arXiv [10.48550/arXiv.2207.02028](https://doi.org/10.48550/arXiv.2207.02028), _Frontiers Mar. Sci._. [10.3389/fmars.2022.963734](https://dx.doi.org/10.3389/fmars.2022.963734)
+* MM Amirian, AJ Irwin, ZV Finkel. [Extending the Monod Model of Microbial Growth with Memory](../pubs/amirian-2022-fmars.pdf). arXiv [10.48550/arXiv.2207.02028](https://doi.org/10.48550/arXiv.2207.02028), _Frontiers Mar. Sci._ **9**: 963734. [10.3389/fmars.2022.963734](https://dx.doi.org/10.3389/fmars.2022.963734)
 * YY Hu, AJ Irwin, ZV Finkel. [Improving quantification of particulate phosphorus](../pubs/hu-2022-lom.pdf). _Limnology and Oceanography: Methods_. **20**: 729-740. [10.1002/lom3.10517](https://doi.org/10.1002/lom3.10517)
 
 
