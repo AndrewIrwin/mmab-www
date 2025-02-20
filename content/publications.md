@@ -16,7 +16,7 @@ Publication and citation data:
 
 # 2025
 
-* N McGinty, AJ Irwin. 	[Global variation in zooplankton niche divergence across ocean basins](../pubs/mcginty-2025-ecol-lett.pdf). _Ecol. Lett._ **28**: xxx. [10.1111/ele.70089](https://dx.doi.org/10.1111/ele.70089)
+* N McGinty, AJ Irwin. 	[Global variation in zooplankton niche divergence across ocean basins](../pubs/mcginty-2025-ecol-lett.pdf). _Ecol. Lett._ **28**: e70089. [10.1111/ele.70089](https://dx.doi.org/10.1111/ele.70089)
 * M Lakier, AJ Irwin, D Vogel. Understanding marine scientist software tool use. CHI-25, in press. [10.1145/3706598.3713621](https://doi.org/10.1145/3706598.3713621)
 
 # 2024
