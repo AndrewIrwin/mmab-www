@@ -27,9 +27,9 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
 
 ## Technical staff:
+* Aaraya Aad 
 * Elisa Dai
 * Kevan Merrow (M.Sc., Oceanography, kevan.merrow at dal.ca)
-* Pixie Owen
 
 ## Research associates
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), email: nmcginty at dal.ca)
@@ -37,20 +37,22 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Post-docs
 * Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
 * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
+* Dr Fernando Rayon Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ))
 
 ## Graduate students
+* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
+* Mich De La Cruz (Ph.D. candidate, Oceanography)
 * Nolan Fehon (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Hanna Gingerich (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Mohammad Amirian Matlob (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
-* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
 
 ## Undergraduate students
 * Thomas Duck (Math & Stats)
 
 
 ## Past members
-  * Aaraya Aad 
+  * Pixie Owen
   * Artem Dzhulai
   * Carlton Duguay (U Winnipeg)
   * Mykola Prus
