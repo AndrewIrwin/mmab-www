@@ -78,7 +78,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * Dr Suchandan Bemal ([Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ))
   * Linh Dinh (Mathematics & Statistics)
   * Laura Carvalho Morris (project manager)
-  * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ))
+  * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), now at [NOC Southampton](https://noc.ac.uk/n/Joseph%20Siddons))
   * Seoyeon Cali Park (Statistics, Honours, now a graduate student in Statistics, University of Alberta)
   * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
   * Pramir K C (Ph.D. candidate, Oceanography)
