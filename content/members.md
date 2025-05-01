@@ -121,7 +121,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * Zoe Frolking (Environmental Science honours student, 2012-13; currently at the UNC School of Public Health for a M.Sc. in environmental science and engineering)
   * Andrew MacLean (Computer Science / Physics summer student in 2013)
   * Nick Manuel (Mathematics/Economics summer student in 2013, now [faculty at St Mary's](https://www.nickmanuel.com/))
-  * Andrew Barton (Post-doc, 2011-12; currently at Princeton University/GFDL)
+  * Andrew Barton (Post-doc, 2011-12; then Princeton University/GFDL, now [faculty at Scripps/UCSD](https://scripps.ucsd.edu/profiles/adbarton))
   * [Melissa Grey](http://jogginsfossilcliffs.net/research/Melissab.php) (NSERC post-doc, 2010-12; currently Curator of Palaeontology at Joggins Fossil Institute)
   * Yaping Wu (Post-doc 2010-2011; currently Assistant professor at Xiamen University)
   * Liz Kerrigan (Environmental Science honours student, 2010-11; currently a graduate student at Dalhousie University Oceanography)
