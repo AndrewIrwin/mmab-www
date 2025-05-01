@@ -44,7 +44,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Mich De La Cruz (Ph.D. candidate, Oceanography)
 * Nolan Fehon (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Hanna Gingerich (M.Sc. candidate, Computational Biology and Bioinformatics)
-* Mohammad Amirian Matlob (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
+* Mohammad Amirian Matlob (Ph.D. candidate, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 
 ## Undergraduate students
