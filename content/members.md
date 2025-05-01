@@ -135,7 +135,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * Martina Loebl (Post-doc 2008-10; currently at the University of Bremen)
   * Ying Yu (Ruby) Hu (Post-doc 2008-10)
   * Tufail Malik (Post-doc 2007-09; currently at Khalifa University)
-  * Pam Sargent (Mathematics and Computer Science 2009, 2011; currently at a graduate student at UBC in Mathematics)
+  * Pam Sargent (Mathematics and Computer Science 2009, 2011; then PhD at UBC in Mathematics, Yale, York, and now [faculty at Toronto](https://www.mathematics.utoronto.ca/people/directories/all-faculty/pam-sargent))
   * Nicole McMillan (Math & Computer Science 2009)
   * Daniel Blanchette (Math & Computer Science 2009)
   * Thomas Stone (MMaB lab technician 2007-08)
