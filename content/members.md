@@ -46,6 +46,8 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Hanna Gingerich (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Mohammad Amirian Matlob (Ph.D. candidate, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
+* Rose Turner (M. Sc. candidate, Statistics)
+* Ella Vivian (M. Sc. candidate, Oceanography)
 
 ## Undergraduate students
 * Thomas Duck (Math & Stats)
