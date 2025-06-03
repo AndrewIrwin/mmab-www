@@ -37,7 +37,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Post-docs
 * Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
 * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
-* Dr Fernando Rayon Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ))
+* Dr Fernando Rayon Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ), [ORCID](https://orcid.org/0000-0002-1622-2180))
 
 ## Graduate students
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
