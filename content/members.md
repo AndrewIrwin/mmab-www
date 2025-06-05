@@ -27,9 +27,9 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
 
 ## Technical staff:
+* Aaraya Aad 
 * Elisa Dai
 * Kevan Merrow (M.Sc., Oceanography, kevan.merrow at dal.ca)
-* Pixie Owen
 
 ## Research associates
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), email: nmcginty at dal.ca)
@@ -37,20 +37,24 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Post-docs
 * Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
 * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
+* Dr Fernando Rayon Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ), [ORCID](https://orcid.org/0000-0002-1622-2180))
 
 ## Graduate students
+* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
+* Mich De La Cruz (Ph.D. candidate, Oceanography)
 * Nolan Fehon (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Hanna Gingerich (M.Sc. candidate, Computational Biology and Bioinformatics)
-* Mohammad Amirian Matlob (Ph.D. candidate, Applied mathematics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
+* Mohammad Amirian Matlob (Ph.D. candidate, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
-* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
+* Rose Turner (M. Sc. candidate, Statistics)
+* Ella Vivian (M. Sc. candidate, Oceanography)
 
 ## Undergraduate students
 * Thomas Duck (Math & Stats)
 
 
 ## Past members
-  * Aaraya Aad 
+  * Pixie Owen
   * Artem Dzhulai
   * Carlton Duguay (U Winnipeg)
   * Mykola Prus
@@ -76,7 +80,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * Dr Suchandan Bemal ([Google scholar](https://scholar.google.ca/citations?user=kLidqZIAAAAJ))
   * Linh Dinh (Mathematics & Statistics)
   * Laura Carvalho Morris (project manager)
-  * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ))
+  * Dr Joseph Siddons ([Google scholar](https://scholar.google.ca/citations?user=akdjx7UAAAAJ), now at [NOC Southampton](https://noc.ac.uk/n/Joseph%20Siddons))
   * Seoyeon Cali Park (Statistics, Honours, now a graduate student in Statistics, University of Alberta)
   * Gracie Walker (Biology, Mathematics, UWaterloo co-op)
   * Pramir K C (Ph.D. candidate, Oceanography)
@@ -101,7 +105,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * [Kindy Houinato](../people/houinato) (Environmental Science, Economics)
   * [Akarsh Pai](../people/pai) (Biochemistry)
   * [Dr Rosie Sheward](../people/sheward) ([Google scholar](https://scholar.google.ca/citations?user=U07nicwAAAAJ)) 
-  * [Dr Justin Liefer](../people/liefer) ([Google scholar](https://scholar.google.ca/citations?user=eQuE6lIAAAAJ))
+  * [Dr Justin Liefer](../people/liefer) ([Google scholar](https://scholar.google.ca/citations?user=eQuE6lIAAAAJ), now [faculty at MtA](https://www.mta.ca/directory/justin-liefer))
   * [Dr Ina Benner](../people/benner) (now at UCLA)
   * Michael Bradet-Legris (Math & Computer Science, 2017)
   * [Dr Chris Brown](../people/brown) ([Google scholar](https://scholar.google.ca/citations?user=uXfmay0AAAAJ))
@@ -110,7 +114,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * [Aneri Garg](../people/garg) (Environmental Science, 2015-16)
   * [Margaux Daly](../people/daly) (Environmental Science, 2016)
   * Nils Guelzow (Post-doc, 2014-15)
-  * Julie Koester (Post-doc, 2012-14; currently at UNC Wilmington)
+  * Julie Koester (Post-doc, 2012-14; then at UNC Wilmington, now at [Florida Fish and Wildlife](https://myfwc.com/research/redtide/labs-people/current/koester/))
   * Johnathan Carter (Environmental Science honours student, 2013-14; currently a graduate student at Memorial University)
   * Katherine Sheridan (Biochemistry honours student, 2013-14)
   * Tyson Burris (Biology honours student, 2013-14)
@@ -118,8 +122,8 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * Laura Boyd (Environmental Science honours student, 2012-13; currently traveling the world)
   * Zoe Frolking (Environmental Science honours student, 2012-13; currently at the UNC School of Public Health for a M.Sc. in environmental science and engineering)
   * Andrew MacLean (Computer Science / Physics summer student in 2013)
-  * Nick Manuel (Mathematics/Economics summer student in 2013)
-  * Andrew Barton (Post-doc, 2011-12; currently at Princeton University/GFDL)
+  * Nick Manuel (Mathematics/Economics summer student in 2013, now [faculty at St Mary's](https://www.nickmanuel.com/))
+  * Andrew Barton (Post-doc, 2011-12; then Princeton University/GFDL, now [faculty at Scripps/UCSD](https://scripps.ucsd.edu/profiles/adbarton))
   * [Melissa Grey](http://jogginsfossilcliffs.net/research/Melissab.php) (NSERC post-doc, 2010-12; currently Curator of Palaeontology at Joggins Fossil Institute)
   * Yaping Wu (Post-doc 2010-2011; currently Assistant professor at Xiamen University)
   * Liz Kerrigan (Environmental Science honours student, 2010-11; currently a graduate student at Dalhousie University Oceanography)
@@ -127,13 +131,13 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * Susan Sharpe (Biochemistry honours student, 2010-11; M.Sc. Dalhousie, and now back in our lab)
   * Helena van Tol (Environmental Science honours student, 2010-11; currently a graduate student at the University of Washington)
   * Andrew Nelles (Mathematics and Computer Science student, 2010)
-  * Georgia Klein (Post-doc 2010-11, now at Dalhousie University)
+  * Georgia Klein (Post-doc 2010-11, now at [Dalhousie University](https://www.dal.ca/faculty/sustainability/about/faculty-and-staff/georgia-klein.html))
   * Zhi Ping Mei (Post-doc 2007-10; currently Assistant professor at Shantou University)
   * Bingzhang Chen (Post-doc 2009-10; currently Assistant professor at Xiamen University)
   * Martina Loebl (Post-doc 2008-10; currently at the University of Bremen)
   * Ying Yu (Ruby) Hu (Post-doc 2008-10)
   * Tufail Malik (Post-doc 2007-09; currently at Khalifa University)
-  * Pam Sargent (Mathematics and Computer Science 2009, 2011; currently at a graduate student at UBC in Mathematics)
+  * Pam Sargent (Mathematics and Computer Science 2009, 2011; then PhD at UBC in Mathematics, Yale, York, and now [faculty at Toronto](https://www.mathematics.utoronto.ca/people/directories/all-faculty/pam-sargent))
   * Nicole McMillan (Math & Computer Science 2009)
   * Daniel Blanchette (Math & Computer Science 2009)
   * Thomas Stone (MMaB lab technician 2007-08)
@@ -141,7 +145,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
   * Kyle Matheson (Biology honours student, 2007-08; M.Sc. MUN)
   * Christophe Six (Biochemistry post-doc, 2005-2007; currently at Université Paris VI & CNRS)
   * Ha (Vivien) Nguyen (Math & Computer Science, 2007; M.Sc. in Engineering at Queen's (2009- ))
-  * Jesse McNichol (Biology, 2007; currently a graduate student at WHOI/MIT)
+  * Jesse McNichol (Biology, 2007; then graduate student at WHOI/MIT, now [faculty at StFX](https://www.stfx.ca/faculty-staff/jesse-mcnichol))
   * Colin Jacob-Vaillancourt (research technician, 2006-07; currently a Science educator, Quebec)
   * Hannah MacDonald (Environmental Science, 2006; currently Junior project manager Biogenie Corp., Edmonton)
   * Karsten Hempel (Computer Science, 2006)
