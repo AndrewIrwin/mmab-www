@@ -20,7 +20,7 @@ Publication and citation data:
 * N McGinty, AJ Irwin. 	[Global variation in zooplankton niche divergence across ocean basins](../pubs/mcginty-2025-ecol-lett.pdf). _Ecol. Lett._ **28**: e70089. [10.1111/ele.70089](https://dx.doi.org/10.1111/ele.70089)
 * CM Mutshinda, ZV Finkel, AJ Irwin.  [Large shifts in diatom and dinoflagellate biomass in the North Atlantic over six decades](../pubs/mutshinda-2025-plos-one.pdf). _PLoS ONE_, **20**: e0323675. [10.1371/journal.pone.0323675](https://dx.doi.org/10.1371/journal.pone.0323675) [10.1101/2024.07.02.601152](https://dx.doi.org/10.1101/2024.07.02.601152)
 * M Lakier, AJ Irwin, D Vogel. [Understanding marine scientist software tool use](../pubs/lakier-2025-chi.pdf). CHI-25: 884. [10.1145/3706598.3713621](https://doi.org/10.1145/3706598.3713621)
-* E Seelen, SJ Gleich, W Kumler, HS Anderson, X Bian, KMG Bjӧrkman, DA Caron, ST Dyhrman, S Ferrón, ZV Finkel, ST Haley, YY Hu, AE  Ingalls, AJ Irwin, DM Karl, KP Kong, DP Lowenstein, A Salazar Estrada, E Townsend, JC Tracey, K Turk-Kubo, BAS Van Mooy, SG John.  A tale of two nutrients: how nitrogen and phosphorus differentially control marine biomass production and stoichiometry. _Nature Comm_, accepted. 
+* E Seelen, SJ Gleich, W Kumler, HS Anderson, X Bian, KMG Bjӧrkman, DA Caron, ST Dyhrman, S Ferrón, ZV Finkel, ST Haley, YY Hu, AE  Ingalls, AJ Irwin, DM Karl, KP Kong, DP Lowenstein, A Salazar Estrada, E Townsend, JC Tracey, K Turk-Kubo, BAS Van Mooy, SG John.  Nitrogen and phosphorus differentially control marine biomass production and stoichiometry. _Nature Comm_, accepted. 
 
 
 # 2024
