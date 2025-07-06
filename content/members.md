@@ -52,8 +52,8 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 
 ## Past members
-* Elisa Dai
-* Kevan Merrow (M.Sc., Oceanography, now at Planentary)
+  * Elisa Dai
+  * Kevan Merrow (M.Sc., Oceanography, now at Planentary)
   * Pixie Owen
   * Artem Dzhulai
   * Carlton Duguay (U Winnipeg)
