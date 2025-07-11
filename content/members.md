@@ -33,7 +33,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), email: nmcginty at dal.ca)
 
 ## Post-docs
-* Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
 * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
 * Dr Fernando Rayon Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ), [ORCID](https://orcid.org/0000-0002-1622-2180))
 
@@ -52,6 +51,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 
 ## Past members
+  * Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
   * Elisa Dai
   * Kevan Merrow (M.Sc., Oceanography, now at Planentary)
   * Pixie Owen
