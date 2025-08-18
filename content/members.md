@@ -36,13 +36,13 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Dr Mohammad Amirian ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
 * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
 * Dr Fernando Rayon Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ), [ORCID](https://orcid.org/0000-0002-1622-2180))
+* Dr Nuwanthi Samarasinghe (Oceanography, nw914031 at dal.ca)
 
 ## Graduate students
 * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Mich De La Cruz (Ph.D. candidate, Oceanography)
 * Nolan Fehon (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Hanna Gingerich (M.Sc. candidate, Computational Biology and Bioinformatics)
-* Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography, nw914031 at dal.ca)
 * Rose Turner (M. Sc. candidate, Statistics)
 * Ella Vivian (M. Sc. candidate, Oceanography)
 
@@ -51,6 +51,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 
 ## Past members
+  * Dr Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
   * Dr Mohammad Amirian (PhD candidate, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
   * Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
   * Elisa Dai
