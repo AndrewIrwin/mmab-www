@@ -28,6 +28,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Technical staff:
 * Aaraya Aad 
+* Elisa Dai
 
 ## Research associates
 * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), email: nmcginty at dal.ca)
