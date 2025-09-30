@@ -30,8 +30,6 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Aaraya Aad 
 * Elisa Dai
 
-## Research associates
-* [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), email: nmcginty at dal.ca)
 
 ## Post-docs
 * Dr Mohammad Amirian ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
@@ -52,6 +50,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 
 ## Past members
+  * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), now a Research Scientist at Hafrannsóknastofnun - Marine & Freshwater Research Institute)
   * Dr Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
   * Dr Mohammad Amirian (PhD candidate, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
   * Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
