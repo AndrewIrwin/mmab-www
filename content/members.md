@@ -38,10 +38,10 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * Dr Nuwanthi Samarasinghe (Oceanography, nw914031 at dal.ca)
 
 ## Graduate students
-* Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Mich De La Cruz (Ph.D. candidate, Oceanography)
 * Nolan Fehon (M.Sc. candidate, Computational Biology and Bioinformatics)
 * Hanna Gingerich (M.Sc. candidate, Computational Biology and Bioinformatics)
+* Mohammad Al-Mamun (M.Sc. candidate, Oceanography)
 * Rose Turner (M. Sc. candidate, Statistics)
 * Ella Vivian (M. Sc. candidate, Oceanography)
 
@@ -50,6 +50,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 
 ## Past members
+  * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
   * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), now a Research Scientist at Hafrannsóknastofnun - Marine & Freshwater Research Institute)
   * Dr Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
   * Dr Mohammad Amirian (PhD candidate, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
