@@ -77,3 +77,12 @@
 
 - Diatoms and dinoflagellates in the North Atlantic from CPR on Pangaea [10.1594/PANGAEA.778968](http://doi.pangaea.de/10.1594/PANGAEA.778968)
 
+## Theses
+
+* Kevan Merrow, M.Sc. Oceanography [DalSpace](https://dalspace.library.dal.ca/items/17801c86-0d35-4170-85f3-fda15166de72)
+* Mohammad Amirian, Ph.D. Statistics [DalSpace](https://dalspace.library.dal.ca/items/a3c7c412-b987-4cfa-bf1e-5073cf0f9829)
+* Nuwanthis Samarasinghe, Ph.D. Oceanography [DalSpace](https://dalspace.library.dal.ca/items/e8b8d533-06f1-4f7a-a4d0-b0b76891c4bd)
+* Brian Beardsall, M.Sc. Computational Biology and Bioinformatics
+* Jonathan Bradet-Legris, M.Sc. Statistics [DalSpace](https://dalspace.library.dal.ca/items/7c66e65a-f2c0-42f5-b4ed-396c44c86698)
+
+

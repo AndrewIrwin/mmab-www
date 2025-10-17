@@ -22,7 +22,7 @@ Publication and citation data:
 * M Lakier, AJ Irwin, D Vogel. [Understanding marine scientist software tool use](../pubs/lakier-2025-chi.pdf). CHI-25: 884. [10.1145/3706598.3713621](https://doi.org/10.1145/3706598.3713621)
 * E Seelen, SJ Gleich, W Kumler, HS Anderson, X Bian, KMG Bjӧrkman, DA Caron, ST Dyhrman, S Ferrón, ZV Finkel, ST Haley, YY Hu, AE  Ingalls, AJ Irwin, DM Karl, KP Kong, DP Lowenstein, A Salazar Estrada, E Townsend, JC Tracey, K Turk-Kubo, BAS Van Mooy, SG John.  [Nitrogen and phosphorus differentially control marine biomass production and stoichiometry](../pubs/seelen-2025-nat-comm.pdf). _Nature Comm_, **16**: 5173. [10.1038/s41467-025-61061-0](http://dx.doi.org/10.1038/s41467-025-61061-0), preprint [10.21203/rs.3.rs-4203527/v1](https://doi.org/10.21203/rs.3.rs-4203527/v1).
 * MM Amirian, ZV Finkel, E Devred, AJ Irwin. [Parameterization of photoinhibition for phytoplankton](../pubs/amirian-2025-cee.pdf). _Comm. Earth Env._ **6**: 707. [10.1038/s43247-025-02686-3](https://dx.doi.org/10.1038/s43247-025-02686-3) [Behind the paper](https://communities.springernature.com/posts/a-simple-equation-for-a-long-standing-challenge-in-ocean-science), [piCurve R package](https://arxiv.org/abs/2508.14321)
-* Z-K Li, Y Zhang, AJ Irwin, ZV Finkel. Polyploidization in diatoms accelerates adaptation to warming. _Nat. Clim. Change._, in press.
+* Z-K Li, Y Zhang, AJ Irwin, ZV Finkel. Polyploidization in diatoms accelerates adaptation to warming. _Nat. Clim. Change._, in press. [10.1038/s41558-025-02464-1](https://dx.doi.org/10.1038/s41558-025-02464-1)
 
 # 2024
 
