@@ -27,9 +27,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 * [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
 
 ## Technical staff:
-* Aaraya Aad 
 * Elisa Dai
-
 
 ## Post-docs
 * Dr Mohammad Amirian ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
@@ -50,10 +48,11 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 
 ## Past members
-  * Brian Beardsall (M.Sc. candidate, Computational Biology and Bioinformatics)
+  * Aaraya Aad 
+  * Brian Beardsall (M.Sc., Computational Biology and Bioinformatics)
   * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), now a Research Scientist at Hafrannsóknastofnun - Marine & Freshwater Research Institute)
-  * Dr Nuwanthi Samarasinghe (Ph.D. candidate, Oceanography)
-  * Dr Mohammad Amirian (PhD candidate, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
+  * Dr Nuwanthi Samarasinghe (Ph.D., Oceanography)
+  * Dr Mohammad Amirian (Ph.D, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
   * Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
   * Elisa Dai
   * Kevan Merrow (M.Sc., Oceanography, now at Planentary)
