@@ -24,6 +24,7 @@ Publication and citation data:
 * MM Amirian, ZV Finkel, E Devred, AJ Irwin. [Parameterization of photoinhibition for phytoplankton](../pubs/amirian-2025-cee.pdf). _Comm. Earth Env._ **6**: 707. [10.1038/s43247-025-02686-3](https://dx.doi.org/10.1038/s43247-025-02686-3) [Behind the paper](https://communities.springernature.com/posts/a-simple-equation-for-a-long-standing-challenge-in-ocean-science).
 * MM Amirian, AJ Irwin. [piCurve: an R package for modelling photosynthesis-irradiance curves](https://arxiv.org/abs/2508.14321) arXiv:2508.14321 [10.48550/arXiv.2508.14321](https://doi.org/10.48550/arXiv.2508.14321)
 * Z-K Li, Y Zhang, AJ Irwin, ZV Finkel. [Polyploidization in diatoms accelerates adaptation to warming](../pubs/Li-2025-NCC.pdf). _Nat. Clim. Change._ [10.1038/s41558-025-02464-1](https://dx.doi.org/10.1038/s41558-025-02464-1), [News & Views](../pubs/Li-2025-NCC-NewsViews.pdf)
+* X Zhang, H Gu, A Irwin, T Kenney. Supervised spatial metric learning with applications to spatial clustering and spatial model prediction. _J. Geog. Sys._, in press.
 
 # 2024
 
