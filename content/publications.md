@@ -16,7 +16,7 @@ Publication and citation data:
 
 # 2026
 
-* YY Hu, AJ Irwin, ZV Finkel. Chemical stabilization of GF/F filters for measuring particulate phosphorus using the extra high-temperature dry combustion method. _Limnol. Ocean. Methods_, in press. 370030. [10.1002/lom3.70030](https://dx.doi.org/10.1002/lom3.70030)
+* YY Hu, AJ Irwin, ZV Finkel. [Chemical stabilization of GF/F filters for measuring particulate phosphorus using the extra high-temperature dry combustion method](../pubs/hu-2026-lom.pdf). _Limnol. Ocean. Methods_, in press. e70030. [10.1002/lom3.70030](https://dx.doi.org/10.1002/lom3.70030)
 
 # 2025
 
