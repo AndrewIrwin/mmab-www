@@ -31,9 +31,8 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Post-docs
 * Dr Mohammad Amirian ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
-* Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
 * Dr Fernando Rayon Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ), [ORCID](https://orcid.org/0000-0002-1622-2180))
-* Dr Nuwanthi Samarasinghe (Oceanography, nw914031 at dal.ca)
+* Dr Irene Romero Rodríguez ([ORCID](https://orcid.org/0009-0008-8637-6258))
 
 ## Graduate students
 * Mich De La Cruz (Ph.D. candidate, Oceanography)
@@ -48,6 +47,8 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 
 ## Past members
+  * Dr Nuwanthi Samarasinghe (Oceanography), now fermentation scientist at Alt-Pro Advantage
+  * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
   * Aaraya Aad 
   * Brian Beardsall (M.Sc., Computational Biology and Bioinformatics)
   * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), now a Research Scientist at Hafrannsóknastofnun - Marine & Freshwater Research Institute)
