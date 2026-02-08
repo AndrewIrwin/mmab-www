@@ -1,6 +1,6 @@
 ---
 Title: Dr Ruby Hu
-Date: 2019-05-18 12:00
+Date: 2019-05-18
 ---
 
 <span style="float:right">
