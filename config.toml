@@ -10,7 +10,7 @@ author = "Andrew Irwin"
 googleAnalytics = ""
 defaultContentLanguage = "en"
 language = "en-US"
-paginate = 5 # Number of posts per page
+pagination.pagerSize = 5 # Number of posts per page
 theme = "hugo-terrassa-theme"
 
 [blackfriday]
@@ -120,7 +120,7 @@ theme = "hugo-terrassa-theme"
         simple = false
     [privacy.twitter]
         disable = false
-        enableDNT = true
+        # enableDNT = true
         simple = false
     [privacy.vimeo]
         disable = false

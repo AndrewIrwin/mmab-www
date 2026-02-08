@@ -3,7 +3,7 @@ title: 'Publications from our lab'
 author: 'AJ Irwin'
 date: '2019-04-17'
 Menulabel: Publications
-Date: 2015-06-01 12:00
+Date: 2015-06-01
 Slug: publications
 ---
 
