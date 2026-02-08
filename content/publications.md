@@ -14,6 +14,10 @@ Publication and citation data:
  ORCID ([Irwin](http://orcid.org/0000-0001-7784-2319), [Finkel](http://orcid.org/0000-0003-4212-3917)),
  Scopus ([Irwin](https://www.scopus.com/authid/detail.uri?authorId=7007182936), [Finkel](https://www.scopus.com/authid/detail.uri?authorId=6602961240)).
 
+# 2026
+
+* YY Hu, AJ Irwin, ZV Finkel. [Chemical stabilization of GF/F filters for measuring particulate phosphorus using the extra high-temperature dry combustion method](../pubs/hu-2026-lom.pdf). _Limnol. Ocean. Methods_, in press. e70030. [10.1002/lom3.70030](https://dx.doi.org/10.1002/lom3.70030)
+
 # 2025
 
 * E Devred, S Clay, M Ringuette, T Perry, M Amirian, AJ Irwin, ZV Finkel.  [Net primary production in the Labrador Sea between 2014 and 2022 derived from ocean colour remote sensing based on ecological regimes](../pubs/devred-2025-rse.pdf). _Remote Sensing of Environment_, **323**: 114713. [10.1016/j.rse.2025.114713](https://doi.org/10.1016/j.rse.2025.114713)
