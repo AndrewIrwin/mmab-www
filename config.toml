@@ -11,7 +11,7 @@ googleAnalytics = ""
 defaultContentLanguage = "en"
 language = "en-US"
 pagination.pagerSize = 5 # Number of posts per page
-theme = "hugo-terrassa-theme"
+theme = "hugo-paper"
 
 [blackfriday]
    fractions = false
