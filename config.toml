@@ -7,11 +7,11 @@ publishDir = "docs"
 # title = "Marine Macroecology and Biogeochemistry Lab"
 title = "Marine Microbial Macroecology Lab"
 author = "Andrew Irwin"
-googleAnalytics = ""
+# googleAnalytics = ""
 defaultContentLanguage = "en"
 language = "en-US"
 pagination.pagerSize = 5 # Number of posts per page
-theme = "hugo-paper"
+theme = "PaperMod"
 
 [blackfriday]
    fractions = false
