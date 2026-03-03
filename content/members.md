@@ -1,7 +1,6 @@
 ---
 Title: Lab members
 Menulabel: Members
-Date: 2022-04-01
 ---
 
 Email addresses for lab members are listed below.
