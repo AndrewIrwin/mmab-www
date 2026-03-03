@@ -1,0 +1,17 @@
+/* Style Markdown-rendered links */
+.article-content a,
+.post-content a,
+.content a,
+.main a {
+    color: #0645AD;          /* standard web link blue */
+    # text-decoration: underline;
+}
+
+/* When you hover */
+.article-content a:hover,
+.post-content a:hover,
+.content a:hover,
+.main a:hover {
+    color: #0b0080;          /* darker blue */
+    #text-decoration: underline;
+}

@@ -13,7 +13,7 @@ Publication and citation data:
 
 # 2026
 
-* S Sharoni, K Inomura, S Dutkiewicz, O Jahn, ZV Finkel, AJ Irwin, MM Amirian, E Monier, MJ Follows. Biochemical remodeling of phytoplankton cell composition. _Nat. Clim. Ch._, in press.
+* S Sharoni, K Inomura, S Dutkiewicz, O Jahn, ZV Finkel, AJ Irwin, MM Amirian, E Monier, MJ Follows. Biochemical remodeling of phytoplankton cell composition. _Nat. Clim. Ch._, in press. [preprint](https://doi.org/10.21203/rs.3.rs-6782543/v1)
 * YY Hu, AJ Irwin, ZV Finkel. [Chemical stabilization of GF/F filters for measuring particulate phosphorus using the extra high-temperature dry combustion method](../pubs/hu-2026-lom.pdf). _Limnol. Ocean. Methods_, in press. e70030. [10.1002/lom3.70030](https://dx.doi.org/10.1002/lom3.70030)
 
 # 2025
