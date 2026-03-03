@@ -27,6 +27,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Technical staff:
 * Elisa Dai
+* Isabel Ross
 
 ## Post-docs
 * Dr Mohammad Amirian ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
