@@ -1,9 +1,6 @@
 ---
 title: 'Publications from our lab'
-author: 'AJ Irwin'
-date: '2019-04-17'
 Menulabel: Publications
-Date: 2015-06-01
 Slug: publications
 ---
 
@@ -16,7 +13,8 @@ Publication and citation data:
 
 # 2026
 
-* YY Hu, AJ Irwin, ZV Finkel. [Chemical stabilization of GF/F filters for measuring particulate phosphorus using the extra high-temperature dry combustion method](../pubs/hu-2026-lom.pdf). _Limnol. Ocean. Methods_, in press. e70030. [10.1002/lom3.70030](https://dx.doi.org/10.1002/lom3.70030)
+* S Sharoni, K Inomura, S Dutkiewicz, O Jahn, ZV Finkel, AJ Irwin, MM Amirian, E Monier, MJ Follows. [Biochemical remodeling of phytoplankton cell composition](../pubs/sharoni-2026-ncc.pdf). _Nat. Clim. Ch._, in press. [10.1038/s41558-026-02598-w](https://doi.org/10.1038/s41558-026-02598-w), [News & Views](https://doi.org/10.1038/s41558-026-02590-4), [MIT News](https://news.mit.edu/2026/climate-change-may-produce-fast-food-phytoplankton-0331), [preprint](https://doi.org/10.21203/rs.3.rs-6782543/v1)
+* YY Hu, AJ Irwin, ZV Finkel. [Chemical stabilization of GF/F filters for measuring particulate phosphorus using the extra high-temperature dry combustion method](../pubs/hu-2026-lom.pdf). _Limnol. Ocean. Methods_, **24**: e70030. [10.1002/lom3.70030](https://dx.doi.org/10.1002/lom3.70030)
 
 # 2025
 

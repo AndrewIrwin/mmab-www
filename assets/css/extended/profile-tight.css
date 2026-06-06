@@ -1,0 +1,29 @@
+/* Remove whitespace above and below the profile block */
+.profile {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Remove internal spacing inside profile content wrapper */
+.profile .profile_inner {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Remove spacing AND allow the profile block to shrink to fit */
+.first-entry,
+.home-info,
+.post-entry,
+.main,
+.main .container {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* Optional: remove bottom padding as well */
+.main,
+.main .container {
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+

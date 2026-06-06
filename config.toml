@@ -12,6 +12,8 @@ defaultContentLanguage = "en"
 language = "en-US"
 pagination.pagerSize = 5 # Number of posts per page
 theme = "PaperMod"
+# theme = "hugo-theme-cleanwhite-master"
+# theme = "gohugo-theme-ananke-main"
 
 [blackfriday]
    fractions = false
@@ -37,6 +39,11 @@ theme = "PaperMod"
     name = "Opportunities"
     url = "/opportunities"
     weight = 3
+  [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 4
 
 [outputs]
     home = ["HTML", "RSS"]
@@ -47,6 +54,14 @@ theme = "PaperMod"
     # favicon = "favicon.ico" # Relative URL
     favicon = "images/seawifs-white-128.png"
     logo = "" # Absolute URL
+    hideFooter = true
+    hideDate = true
+    hideDateInList = true
+    hideDateInSingle = true
+    homeInfoMode = false
+
+[params.assets]
+ css = ["css/extended/link-style.css", "css/extended/profile-tight.css"]
 
 [params.hero]
     textColor = "#000000" # Empty for default color
@@ -128,3 +143,17 @@ theme = "PaperMod"
     [privacy.youtube]
         disable = false
         privacyEnhanced = true
+
+# new papermod features
+# banner page, 2026-03-03
+[params.profileMode]
+  enabled = true
+  title = "Marine Microbial Macroecology Lab"
+  subtitle = "An Oceanography and Mathematical Sciences lab at Dalhousie University"
+  imageUrl = "/images/Stephanopyxis_turris_banner.jpg"
+  # imageWidth = 2000                 # optional — PaperMod supports custom sizes
+  # imageHeight = 800                 # optional
+  imageTitle = "Stephanopyxis turris"          # alt text
+
+
+

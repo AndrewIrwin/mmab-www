@@ -14,11 +14,17 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 0px;  /* was 10px AJI */
+    margin: 0 auto;
+    padding: 0;
+    max-width: none;
 }
 
 .profile img {
-    border-radius: 50%;
+    border-radius: 0%; /* was 50% AJI */
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 .buttons {
@@ -41,3 +47,43 @@
 .button:active {
     transform: scale(0.96);
 }
+
+/* AJI additions */
+
+/* Tighten the profile hero block on the landing page */
+.profile {
+  margin: 0;                 /* remove outer margin */
+  padding: 0;                /* remove outer padding */
+}
+
+.profile .profile_inner {
+  margin: 0 auto;            /* keep centered; remove extra top/bottom space */
+  padding: 0;
+  max-width: none;           /* let image span wider if you want */
+}
+
+/* Make the image full-width of its container and remove rounding */
+.profile img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border-radius: 0;          /* remove circle mask */
+  width: 100%;
+  height: auto;              /* preserve aspect ratio */
+  object-fit: cover;         /* useful if you later set a fixed height */
+}
+
+/* Optional: make the hero fill viewport height */
+.hero-banner,
+.profile {
+  min-height: 90vh;          /* adjust to taste */
+}
+
+/* Optional: reduce space below the hero block */
+.first-entry,
+.post-entry,
+.home-info {
+  margin-top: 0;
+  padding-top: 0;
+}
+
