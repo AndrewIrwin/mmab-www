@@ -46,17 +46,14 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 
 ## Past members
   * Elisa Dai
-  * Thomas Duck (Math & Stats, B.Sc. Honours)
-  * Dr Mohammad Amirian ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#), M.Amirianmatlob at dal.ca)
-  * Dr Nuwanthi Samarasinghe (Oceanography), now fermentation scientist at Alt-Pro Advantage
+  * Thomas Duck (Math & Stats, B.Sc. Honours), now M.Sc. student at SFU
+  * Dr Mohammad Amirian (PhD Statistics, PDF; [Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#)), now PDF at CUNY
+  * Dr Nuwanthi Samarasinghe (PhD Oceanography; PDF), now fermentation scientist at Alt-Pro Advantage
   * Dr Peyman Fahimi ([Google scholar](https://scholar.google.com/citations?user=YonkS68AAAAJ))
   * Aaraya Aad 
   * Brian Beardsall (M.Sc., Computational Biology and Bioinformatics)
   * [Dr Niall McGinty](../people/mcginty) ([Google scholar](https://scholar.google.ca/citations?user=P5Jc4icAAAAJ), [ORCID](https://orcid.org/0000-0002-2505-2531), now a Research Scientist at Hafrannsóknastofnun - Marine & Freshwater Research Institute)
-  * Dr Nuwanthi Samarasinghe (Ph.D., Oceanography)
-  * Dr Mohammad Amirian (Ph.D, Statistics) ([Google scholar](https://scholar.google.com/citations?user=XoNa1sIAAAAJ&hl=en#))
   * Dr Dany Croteau ([Google scholar](https://scholar.google.com/citations?user=50jJ_UwAAAAJ))
-  * Elisa Dai
   * Kevan Merrow (M.Sc., Oceanography, now at Planentary)
   * Pixie Owen
   * Artem Dzhulai
