@@ -10,10 +10,11 @@
 
 ### Phosphate
 
-* An X-HTDC method for estimating particulate phosphorus from microalgae (YY Hu, ZF Finkel, 2022) [10.17504/protocols.io.kqdg35dq7v25/v6](https://dx.doi.org/10.17504/protocols.io.kqdg35dq7v25/v6)
+* An X-HTDC method for estimating particulate phosphorus from microalgae (YY Hu, ZV Finkel, 2022) [10.17504/protocols.io.kqdg35dq7v25/v6](https://dx.doi.org/10.17504/protocols.io.kqdg35dq7v25/v6)
 * Inorganic polyphosphate in microalgae: A DAPI-based quantification in microtiter plate (YY Hu, ZV Finkel, 2022) [protocols.io](https://www.protocols.io/view/inorganic-polyphosphate-from-microalgae-a-dapi-bas-n2bvjy3rpvk5/v6)
 * Extraction and measurement of polyphosphate and inorganic phosphorus from microalgae samples (YY Hu, ZV Finkel, 2025) [10.17504/protocols.io.q26g7pzdqgwz/v1](https://dx.doi.org/10.17504/protocols.io.q26g7pzdqgwz/v1)
 * DAPI-Based Polyphosphate Estimation with Extraction Sufficiency Validation: A Method for Quantifying Polyphosphate from Microalgae Samples (YY Hu, ZV Finkel, 2023) [10.17504/protocols.io.ewov1ox87lr2/v1](https://dx.doi.org/10.17504/protocols.io.ewov1ox87lr2/v1)
+* A Chain-Length-Independent Method for Particulate Polyphosphate Quantification from Phytoplankton (YY Hu, ZV Finkel) [10.17504/protocols.io.kqdg3mow7l25](https://dx.doi.org/10.17504/protocols.io.kqdg3mow7l25/v1)
 
 ### Carbohydrate
 
@@ -34,6 +35,9 @@
 
 * Total RNA and DNA in microalgae (YY Hu, ZV Finkel, 2022) [10.17504/protocols.io.6qpvro85bvmk/v12](https://dx.doi.org/10.17504/protocols.io.6qpvro85bvmk/v12)
 
+### Zooplankton sampling
+
+* Zooplankton Collection and Processing for Elemental Composition: Methods for Abundance, Water Content, and Sample Preparation (YY Hu, K Merrow, A Aad, ZV Finkel) [10.17504/protocols.io.6qpvr3qq2vmk](https://dx.doi.org/10.17504/protocols.io.6qpvr3qq2vmk/v1)
 
 ### Related protocols
 
