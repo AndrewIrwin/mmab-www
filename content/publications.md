@@ -17,6 +17,7 @@ Publication and citation data:
 * YY Hu, AJ Irwin, ZV Finkel. [Chemical stabilization of GF/F filters for measuring particulate phosphorus using the extra high-temperature dry combustion method](../pubs/hu-2026-lom.pdf). _Limnol. Ocean. Methods_, **24**: e70030. [10.1002/lom3.70030](https://dx.doi.org/10.1002/lom3.70030)
 * P Fahimi, MM Amirian, AJ Irwin, ZV Finkel. [Carbon-to-ATP Ratios Across the Kingdoms of Life](../pubs/fahimi-2026-iscience-atp.pdf). _iScience_ **29**: 116849. [10.1016/j.isci.2026.116849](https://doi.org/10.1016/j.isci.2026.116849)
 * S Tuo, YY Hu, AJ Irwin, MJ Follows, ZV Finkel. [Phosphate modulates elemental and macromolecular composition of unicellular nitrogen-fixing cyanobacteria](../pubs/tuo-2026-lo.pdf). _Limnol. Ocean._ **71**: e70475. [10.1002/lno.70475](https://dx.doi.org/10.1002/lno.70475)
+* P Fahimi, AJ Irwin, M Lynch. Costs and benefits of phytoplankton motility. _Physics of Life Reviews_, in press.
 
 # 2025
 
