@@ -19,7 +19,7 @@ Publication and citation data:
 * S Tuo, YY Hu, AJ Irwin, MJ Follows, ZV Finkel. [Phosphate modulates elemental and macromolecular composition of unicellular nitrogen-fixing cyanobacteria](../pubs/tuo-2026-lo.pdf). _Limnol. Ocean._ **71**: e70475. [10.1002/lno.70475](https://dx.doi.org/10.1002/lno.70475)
 * P Fahimi, AJ Irwin, M Lynch. Costs and benefits of phytoplankton motility. _Physics of Life Reviews_, in press. [10.1016/j.plrev.2026.08.004](https://doi.org/10.1016/j.plrev.2026.08.004)
 * ZV Finkel, AJ Irwin, M Amirian, S Sharoni, MJ Follows. A macromolecular evaluation of the growth rate hypothesis in the ocean. _Proceedings B_, in press. [10.10.1098/rspb.2026.2080](https://dx.doi.org/10.1098/rspb.2026.2080)
-* MM Amirian, E Devred, S Clay, ZV Finkel, AJ Irwin. A Compilation of Marine Photosynthesis–Irradiance Data from 14C Incubation Experiments. _Earth Sys. Sci. Data Discuss._ [10.5194/essd-2026-651](https://doi.org/10.5194/essd-2026-651)
+* MM Amirian, E Devred, S Clay, ZV Finkel, AJ Irwin. A Compilation of Marine Photosynthesis–Irradiance Data from <sup>14</sup>C Incubation Experiments. _Earth Sys. Sci. Data Discuss._ [10.5194/essd-2026-651](https://doi.org/10.5194/essd-2026-651)
 
 
 # 2025
