@@ -20,6 +20,7 @@ Publication and citation data:
 * P Fahimi, AJ Irwin, M Lynch. Costs and benefits of phytoplankton motility. _Physics of Life Reviews_, in press. [10.1016/j.plrev.2026.08.004](https://doi.org/10.1016/j.plrev.2026.08.004)
 * ZV Finkel, AJ Irwin, M Amirian, S Sharoni, MJ Follows. A macromolecular evaluation of the growth rate hypothesis in the ocean. _Proceedings B_, in press. [10.10.1098/rspb.2026.2080](https://dx.doi.org/10.1098/rspb.2026.2080)
 * MM Amirian, E Devred, S Clay, ZV Finkel, AJ Irwin. A Compilation of Marine Photosynthesis–Irradiance Data from <sup>14</sup>C Incubation Experiments. _Earth Sys. Sci. Data Discuss._ [10.5194/essd-2026-651](https://doi.org/10.5194/essd-2026-651)
+* N McGinty, AJ Irwin, CL Johnson.  [Environmental forcing reshapes copepod functional diversity in the Northwest Atlantic](../pubs/mcginty-2026-jpr.pdf). _J Plank Res_ **48**: fbag065. [10.1093/plankt/fbag065](https://doi.org/10.1093/plankt/fbag065)
 
 
 # 2025
