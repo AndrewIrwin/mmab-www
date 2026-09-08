@@ -22,6 +22,10 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ([Google scholar](http://scholar.google.com/citations?user=wFFLMuUAAAAJ&hl=en),
  [ORCID](https://orcid.org/0000-0001-7784-2319), email: a.irwin at dal.ca.) 
 
+## Visitors
+
+* Dr Gwenn Hennon (U Alaska, Fairbanks, [Google scholar](https://scholar.google.com/citations?user=QP7jEswAAAAJ&hl=en))
+
 ## Lab manager
 * [Dr Ruby Hu](../people/hu) ([ORCID](https://orcid.org/0000-0002-7500-7237), email: Ruby.Hu at dal.ca)
 
