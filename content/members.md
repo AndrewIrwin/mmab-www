@@ -34,7 +34,7 @@ I use mathematical and statistical models to study the marine biosphere, phytopl
 ## Post-docs
 * Dr Benjamin Granzow ([Google scholar](https://scholar.google.com/citations?user=4LA6hPkAAAAJ), [ORCID](https://orcid.org/0000-0001-5241-4254)) 
 * Dr Manon Laget ([Google scholar](https://scholar.google.com/citations?user=EJBI0T4AAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-1983-5334))
-* Dr Fernando Rayon Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ), [ORCID](https://orcid.org/0000-0002-1622-2180))
+* Dr Fernando Rayón Viña ([Google scholar](https://scholar.google.com/citations?user=CTlje38AAAAJ), [ORCID](https://orcid.org/0000-0002-1622-2180))
 * Dr Irene Romero Rodríguez ([ORCID](https://orcid.org/0009-0008-8637-6258))
 
 ## Graduate students
