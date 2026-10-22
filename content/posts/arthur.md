@@ -11,7 +11,7 @@ tags: [ Lab ]
 Arthur the weiner dog won both (a) scariest Hallowe'en costume and (b) longest weiner dog (17 inches) in Halifax.
 
 
-![Arhtur and competitors](/images/labgroup/arthur-2026-best-weiner.jpeg 
+![Arthur and competitors](/images/labgroup/arthur-2026-best-weiner.jpeg)
 
 
 
