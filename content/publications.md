@@ -21,7 +21,7 @@ Publication and citation data:
 * ZV Finkel, AJ Irwin, M Amirian, S Sharoni, MJ Follows. A macromolecular evaluation of the growth rate hypothesis in the ocean. _Proceedings B_, in press. [10.10.1098/rspb.2026.2080](https://dx.doi.org/10.1098/rspb.2026.2080)
 * MM Amirian, E Devred, S Clay, ZV Finkel, AJ Irwin. A Compilation of Marine Photosynthesis–Irradiance Data from <sup>14</sup>C Incubation Experiments. _Earth Sys. Sci. Data Discuss._ [10.5194/essd-2026-651](https://doi.org/10.5194/essd-2026-651)
 * N McGinty, AJ Irwin, CL Johnson.  [Environmental forcing reshapes copepod functional diversity in the Northwest Atlantic](../pubs/mcginty-2026-jpr.pdf). _J Plank Res_ **48**: fbag065. [10.1093/plankt/fbag065](https://doi.org/10.1093/plankt/fbag065)
-* K Kam, E Devred, S Clay, M Amirian, AJ Irwin, D Atamanchuk, U Send, D Wallace. Resolving satellite and in situ mismatches in Net Primary Production using high-frequency in situ bio-optical observations in the subpolar Northwest Atlantic. _Remote Sensing_, in press.
+* K Kam, E Devred, S Clay, M Amirian, AJ Irwin, D Atamanchuk, U Send, D Wallace. [Resolving satellite and in situ mismatches in Net Primary Production using high-frequency in situ bio-optical observations in the subpolar Northwest Atlantic](../pubs/kam-2026-rem-sens.pdf). _Remote Sensing_ **18**: 3681. [10.3390/rs18213681](https://doi.org/10.3390/rs18213681)
 
 
 # 2025
